@@ -3,6 +3,8 @@ import json
 import bs4
 import os
 import sys
+import re
+import unicodedata
 
 os.chdir(os.path.split(os.path.realpath(sys.argv[0]))[0])
 
@@ -24,9 +26,11 @@ def generate():
     continents.pop(0)
     for continent in continents:
         for div in continent.find('div', {'class': 'child-components-container'}).find_all('div'):
-            span = div.find('span').text
-            name = span.split('-')[0].strip()
-            colo = span.split('-')[1].strip().replace('(', '').replace(')', '')
+            span = div.find('span').get_text(strip=True)
+            span = unicodedata.normalize("NFKD", span)
+            regex = re.search(r'^([\s\S]+) +- +\(([A-Z]{3})\)$', span)
+            name = regex.group(1)
+            colo = regex.group(2)
             data[colo] = name
     return data
 
