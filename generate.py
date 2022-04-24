@@ -34,7 +34,7 @@ def generate():
             data[colo] = {}
             data[colo]['name'] = name
     speed_locations = json.loads(get('https://speed.cloudflare.com/locations').text)
-    for location in locations:
+    for location in speed_locations:
         iata = location['iata']
         if iata in data:
             data[iata].update(location)
