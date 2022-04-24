@@ -31,7 +31,19 @@ def generate():
             regex = re.search(r'^([\s\S]+) +- +\(([A-Z]{3})\)$', span)
             name = regex.group(1)
             colo = regex.group(2)
-            data[colo] = name
+            data[colo] = {}
+            data[colo]['name'] = name
+    speed_locations = json.loads(get('https://speed.cloudflare.com/locations').text)
+    for location in locations:
+        iata = location['iata']
+        if iata in data:
+            data[iata].update(location)
+            del data[iata]['iata']
+        else:
+            print(iata, 'not found in cloudflare status')
+            data[iata] = location
+            data[iata]['name'] = location['city'] + ', ' + location['cca2']
+            del data[iata]['iata']
     return data
 
 
