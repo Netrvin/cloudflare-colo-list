@@ -1,4 +1,4 @@
 # cloudflare-colo-list
-A list generated from Cloudflare Status containing colo codes and names  
+A list containing Cloudflare colo codes and locations
   
 The list is regenerated daily
