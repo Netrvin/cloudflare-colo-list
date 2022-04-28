@@ -1439,6 +1439,14 @@
         "name": "Bucharest, Romania",
         "region": "Europe"
     },
+    "OUA": {
+        "cca2": "BF",
+        "city": "Ouagadougou",
+        "lat": 12.3531999588,
+        "lon": -1.5124200583,
+        "name": "Ouagadougou, BF",
+        "region": "Africa"
+    },
     "PAP": {
         "cca2": "HT",
         "city": "Port-au-Prince",
