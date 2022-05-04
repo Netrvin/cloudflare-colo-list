@@ -1391,6 +1391,14 @@
         "name": "Tokyo, Japan",
         "region": "Asia Pacific"
     },
+    "OKA": {
+        "cca2": "JP",
+        "city": "Naha",
+        "lat": 26.1958,
+        "lon": 127.646,
+        "name": "Naha, JP",
+        "region": "Asia Pacific"
+    },
     "OMA": {
         "cca2": "US",
         "city": "Omaha",
