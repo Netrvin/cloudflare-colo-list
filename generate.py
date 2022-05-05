@@ -34,6 +34,7 @@ def generate():
             data[colo] = {}
             data[colo]['name'] = name
     speed_locations = json.loads(get('https://speed.cloudflare.com/locations').text)
+    country_codes = json.load(open('country.json', 'r', encoding='utf-8'))
     for location in speed_locations:
         iata = location['iata']
         if iata in data:
@@ -42,7 +43,7 @@ def generate():
         else:
             print(iata, 'not found in cloudflare status')
             data[iata] = location
-            data[iata]['name'] = location['city'] + ', ' + location['cca2']
+            data[iata]['name'] = location['city'] + ', ' + country_codes[location['cca2']]
             del data[iata]['iata']
     return data
 
