@@ -245,7 +245,7 @@
         "city": "Basra",
         "lat": 30.5491008759,
         "lon": 47.6621017456,
-        "name": "Basra, IQ",
+        "name": "Basra, Iraq",
         "region": "Middle East"
     },
     "BTS": {
@@ -253,7 +253,7 @@
         "city": "Bratislava",
         "lat": 17.1077,
         "lon": 48.1486,
-        "name": "Bratislava, SK",
+        "name": "Bratislava, Slovakia",
         "region": "Europe"
     },
     "BUD": {
@@ -350,7 +350,7 @@
         "city": "Cagayan de Oro",
         "lat": 8.4156198502,
         "lon": 124.611000061,
-        "name": "Cagayan de Oro, PH",
+        "name": "Cagayan de Oro, Philippines",
         "region": "Asia Pacific"
     },
     "CLT": {
@@ -406,7 +406,7 @@
         "city": "Córdoba",
         "lat": -31.31,
         "lon": -64.208333,
-        "name": "Córdoba, AR",
+        "name": "Córdoba, Argentina",
         "region": "South America"
     },
     "CPH": {
@@ -648,7 +648,7 @@
         "city": "Georgetown",
         "lat": 6.825648,
         "lon": -58.163756,
-        "name": "Georgetown, GY",
+        "name": "Georgetown, Guyana",
         "region": "South America"
     },
     "GIG": {
@@ -696,7 +696,7 @@
         "city": "Hagatna",
         "lat": 13.4834003448,
         "lon": 144.796005249,
-        "name": "Hagatna, GU",
+        "name": "Hagatna, Guam",
         "region": "Asia Pacific"
     },
     "GVA": {
@@ -895,7 +895,7 @@
         "city": "Jeddah",
         "lat": 21.679599762,
         "lon": 39.15650177,
-        "name": "Jeddah, SA",
+        "name": "Jeddah, Saudi Arabia",
         "region": "Middle East"
     },
     "JHB": {
@@ -1225,7 +1225,7 @@
         "city": "Mandalay",
         "lat": 39.2276,
         "lon": -74.63704,
-        "name": "Mandalay, MM",
+        "name": "Mandalay, Myanmar (Burma)",
         "region": "Asia Pacific"
     },
     "MEL": {
@@ -1404,7 +1404,7 @@
         "city": "Naha",
         "lat": 26.1958,
         "lon": 127.646,
-        "name": "Naha, JP",
+        "name": "Naha, Japan",
         "region": "Asia Pacific"
     },
     "OMA": {
@@ -1460,7 +1460,7 @@
         "city": "Ouagadougou",
         "lat": 12.3531999588,
         "lon": -1.5124200583,
-        "name": "Ouagadougou, BF",
+        "name": "Ouagadougou, Burkina Faso",
         "region": "Africa"
     },
     "PAP": {
@@ -1679,7 +1679,7 @@
         "city": "San Francisco",
         "lat": 37.6189994812,
         "lon": -122.375,
-        "name": "San Francisco, US",
+        "name": "San Francisco, United States",
         "region": "North America"
     },
     "SGN": {
@@ -1983,7 +1983,7 @@
         "city": "Nasiriyah",
         "lat": 30.9358005524,
         "lon": 46.0900993347,
-        "name": "Nasiriyah, IQ",
+        "name": "Nasiriyah, Iraq",
         "region": "Middle East"
     },
     "XNN": {
