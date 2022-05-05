@@ -240,6 +240,14 @@
         "name": "Brasilia, Brazil",
         "region": "South America"
     },
+    "BSR": {
+        "cca2": "IQ",
+        "city": "Basra",
+        "lat": 30.5491008759,
+        "lon": 47.6621017456,
+        "name": "Basra, IQ",
+        "region": "Middle East"
+    },
     "BTS": {
         "cca2": "SK",
         "city": "Bratislava",
@@ -1969,6 +1977,14 @@
     },
     "XIY": {
         "name": "Baoji, China"
+    },
+    "XNH": {
+        "cca2": "IQ",
+        "city": "Nasiriyah",
+        "lat": 30.9358005524,
+        "lon": 46.0900993347,
+        "name": "Nasiriyah, IQ",
+        "region": "Middle East"
     },
     "XNN": {
         "name": "Xining, China"
