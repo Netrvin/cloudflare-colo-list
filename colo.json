@@ -1372,6 +1372,14 @@
         "name": "Nairobi, Kenya",
         "region": "Africa"
     },
+    "NJF": {
+        "cca2": "IQ",
+        "city": "Najaf",
+        "lat": 31.989722,
+        "lon": 44.404167,
+        "name": "Najaf, Iraq",
+        "region": "Middle East"
+    },
     "NKG": {
         "name": "Suqian, China"
     },
