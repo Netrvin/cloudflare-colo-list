@@ -25,12 +25,12 @@ def generate():
     continents = soup.find_all('div', recursive=False)
     continents.pop(0)
     for continent in continents:
-        for div in continent.find('div', {'class': 'child-components-container'}).find_all('div'):
+        for div in continent.find('div', {'class': 'child-components-container'}).find_all('div', recursive=False):
             span = div.find('span').get_text(strip=True)
             span = unicodedata.normalize("NFKD", span)
-            regex = re.search(r'^([\s\S]+) +- +\(([A-Z]{3})\)$', span)
+            regex = re.search(r'^([\s\S]+?)( +-)? +\(([A-Z]{3})\)$', span)
             name = regex.group(1)
-            colo = regex.group(2)
+            colo = regex.group(3)
             data[colo] = {}
             data[colo]['name'] = name
     speed_locations = json.loads(get('https://speed.cloudflare.com/locations').text)
