@@ -1,0 +1,283 @@
+colo,name,lat,lon,cca2,region,city
+ACC,"Accra, Ghana",5.614818,-0.205874,GH,Africa,Accra
+ALG,"Algiers, Algeria",36.6910018921,3.2154099941,DZ,Africa,Algiers
+TNR,"Antananarivo, Madagascar",-18.91368,47.53613,MG,Africa,Antananarivo
+CPT,"Cape Town, South Africa",-33.9648017883,18.6016998291,ZA,Africa,Cape Town
+CMN,"Casablanca, Morocco",33.3675003052,-7.5899701118,MA,Africa,Casablanca
+DKR,"Dakar, Senegal",14.7412099,-17.4889771,SN,Africa,Dakar
+DAR,"Dar Es Salaam, Tanzania",-6.8781099319,39.2025985718,TZ,Africa,Dar es Salaam
+JIB,"Djibouti City, Djibouti",11.5473003387,43.1595001221,DJ,Africa,Djibouti
+DUR,"Durban, South Africa",-29.6144444444,31.1197222222,ZA,Africa,Durban
+HRE,"Harare, Zimbabwe",-17.9318008423,31.0928001404,ZW,Africa,Harare
+JNB,"Johannesburg, South Africa",-26.133333,28.25,ZA,Africa,Johannesburg
+KGL,"Kigali, Rwanda",-1.9686299563,30.1394996643,RW,Africa,Kigali
+LOS,"Lagos, Nigeria",6.5773701668,3.321160078,NG,Africa,Lagos
+LAD,"Luanda, Angola",-8.8583698273,13.2312002182,AO,Africa,Luanda
+MPM,"Maputo, Mozambique",-25.9207992554,32.5726013184,MZ,Africa,Maputo
+MBA,"Mombasa, Kenya",-4.0348300934,39.5942001343,KE,Africa,Mombasa
+ROB,"Monrovia, Liberia",6.239127,-10.35462,LR,Africa,Monrovia
+NBO,"Nairobi, Kenya",-1.319239974,36.9277992249,KE,Africa,Nairobi
+MRU,"Port Louis, Mauritius",-20.4302005768,57.6836013794,MU,Africa,Port Louis
+RUN,"Réunion, France",-20.8871002197,55.5102996826,RE,Africa,Saint-Denis
+TUN,"Tunis, Tunisia",36.8510017395,10.2271995544,TN,Africa,Tunis
+AMD,"Ahmedabad, India",23.0225,72.5714,IN,Asia Pacific,Ahmedabad
+ALA,"Almaty, Kazakhstan",43.3521003723,77.0404968262,KZ,Asia Pacific,Almaty
+AQG,"Anqing, China",,,,,
+BLR,"Bangalore, India",13.7835719,76.6165937,IN,Asia Pacific,Bangalore
+BKK,"Bangkok, Thailand",13.6810998917,100.747001648,TH,Asia Pacific,Bangkok
+BWN,"Bandar Seri Begawan, Brunei",4.903052,114.939819,BN,Asia Pacific,Bandar Seri Begawan
+XIY,"Baoji, China",,,,,
+BBI,"Bhubaneswar, India",20.2961,85.8245,IN,Asia Pacific,Bhubaneswar
+CEB,"Cebu, Philippines",10.3074998856,123.978996277,PH,Asia Pacific,Cebu
+IXC,"Chandigarh, IN",30.673500061,76.7884979248,IN,Asia Pacific,Chandigarh
+CGD,"Changde, China",,,,,
+CSX,"Changsha, China",,,,,
+CZX,"Changzhou, China",,,,,
+CTU,"Chengdu, China",,,,,
+MAA,"Chennai, India",12.9900054932,80.1692962646,IN,Asia Pacific,Chennai
+CNX,"Chiang Mai, Thailand",18.7667999268,98.962600708,TH,Asia Pacific,Chiang Mai
+CGP,"Chittagong, Bangladesh",22.2495995,91.8133011,BD,Asia Pacific,Chittagong
+CMB,"Colombo, Sri Lanka",7.1807599068,79.8841018677,LK,Asia Pacific,Colombo
+DLC,"Dalian, China",,,,,
+DAC,"Dhaka, Bangladesh",23.843347,90.397783,BD,Asia Pacific,Dhaka
+FUO,"Foshan, China",,,,,
+FOC,"Fuzhou, China",,,,,
+CAN,"Guangzhou, China",,,,,
+KWE,"Guiyang, China",,,,,
+HAK,"Haikou, China",,,,,
+HAN,"Hanoi, Vietnam",21.221200943,105.806999206,VN,Asia Pacific,Hanoi
+SJW,"Hengshui, China",,,,,
+SGN,"Ho Chi Minh City, Vietnam",10.8187999725,106.652000427,VN,Asia Pacific,Ho Chi Minh City
+HET,"Hohhot, China",,,,,
+HKG,Hong Kong,22.3089008331,113.915000916,HK,Asia Pacific,Hong Kong
+HFE,"Huainan, China",,,,,
+HYD,"Hyderabad, India",17.2313175201,78.4298553467,IN,Asia Pacific,Hyderabad
+ISB,"Islamabad, Pakistan",33.6166992188,73.0991973877,PK,Asia Pacific,Islamabad
+CGK,"Jakarta, Indonesia",-6.1275229,106.6515118,ID,Asia Pacific,Jakarta
+JSR,"Jashore, Bangladesh",23.1837997437,89.1607971191,BD,Asia Pacific,Jashore
+TNA,"Jinan, China",,,,,
+HGH,"Jinhua, China",,,,,
+JHB,"Johor Bahru, Malaysia",1.635848,103.665943,MY,Asia Pacific,Johor Bahru
+KNU,"Kanpur, India",26.4499,80.3319,IN,Asia Pacific,Kanpur
+KHI,"Karachi, Pakistan",24.9064998627,67.1607971191,PK,Asia Pacific,Karachi
+KTM,"Kathmandu, Nepal",27.6965999603,85.3591003418,NP,Asia Pacific,Kathmandu
+KHV,"Khabarovsk, Russia",48.5279998779,135.18800354,RU,Asia Pacific,Khabarovsk
+CCU,"Kolkata, India",22.6476933,88.4349249,IN,Asia Pacific,Kolkata
+KJA,"Krasnoyarsk, Russia",56.0153,92.8932,RU,Asia Pacific,Krasnoyarsk
+KUL,"Kuala Lumpur, Malaysia",2.745579958,101.709999084,MY,Asia Pacific,Kuala Lumpur
+LHE,"Lahore, Pakistan",31.5216007233,74.4036026001,PK,Asia Pacific,Lahore
+PKX,"Langfang, China",,,,,
+LHW,"Lanzhou, China",,,,,
+LYA,"Luoyang, China",,,,,
+MFM,Macau,22.1495990753,113.592002869,MO,Asia Pacific,Macau
+MLE,"Malé, Maldives",4.1748,73.50888,MV,Asia Pacific,Male
+MNL,"Manila, Philippines",14.508600235,121.019996643,PH,Asia Pacific,Manila
+BOM,"Mumbai, India",19.0886993408,72.8678970337,IN,Asia Pacific,Mumbai
+NAG,"Nagpur, India",21.1610714,79.0024702,IN,Asia Pacific,Nagpur
+DEL,"New Delhi, India",28.5664997101,77.1031036377,IN,Asia Pacific,New Delhi
+KIX,"Osaka, Japan",34.4272994995,135.244003296,JP,Asia Pacific,Osaka
+PAT,"Patna, India",25.591299057,85.0879974365,IN,Asia Pacific,Patna
+PNH,"Phnom Penh, Cambodia",11.5466003418,104.84400177,KH,Asia Pacific,Phnom Penh
+TAO,"Qingdao, China",,,,,
+BPE,"Qinhuangdao, China",,,,,
+JJN,"Quanzhou, China",,,,,
+JUZ,"Quzhou, China",,,,,
+ICN,"Seoul, South Korea",37.4691009521,126.450996399,KR,Asia Pacific,Seoul
+SHA,"Shanghai, China",,,,,
+WDS,"Shiyan, China",,,,,
+SIN,"Singapore, Singapore",1.3501900434,103.994003296,SG,Asia Pacific,Singapore
+URT,"Surat Thani, Thailand",9.1325998306,99.135597229,TH,Asia Pacific,Surat Thani
+NKG,"Suqian, China",,,,,
+TPE,Taipei,25.0776996613,121.233001709,TW,Asia Pacific,Taipei
+HYN,"Taizhou, China",,,,,
+TAS,"Tashkent, Uzbekistan",41.257900238,69.2811965942,UZ,Asia Pacific,Tashkent
+PBH,"Thimphu, Bhutan",27.4712,89.6339,BT,Asia Pacific,Thimphu
+TSN,"Tianjin, China",,,,,
+NRT,"Tokyo, Japan",35.7647018433,140.386001587,JP,Asia Pacific,Tokyo
+ULN,"Ulaanbaatar, Mongolia",47.8431015015,106.766998291,MN,Asia Pacific,Ulaanbaatar
+VTE,"Vientiane, Laos",17.9757,102.5683,LA,Asia Pacific,Vientiane
+WUX,"Wuxi, China",,,,,
+XNN,"Xining, China",,,,,
+KHN,"Xinyu, China",,,,,
+RGN,"Yangon, Myanmar",16.9073009491,96.1332015991,MM,Asia Pacific,Yangon
+EVN,"Yerevan, Armenia",40.1473007202,44.3959007263,AM,Asia Pacific,Yerevan
+YIH,"Yichang, China",,,,,
+JOG,"Yogyakarta, Indonesia",-7.7881798744,110.4319992065,ID,Asia Pacific,Yogyakarta
+CGO,"Zhengzhou, China",,,,,
+AMS,"Amsterdam, Netherlands",52.3086013794,4.7638897896,NL,Europe,Amsterdam
+ATH,"Athens, Greece",37.9364013672,23.9444999695,GR,Europe,Athens
+BCN,"Barcelona, Spain",41.2971000671,2.0784599781,ES,Europe,Barcelona
+BEG,"Belgrade, Serbia",44.8184013367,20.3090991974,RS,Europe,Belgrade
+TXL,"Berlin, Germany",52.5597000122,13.2876996994,DE,Europe,Berlin
+BRU,"Brussels, Belgium",50.9014015198,4.4844398499,BE,Europe,Brussels
+OTP,"Bucharest, Romania",44.5722007751,26.1021995544,RO,Europe,Bucharest
+BUD,"Budapest, Hungary",47.4369010925,19.2555999756,HU,Europe,Budapest
+KIV,"Chișinău, Moldova",46.9277000427,28.9309997559,MD,Europe,Chișinău
+CPH,"Copenhagen, Denmark",55.6179008484,12.6560001373,DK,Europe,Copenhagen
+ORK,"Cork, Ireland",51.8413009644,-8.491109848,IE,Europe,Cork
+DUB,"Dublin, Ireland",53.4212989807,-6.270070076,IE,Europe,Dublin
+DUS,"Düsseldorf, Germany",51.2895011902,6.7667798996,DE,Europe,Düsseldorf
+EDI,"Edinburgh, United Kingdom",55.9500007629,-3.3724999428,GB,Europe,Edinburgh
+FRA,"Frankfurt, Germany",50.0264015198,8.543129921,DE,Europe,Frankfurt
+GVA,"Geneva, Switzerland",46.2380981445,6.1089501381,CH,Europe,Geneva
+GOT,"Gothenburg, Sweden",57.6627998352,12.279800415,SE,Europe,Gothenburg
+HAM,"Hamburg, Germany",53.6304016113,9.9882297516,DE,Europe,Hamburg
+HEL,"Helsinki, Finland",60.317199707,24.963300705,FI,Europe,Helsinki
+IST,"Istanbul, Turkey",40.9768981934,28.8145999908,TR,Europe,Istanbul
+KBP,"Kyiv, Ukraine",50.3450012207,30.8946990967,UA,Europe,Kyiv
+LIS,"Lisbon, Portugal",38.7812995911,-9.1359195709,PT,Europe,Lisbon
+LHR,"London, United Kingdom",51.4706001282,-0.4619410038,GB,Europe,London
+LUX,"Luxembourg City, Luxembourg",49.6265983582,6.211520195,LU,Europe,Luxembourg City
+MAD,"Madrid, Spain",40.4936,-3.56676,ES,Europe,Madrid
+MAN,"Manchester, United Kingdom",53.3536987305,-2.2749500275,GB,Europe,Manchester
+MRS,"Marseille, France",43.439271922,5.2214241028,FR,Europe,Marseille
+MXP,"Milan, Italy",45.6305999756,8.7281103134,IT,Europe,Milan
+MSQ,"Minsk, Belarus",53.9006,27.599,BY,Europe,Minsk
+DME,"Moscow, Russia",55.4087982178,37.9062995911,RU,Europe,Moscow
+MUC,"Munich, Germany",48.3538017273,11.7861003876,DE,Europe,Munich
+LCA,"Nicosia, Cyprus",34.8750991821,33.6249008179,CY,Europe,Nicosia
+OSL,"Oslo, Norway",60.193901062,11.100399971,NO,Europe,Oslo
+PMO,"Palermo, Italy",38.16114,13.31546,IT,Europe,Palermo
+CDG,"Paris, France",49.0127983093,2.5499999523,FR,Europe,Paris
+PRG,"Prague, Czech Republic",50.1007995605,14.2600002289,CZ,Europe,Prague
+KEF,"Reykjavík, Iceland",63.9850006104,-22.6056003571,IS,Europe,Reykjavík
+RIX,"Riga, Latvia",56.9235992432,23.9710998535,LV,Europe,Riga
+FCO,"Rome, Italy",41.8045005798,12.2508001328,IT,Europe,Rome
+LED,"Saint Petersburg, Russia",59.8003005981,30.2625007629,RU,Europe,Saint Petersburg
+SOF,"Sofia, Bulgaria",42.6966934204,23.4114360809,BG,Europe,Sofia
+ARN,"Stockholm, Sweden",59.6519012451,17.9186000824,SE,Europe,Stockholm
+TLL,"Tallinn, Estonia",59.4132995605,24.8327999115,EE,Europe,Tallinn
+TBS,"Tbilisi, Georgia",41.6692008972,44.95470047,GE,Europe,Tbilisi
+SKG,"Thessaloniki, Greece",40.5196990967,22.9708995819,GR,Europe,Thessaloniki
+VIE,"Vienna, Austria",48.1102981567,16.5697002411,AT,Europe,Vienna
+VNO,"Vilnius, Lithuania",54.6341018677,25.2858009338,LT,Europe,Vilnius
+WAW,"Warsaw, Poland",52.1656990051,20.9671001434,PL,Europe,Warsaw
+SVX,"Yekaterinburg, Russia",56.8431,60.6454,RU,Asia Pacific,Yekaterinburg
+ZAG,"Zagreb, Croatia",45.7429008484,16.0687999725,HR,Europe,Zagreb
+ZRH,"Zürich, Switzerland",47.4646987915,8.5491695404,CH,Europe,Zurich
+QWJ,"Americana, Brazil",-22.738,-47.334,BR,South America,Americana
+ARI,"Arica, Chile",-18.348611,-70.338889,CL,South America,Arica
+ASU,"Asunción, Paraguay",-25.2399997711,-57.5200004578,PY,South America,Asunción
+BEL,"Belém, Brazil",-1.4563,-48.5013,BR,South America,Belém
+CNF,"Belo Horizonte, Brazil",-19.624444,-43.971944,BR,South America,Belo Horizonte
+BNU,"Blumenau, Brazil",-26.89245,-49.07696,BR,South America,Blumenau
+BOG,"Bogotá, Colombia",4.70159,-74.1469,CO,South America,Bogotá
+BSB,"Brasilia, Brazil",-15.79824,-47.90859,BR,South America,Brasilia
+EZE,"Buenos Aires, Argentina",-34.8222,-58.5358,AR,South America,Buenos Aires
+CFC,"Caçador, Brazil",-26.7762,-51.0125,BR,South America,Cacador
+VCP,"Campinas, Brazil",-22.90662,-47.08576,BR,South America,Campinas
+CWB,"Curitiba, Brazil",-25.5284996033,-49.1758003235,BR,South America,Curitiba
+FLN,"Florianopolis, Brazil",-27.6702785492,-48.5525016785,BR,South America,Florianopolis
+FOR,"Fortaleza, Brazil",-3.7762799263,-38.5326004028,BR,South America,Fortaleza
+GYN,"Goiânia, Brazil",-16.69727,-49.26851,BR,South America,Goiania
+GUA,"Guatemala City, Guatemala",14.5832996368,-90.5274963379,GT,North America,Guatemala City
+GYE,"Guayaquil, Ecuador",-2.1894,-79.8891,EC,South America,Guayaquil
+ITJ,"Itajaí, Brazil",-27.6116676331,-48.6727790833,BR,South America,Itajai
+JOI,"Joinville, Brazil",-26.304408,-48.846383,BR,South America,Joinville
+JDO,"Juazeiro do Norte, Brazil",-7.2242,-39.313,BR,South America,Juazeiro do Norte
+LIM,"Lima, Peru",-12.021900177,-77.1143035889,PE,South America,Lima
+MAO,"Manaus, Brazil",-3.11286,-60.01949,BR,South America,Manaus
+MDE,"Medellín, Colombia",6.16454,-75.4231,CO,South America,Medellín
+NQN,"Neuquén, Argentina",-38.9490013123,-68.1557006836,AR,South America,Neuquen
+PTY,"Panama City, Panama",9.0713596344,-79.3834991455,PA,South America,Panama City
+PBM,"Paramaribo, Suriname",5.452831,-55.187783,SR,South America,Paramaribo
+POA,"Porto Alegre, Brazil",-29.9944000244,-51.1713981628,BR,South America,Porto Alegre
+PAP,"Port-Au-Prince, Haiti",18.5799999237,-72.2925033569,HT,North America,Port-au-Prince
+UIO,"Quito, Ecuador",-0.1291666667,-78.3575,EC,South America,Quito
+RAO,"Ribeirao Preto, Brazil",-21.1363887787,-47.7766685486,BR,South America,Ribeirao Preto
+GIG,"Rio de Janeiro, Brazil",-22.8099994659,-43.2505569458,BR,South America,Rio de Janeiro
+SSA,"Salvador, Brazil",-12.9086112976,-38.3224983215,BR,South America,Salvador
+SJO,"San José, Costa Rica",9.9938602448,-84.2088012695,CR,South America,San José
+SCL,"Santiago, Chile",-33.3930015564,-70.7857971191,CL,South America,Santiago
+SJP,"São José do Rio Preto, Brazil",-20.807157,-49.378994,BR,South America,São José do Rio Preto
+GRU,"São Paulo, Brazil",-23.4355564117,-46.4730567932,BR,South America,São Paulo
+SOD,"Sorocaba, Brazil",-23.54389,-46.63445,BR,South America,Sorocaba
+GND,"St. George's, Grenada",12.007116,-61.7882288,GD,South America,St. George's
+TGU,"Tegucigalpa, Honduras",14.0608,-87.2172,HN,South America,Tegucigalpa
+UDI,"Uberlândia, Brazil",-18.8836116791,-48.225276947,BR,South America,Uberlandia
+CUR,"Willemstad, Curaçao",12.1888999939,-68.9598007202,CW,South America,Willemstad
+AMM,"Amman, Jordan",31.7226009369,35.9931983948,JO,Middle East,Amman
+LLK,"Astara, Azerbaijan",38.7463989258,48.8180007935,AZ,Middle East,Astara
+BGW,"Baghdad, Iraq",33.2625007629,44.2346000671,IQ,Middle East,Baghdad
+GYD,"Baku, Azerbaijan",40.4674987793,50.0466995239,AZ,Middle East,Baku
+BSR,"Basra, Iraq",30.5491008759,47.6621017456,IQ,Middle East,Basra
+BEY,"Beirut, Lebanon",33.8208999634,35.4883995056,LB,Middle East,Beirut
+DMM,"Dammam, Saudi Arabia",26.471200943,49.7979011536,SA,Middle East,Dammam
+DOH,"Doha, Qatar",25.2605946,51.6137665,QA,Middle East,Doha
+DXB,"Dubai, United Arab Emirates",25.2527999878,55.3643989563,AE,Middle East,Dubai
+EBL,"Erbil, Iraq",36.1901,43.993,IQ,Middle East,Erbil
+HFA,"Haifa, Israel",32.78492,34.96069,IL,Middle East,Haifa
+KWI,"Kuwait City, Kuwait",29.226600647,47.9688987732,KW,Middle East,Kuwait City
+BAH,"Manama, Bahrain",26.2707996368,50.6335983276,BH,Middle East,Manama
+MCT,"Muscat, Oman",23.5932998657,58.2844009399,OM,Middle East,Muscat
+NJF,"Najaf, Iraq",31.989722,44.404167,IQ,Middle East,Najaf
+XNH,"Nasiriyah, Iraq",30.9358005524,46.0900993347,IQ,Middle East,Nasiriyah
+ZDM,Ramallah,32.2719,35.0194,PS,Middle East,Ramallah
+RUH,"Riyadh, Saudi Arabia",24.9575996399,46.6987991333,SA,Middle East,Riyadh
+TLV,"Tel Aviv, Israel",32.0113983154,34.8866996765,IL,Middle East,Tel Aviv
+IAD,"Ashburn, VA, United States",38.94449997,-77.45580292,US,North America,Ashburn
+ATL,"Atlanta, GA, United States",33.6366996765,-84.4281005859,US,North America,Atlanta
+BOS,"Boston, MA, United States",42.36429977,-71.00520325,US,North America,Boston
+BUF,"Buffalo, NY, United States",42.94049835,-78.73220062,US,North America,Buffalo
+YYC,"Calgary, AB, Canada",51.113899231,-114.019996643,CA,North America,Calgary
+CLT,"Charlotte, NC, United States",35.2140007019,-80.9430999756,US,North America,Charlotte
+ORD,"Chicago, IL, United States",41.97859955,-87.90480042,US,North America,Chicago
+CMH,"Columbus, OH, United States",39.9980010986,-82.8918991089,US,North America,Columbus
+DFW,"Dallas, TX, United States",32.8968009949,-97.0380020142,US,North America,Dallas
+DEN,"Denver, CO, United States",39.8616981506,-104.672996521,US,North America,Denver
+DTW,"Detroit, MI, United States",42.2123985291,-83.3534011841,US,North America,Detroit
+HNL,"Honolulu, HI, United States",21.3187007904,-157.9219970703,US,North America,Honolulu
+IAH,"Houston, TX, United States",29.9843997955,-95.3414001465,US,North America,Houston
+IND,"Indianapolis, IN, United States",39.717300415,-86.2944030762,US,North America,Indianapolis
+JAX,"Jacksonville, FL, United States",30.4941005707,-81.6878967285,US,North America,Jacksonville
+MCI,"Kansas City, MO, United States",39.2975997925,-94.7138977051,US,North America,Kansas City
+LAS,"Las Vegas, NV, United States",36.08010101,-115.1520004,US,North America,Las Vegas
+LAX,"Los Angeles, CA, United States",33.94250107,-118.4079971,US,North America,Los Angeles
+MFE,"McAllen, TX, United States",26.17580032,-98.23860168,US,North America,McAllen
+MEM,"Memphis, TN, United States",35.0424003601,-89.9766998291,US,North America,Memphis
+MEX,"Mexico City, Mexico",19.4363002777,-99.0720977783,MX,North America,Mexico City
+MIA,"Miami, FL, United States",25.7931995392,-80.2906036377,US,North America,Miami
+MSP,"Minneapolis, MN, United States",44.8819999695,-93.2218017578,US,North America,Minneapolis
+MGM,"Montgomery, AL, United States",32.30059814,-86.39399719,US,North America,Montgomery
+YUL,"Montréal, QC, Canada",45.4706001282,-73.7407989502,CA,North America,Montréal
+BNA,"Nashville, TN, United States",,,,,
+EWR,"Newark, NJ, United States",40.6925010681,-74.1687011719,US,North America,Newark
+ORF,"Norfolk, VA, United States",36.8945999146,-76.2012023926,US,North America,Norfolk
+OMA,"Omaha, NE, United States",41.3031997681,-95.8940963745,US,North America,Omaha
+YOW,"Ottawa, Canada",45.3224983215,-75.6691970825,CA,North America,Ottawa
+PHL,"Philadelphia, United States",39.8718986511,-75.2410964966,US,North America,Philadelphia
+PHX,"Phoenix, AZ, United States",33.434299469,-112.012001038,US,North America,Phoenix
+PIT,"Pittsburgh, PA, United States",40.49150085,-80.23290253,US,North America,Pittsburgh
+PDX,"Portland, OR, United States",45.58869934,-122.5979996,US,North America,Portland
+QRO,"Queretaro, MX, Mexico",20.6173000336,-100.185997009,MX,North America,Queretaro
+RIC,"Richmond, VA, United States",37.5051994324,-77.3197021484,US,North America,Richmond
+SMF,"Sacramento, CA, United States",38.695400238,-121.591003418,US,North America,Sacramento
+SLC,"Salt Lake City, UT, United States",40.7883987427,-111.977996826,US,North America,Salt Lake City
+SAN,"San Diego, CA, United States",32.7336006165,-117.190002441,US,North America,San Diego
+SJC,"San Jose, CA, United States",37.3625984192,-121.929000855,US,North America,San Jose
+YXE,"Saskatoon, SK, Canada",52.1707992554,-106.699996948,CA,North America,Saskatoon
+SEA,"Seattle, WA, United States",47.4490013123,-122.308998108,US,North America,Seattle
+STL,"St. Louis, MO, United States",38.7486991882,-90.3700027466,US,North America,St. Louis
+TLH,"Tallahassee, FL, United States",30.3964996338,-84.3503036499,US,North America,Tallahassee
+TPA,"Tampa, FL, United States",27.9755001068,-82.533203125,US,North America,Tampa
+YYZ,"Toronto, ON, Canada",43.6772003174,-79.6305999756,CA,North America,Toronto
+YVR,"Vancouver, BC, Canada",49.193901062,-123.183998108,CA,North America,Vancouver
+YWG,"Winnipeg, MB, Canada",49.9099998474,-97.2398986816,CA,North America,Winnipeg
+ADL,"Adelaide, SA, Australia",-34.9431729,138.5335637,AU,Oceania,Adelaide
+AKL,"Auckland, New Zealand",-37.0080986023,174.792007446,NZ,Oceania,Auckland
+BNE,"Brisbane, QLD, Australia",-27.3841991425,153.117004394,AU,Oceania,Brisbane
+CBR,"Canberra, ACT, Australia",-35.3069000244,149.1950073242,AU,Oceania,Canberra
+GUM,"Hagatna, Guam",13.4834003448,144.796005249,GU,Asia Pacific,Hagatna
+MEL,"Melbourne, VIC, Australia",-37.6733016968,144.843002319,AU,Oceania,Melbourne
+NOU,"Noumea, New Caledonia",-22.0146007538,166.212997436,NC,Oceania,Noumea
+PER,"Perth, WA, Australia",-31.9402999878,115.967002869,AU,Oceania,Perth
+SYD,"Sydney, NSW, Australia",-33.9460983276,151.177001953,AU,Oceania,Sydney
+COR,"Córdoba, Argentina",-31.31,-64.208333,AR,South America,Córdoba
+OUA,"Ouagadougou, Burkina Faso",12.3531999588,-1.5124200583,BF,Africa,Ouagadougou
+GEO,"Georgetown, Guyana",6.825648,-58.163756,GY,South America,Georgetown
+OKA,"Naha, Japan",26.1958,127.646,JP,Asia Pacific,Naha
+MDL,"Mandalay, Myanmar (Burma)",39.2276,-74.63704,MM,Asia Pacific,Mandalay
+CGY,"Cagayan de Oro, Philippines",8.4156198502,124.611000061,PH,Asia Pacific,Cagayan de Oro
+JED,"Jeddah, Saudi Arabia",21.679599762,39.15650177,SA,Middle East,Jeddah
+BTS,"Bratislava, Slovakia",17.1077,48.1486,SK,Europe,Bratislava
+SFO,"San Francisco, United States",37.6189994812,-122.375,US,North America,San Francisco
