@@ -73,5 +73,5 @@ if __name__ == '__main__':
     dt.to_csv('DC-Colos.csv', encoding='utf-8')
 
     # final check for log
-    for colo in dt.index[b.cca2.isnull()]:
+    for colo in dt.index[dt.cca2.isnull()]:
         print(colo, 'not found in cloudflare locations')
