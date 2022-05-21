@@ -251,8 +251,8 @@
     "BTS": {
         "cca2": "SK",
         "city": "Bratislava",
-        "lat": 17.1077,
-        "lon": 48.1486,
+        "lat": 48.1486,
+        "lon": 17.1077,
         "name": "Bratislava, Slovakia",
         "region": "Europe"
     },
