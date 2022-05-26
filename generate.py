@@ -60,8 +60,21 @@ def generate():
 if __name__ == '__main__':
     match_data, location_data = generate()
 
+    locations_json_content = json.dumps(location_data, indent=4, ensure_ascii=False, sort_keys=True)
+    content_changed = True
+
+    if (os.path.exists('locations.json')):
+        with open('locations.json', 'r', encoding='utf-8') as f:
+            if f.read() == locations_json_content:
+                content_changed = False
+
+    if not content_changed:
+        print('Content unchanged, exiting...')
+        sys.exit()
+
     # save locations to json
-    json.dump(location_data, open('locations.json', 'w', encoding='utf-8'), indent=4, ensure_ascii=False, sort_keys=True)
+    with open('locations.json', 'w', encoding='utf-8') as f:
+        f.write(locations_json_content)
 
     # save as DC-Colo matched data json
     json.dump(match_data, open('DC-Colos.json', 'w', encoding='utf-8'), indent=4, ensure_ascii=False, sort_keys=True)
