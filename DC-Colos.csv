@@ -169,6 +169,7 @@ VCP,"Campinas, Brazil",-22.90662,-47.08576,BR,South America,Campinas
 CWB,"Curitiba, Brazil",-25.5284996033,-49.1758003235,BR,South America,Curitiba
 FLN,"Florianopolis, Brazil",-27.6702785492,-48.5525016785,BR,South America,Florianopolis
 FOR,"Fortaleza, Brazil",-3.7762799263,-38.5326004028,BR,South America,Fortaleza
+GEO,"Georgetown, Guyana",6.825648,-58.163756,GY,South America,Georgetown
 GYN,"Goiânia, Brazil",-16.69727,-49.26851,BR,South America,Goiania
 GUA,"Guatemala City, Guatemala",14.5832996368,-90.5274963379,GT,North America,Guatemala City
 GYE,"Guayaquil, Ecuador",-2.1894,-79.8891,EC,South America,Guayaquil
@@ -274,7 +275,6 @@ PER,"Perth, WA, Australia",-31.9402999878,115.967002869,AU,Oceania,Perth
 SYD,"Sydney, NSW, Australia",-33.9460983276,151.177001953,AU,Oceania,Sydney
 COR,"Córdoba, Argentina",-31.31,-64.208333,AR,South America,Córdoba
 OUA,"Ouagadougou, Burkina Faso",12.3531999588,-1.5124200583,BF,Africa,Ouagadougou
-GEO,"Georgetown, Guyana",6.825648,-58.163756,GY,South America,Georgetown
 OKA,"Naha, Japan",26.1958,127.646,JP,Asia Pacific,Naha
 MDL,"Mandalay, Myanmar (Burma)",39.2276,-74.63704,MM,Asia Pacific,Mandalay
 CGY,"Cagayan de Oro, Philippines",8.4156198502,124.611000061,PH,Asia Pacific,Cagayan de Oro

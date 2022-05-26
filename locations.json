@@ -682,9 +682,9 @@
     {
         "cca2": "GY",
         "city": "Georgetown",
+        "iata": "GEO",
         "lat": 6.825648,
         "lon": -58.163756,
-        "name": "Georgetown, Guyana",
         "region": "South America"
     },
     {
