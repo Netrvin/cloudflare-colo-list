@@ -61,11 +61,12 @@ if __name__ == '__main__':
     match_data, location_data = generate()
 
     locations_json_content = json.dumps(location_data, indent=4, ensure_ascii=False, sort_keys=True)
+    dc_colos_json_content = json.dumps(match_data, indent=4, ensure_ascii=False, sort_keys=True)
     content_changed = True
 
-    if (os.path.exists('locations.json')):
-        with open('locations.json', 'r', encoding='utf-8') as f:
-            if f.read() == locations_json_content:
+    if (os.path.exists('DC-Colos.json')):
+        with open('DC-Colos.json', 'r', encoding='utf-8') as f:
+            if f.read() == dc_colos_json_content:
                 content_changed = False
 
     if not content_changed:
@@ -77,7 +78,8 @@ if __name__ == '__main__':
         f.write(locations_json_content)
 
     # save as DC-Colo matched data json
-    json.dump(match_data, open('DC-Colos.json', 'w', encoding='utf-8'), indent=4, ensure_ascii=False, sort_keys=True)
+    with open('DC-Colos.json', 'w', encoding='utf-8') as f:
+        f.write(dc_colos_json_content)
 
     # save as xlsx & csv
     dt = pd.DataFrame(match_data).T
