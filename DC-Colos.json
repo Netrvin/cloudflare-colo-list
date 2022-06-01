@@ -406,7 +406,7 @@
         "city": "Córdoba",
         "lat": -31.31,
         "lon": -64.208333,
-        "name": "Córdoba, Argentina",
+        "name": "Córdoba, Argentina",
         "region": "South America"
     },
     "CPH": {
@@ -642,6 +642,14 @@
     },
     "FUO": {
         "name": "Foshan, China"
+    },
+    "GBE": {
+        "cca2": "BW",
+        "city": "Gaborone",
+        "lat": -24.6282,
+        "lon": 25.9231,
+        "name": "Gaborone, Botswana",
+        "region": "Africa"
     },
     "GEO": {
         "cca2": "GY",
