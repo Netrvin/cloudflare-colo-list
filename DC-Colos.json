@@ -323,6 +323,14 @@
         "name": "Caçador, Brazil",
         "region": "South America"
     },
+    "CGB": {
+        "cca2": "BR",
+        "city": "Cuiaba",
+        "lat": -15.59611,
+        "lon": -56.09667,
+        "name": "Cuiaba, Brazil",
+        "region": "South America"
+    },
     "CGD": {
         "name": "Changde, China"
     },
@@ -587,7 +595,7 @@
         "lat": 40.1473007202,
         "lon": 44.3959007263,
         "name": "Yerevan, Armenia",
-        "region": "Middle East"
+        "region": "Asia Pacific"
     },
     "EWR": {
         "cca2": "US",

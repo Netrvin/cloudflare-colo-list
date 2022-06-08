@@ -45,7 +45,7 @@
         "iata": "EVN",
         "lat": 40.1473007202,
         "lon": 44.3959007263,
-        "region": "Middle East"
+        "region": "Asia Pacific"
     },
     {
         "cca2": "AU",
@@ -178,9 +178,9 @@
     {
         "cca2": "BW",
         "city": "Gaborone",
+        "iata": "GBE",
         "lat": -24.6282,
         "lon": 25.9231,
-        "name": "Gaborone, Botswana",
         "region": "Africa"
     },
     {
@@ -237,6 +237,14 @@
         "iata": "VCP",
         "lat": -22.90662,
         "lon": -47.08576,
+        "region": "South America"
+    },
+    {
+        "cca2": "BR",
+        "city": "Cuiaba",
+        "lat": -15.59611,
+        "lon": -56.09667,
+        "name": "Cuiaba, Brazil",
         "region": "South America"
     },
     {

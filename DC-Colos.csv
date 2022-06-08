@@ -8,6 +8,7 @@ DKR,"Dakar, Senegal",14.7412099,-17.4889771,SN,Africa,Dakar
 DAR,"Dar Es Salaam, Tanzania",-6.8781099319,39.2025985718,TZ,Africa,Dar es Salaam
 JIB,"Djibouti City, Djibouti",11.5473003387,43.1595001221,DJ,Africa,Djibouti
 DUR,"Durban, South Africa",-29.6144444444,31.1197222222,ZA,Africa,Durban
+GBE,"Gaborone, Botswana",-24.6282,25.9231,BW,Africa,Gaborone
 HRE,"Harare, Zimbabwe",-17.9318008423,31.0928001404,ZW,Africa,Harare
 JNB,"Johannesburg, South Africa",-26.133333,28.25,ZA,Africa,Johannesburg
 KGL,"Kigali, Rwanda",-1.9686299563,30.1394996643,RW,Africa,Kigali
@@ -100,7 +101,7 @@ WUX,"Wuxi, China",,,,,
 XNN,"Xining, China",,,,,
 KHN,"Xinyu, China",,,,,
 RGN,"Yangon, Myanmar",16.9073009491,96.1332015991,MM,Asia Pacific,Yangon
-EVN,"Yerevan, Armenia",40.1473007202,44.3959007263,AM,Middle East,Yerevan
+EVN,"Yerevan, Armenia",40.1473007202,44.3959007263,AM,Asia Pacific,Yerevan
 YIH,"Yichang, China",,,,,
 JOG,"Yogyakarta, Indonesia",-7.7881798744,110.4319992065,ID,Asia Pacific,Yogyakarta
 CGO,"Zhengzhou, China",,,,,
@@ -274,7 +275,7 @@ MEL,"Melbourne, VIC, Australia",-37.6733016968,144.843002319,AU,Oceania,Melbourn
 NOU,"Noumea, New Caledonia",-22.0146007538,166.212997436,NC,Oceania,Noumea
 PER,"Perth, WA, Australia",-31.9402999878,115.967002869,AU,Oceania,Perth
 SYD,"Sydney, NSW, Australia",-33.9460983276,151.177001953,AU,Oceania,Sydney
-GBE,"Gaborone, Botswana",-24.6282,25.9231,BW,Africa,Gaborone
+CGB,"Cuiaba, Brazil",-15.59611,-56.09667,BR,South America,Cuiaba
 OUA,"Ouagadougou, Burkina Faso",12.3531999588,-1.5124200583,BF,Africa,Ouagadougou
 OKA,"Naha, Japan",26.1958,127.646,JP,Asia Pacific,Naha
 MDL,"Mandalay, Myanmar (Burma)",39.2276,-74.63704,MM,Asia Pacific,Mandalay
