@@ -361,6 +361,14 @@
         "name": "Cagayan de Oro, Philippines",
         "region": "Asia Pacific"
     },
+    "CHC": {
+        "cca2": "NZ",
+        "city": "Christchurch",
+        "lat": -43.5465,
+        "lon": 172.6331,
+        "name": "Christchurch, New Zealand",
+        "region": "Oceania"
+    },
     "CLT": {
         "cca2": "US",
         "city": "Charlotte",
@@ -595,7 +603,7 @@
         "lat": 40.1473007202,
         "lon": 44.3959007263,
         "name": "Yerevan, Armenia",
-        "region": "Asia Pacific"
+        "region": "Middle East"
     },
     "EWR": {
         "cca2": "US",
@@ -765,6 +773,14 @@
         "lon": 105.806999206,
         "name": "Hanoi, Vietnam",
         "region": "Asia Pacific"
+    },
+    "HBA": {
+        "cca2": "AU",
+        "city": "Hobart",
+        "lat": -42.883209,
+        "lon": 147.331665,
+        "name": "Hobart, Australia",
+        "region": "Oceania"
     },
     "HEL": {
         "cca2": "FI",

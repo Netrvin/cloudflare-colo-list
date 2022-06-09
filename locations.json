@@ -45,7 +45,7 @@
         "iata": "EVN",
         "lat": 40.1473007202,
         "lon": 44.3959007263,
-        "region": "Asia Pacific"
+        "region": "Middle East"
     },
     {
         "cca2": "AU",
@@ -69,6 +69,14 @@
         "iata": "CBR",
         "lat": -35.3069000244,
         "lon": 149.1950073242,
+        "region": "Oceania"
+    },
+    {
+        "cca2": "AU",
+        "city": "Hobart",
+        "lat": -42.883209,
+        "lon": 147.331665,
+        "name": "Hobart, Australia",
         "region": "Oceania"
     },
     {
@@ -1216,6 +1224,14 @@
         "region": "Oceania"
     },
     {
+        "cca2": "NZ",
+        "city": "Christchurch",
+        "lat": -43.5465,
+        "lon": 172.6331,
+        "name": "Christchurch, New Zealand",
+        "region": "Oceania"
+    },
+    {
         "cca2": "NG",
         "city": "Lagos",
         "iata": "LOS",
@@ -1418,9 +1434,9 @@
     {
         "cca2": "SA",
         "city": "Jeddah",
+        "iata": "JED",
         "lat": 21.679599762,
         "lon": 39.15650177,
-        "name": "Jeddah, Saudi Arabia",
         "region": "Middle East"
     },
     {

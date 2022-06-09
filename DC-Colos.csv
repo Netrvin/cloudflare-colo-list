@@ -101,7 +101,7 @@ WUX,"Wuxi, China",,,,,
 XNN,"Xining, China",,,,,
 KHN,"Xinyu, China",,,,,
 RGN,"Yangon, Myanmar",16.9073009491,96.1332015991,MM,Asia Pacific,Yangon
-EVN,"Yerevan, Armenia",40.1473007202,44.3959007263,AM,Asia Pacific,Yerevan
+EVN,"Yerevan, Armenia",40.1473007202,44.3959007263,AM,Middle East,Yerevan
 YIH,"Yichang, China",,,,,
 JOG,"Yogyakarta, Indonesia",-7.7881798744,110.4319992065,ID,Asia Pacific,Yogyakarta
 CGO,"Zhengzhou, China",,,,,
@@ -210,6 +210,7 @@ DOH,"Doha, Qatar",25.2605946,51.6137665,QA,Middle East,Doha
 DXB,"Dubai, United Arab Emirates",25.2527999878,55.3643989563,AE,Middle East,Dubai
 EBL,"Erbil, Iraq",36.1901,43.993,IQ,Middle East,Erbil
 HFA,"Haifa, Israel",32.78492,34.96069,IL,Middle East,Haifa
+JED,"Jeddah, Saudi Arabia",21.679599762,39.15650177,SA,Middle East,Jeddah
 KWI,"Kuwait City, Kuwait",29.226600647,47.9688987732,KW,Middle East,Kuwait City
 BAH,"Manama, Bahrain",26.2707996368,50.6335983276,BH,Middle East,Manama
 MCT,"Muscat, Oman",23.5932998657,58.2844009399,OM,Middle East,Muscat
@@ -275,11 +276,12 @@ MEL,"Melbourne, VIC, Australia",-37.6733016968,144.843002319,AU,Oceania,Melbourn
 NOU,"Noumea, New Caledonia",-22.0146007538,166.212997436,NC,Oceania,Noumea
 PER,"Perth, WA, Australia",-31.9402999878,115.967002869,AU,Oceania,Perth
 SYD,"Sydney, NSW, Australia",-33.9460983276,151.177001953,AU,Oceania,Sydney
+HBA,"Hobart, Australia",-42.883209,147.331665,AU,Oceania,Hobart
 CGB,"Cuiaba, Brazil",-15.59611,-56.09667,BR,South America,Cuiaba
 OUA,"Ouagadougou, Burkina Faso",12.3531999588,-1.5124200583,BF,Africa,Ouagadougou
 OKA,"Naha, Japan",26.1958,127.646,JP,Asia Pacific,Naha
 MDL,"Mandalay, Myanmar (Burma)",39.2276,-74.63704,MM,Asia Pacific,Mandalay
+CHC,"Christchurch, New Zealand",-43.5465,172.6331,NZ,Oceania,Christchurch
 CGY,"Cagayan de Oro, Philippines",8.4156198502,124.611000061,PH,Asia Pacific,Cagayan de Oro
-JED,"Jeddah, Saudi Arabia",21.679599762,39.15650177,SA,Middle East,Jeddah
 BTS,"Bratislava, Slovakia",48.1486,17.1077,SK,Europe,Bratislava
 SFO,"San Francisco, United States",37.6189994812,-122.375,US,North America,San Francisco
