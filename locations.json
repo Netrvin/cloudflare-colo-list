@@ -1409,6 +1409,14 @@
     },
     {
         "cca2": "RU",
+        "city": "Tver",
+        "lat": 56.8587,
+        "lon": 35.9176,
+        "name": "Tver, Russia",
+        "region": "Europe"
+    },
+    {
+        "cca2": "RU",
         "city": "Yekaterinburg",
         "iata": "SVX",
         "lat": 56.8431,

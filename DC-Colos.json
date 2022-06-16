@@ -1051,6 +1051,14 @@
         "name": "Krasnoyarsk, Russia",
         "region": "Asia Pacific"
     },
+    "KLD": {
+        "cca2": "RU",
+        "city": "Tver",
+        "lat": 56.8587,
+        "lon": 35.9176,
+        "name": "Tver, Russia",
+        "region": "Europe"
+    },
     "KNU": {
         "cca2": "IN",
         "city": "Kanpur",
