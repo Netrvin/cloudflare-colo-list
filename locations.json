@@ -74,9 +74,9 @@
     {
         "cca2": "AU",
         "city": "Hobart",
+        "iata": "HBA",
         "lat": -42.883209,
         "lon": 147.331665,
-        "name": "Hobart, Australia",
         "region": "Oceania"
     },
     {
@@ -1226,8 +1226,8 @@
     {
         "cca2": "NZ",
         "city": "Christchurch",
-        "lat": -43.5465,
-        "lon": 172.6331,
+        "lat": -43.4893989563,
+        "lon": 172.5319976807,
         "name": "Christchurch, New Zealand",
         "region": "Oceania"
     },
