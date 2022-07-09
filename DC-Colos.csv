@@ -72,6 +72,7 @@ LHW,"Lanzhou, China",,,,,
 LYA,"Luoyang, China",,,,,
 MFM,Macau,22.1495990753,113.592002869,MO,Asia Pacific,Macau
 MLE,"Malé, Maldives",4.1748,73.50888,MV,Asia Pacific,Male
+MDL,"Mandalay, Myanmar",39.2276,-74.63704,MM,Asia Pacific,Mandalay
 MNL,"Manila, Philippines",14.508600235,121.019996643,PH,Asia Pacific,Manila
 BOM,"Mumbai, India",19.0886993408,72.8678970337,IN,Asia Pacific,Mumbai
 NAG,"Nagpur, India",21.1610714,79.0024702,IN,Asia Pacific,Nagpur
@@ -280,7 +281,6 @@ PER,"Perth, WA, Australia",-31.9402999878,115.967002869,AU,Oceania,Perth
 SYD,"Sydney, NSW, Australia",-33.9460983276,151.177001953,AU,Oceania,Sydney
 OUA,"Ouagadougou, Burkina Faso",12.3531999588,-1.5124200583,BF,Africa,Ouagadougou
 OKA,"Naha, Japan",26.1958,127.646,JP,Asia Pacific,Naha
-MDL,"Mandalay, Myanmar (Burma)",39.2276,-74.63704,MM,Asia Pacific,Mandalay
 CHC,"Christchurch, New Zealand",-43.4893989563,172.5319976807,NZ,Oceania,Christchurch
 CGY,"Cagayan de Oro, Philippines",8.4156198502,124.611000061,PH,Asia Pacific,Cagayan de Oro
 KLD,"Tver, Russia",56.8587,35.9176,RU,Europe,Tver
