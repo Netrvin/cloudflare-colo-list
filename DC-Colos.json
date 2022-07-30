@@ -1875,6 +1875,14 @@
         "name": "Tegucigalpa, Honduras",
         "region": "South America"
     },
+    "TIA": {
+        "cca2": "AL",
+        "city": "Tirana",
+        "lat": 41.4146995544,
+        "lon": 19.7206001282,
+        "name": "Tirana, Albania",
+        "region": "Europe"
+    },
     "TLH": {
         "cca2": "US",
         "city": "Tallahassee",

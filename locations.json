@@ -1,5 +1,13 @@
 [
     {
+        "cca2": "AL",
+        "city": "Tirana",
+        "lat": 41.4146995544,
+        "lon": 19.7206001282,
+        "name": "Tirana, Albania",
+        "region": "Europe"
+    },
+    {
         "cca2": "DZ",
         "city": "Algiers",
         "iata": "ALG",
@@ -962,9 +970,9 @@
     {
         "cca2": "JP",
         "city": "Naha",
+        "iata": "OKA",
         "lat": 26.1958,
         "lon": 127.646,
-        "name": "Naha, Japan",
         "region": "Asia Pacific"
     },
     {
