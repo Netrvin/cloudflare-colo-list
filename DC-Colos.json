@@ -1722,6 +1722,14 @@
         "name": "Santiago, Chile",
         "region": "South America"
     },
+    "SDQ": {
+        "cca2": "DO",
+        "city": "Santo Domingo",
+        "lat": 18.4297008514,
+        "lon": -69.6688995361,
+        "name": "Santo Domingo, Dominican Republic",
+        "region": "North America"
+    },
     "SEA": {
         "cca2": "US",
         "city": "Seattle",

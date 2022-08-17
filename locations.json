@@ -2,9 +2,9 @@
     {
         "cca2": "AL",
         "city": "Tirana",
+        "iata": "TIA",
         "lat": 41.4146995544,
         "lon": 19.7206001282,
-        "name": "Tirana, Albania",
         "region": "Europe"
     },
     {
@@ -574,6 +574,14 @@
         "lat": 11.5473003387,
         "lon": 43.1595001221,
         "region": "Africa"
+    },
+    {
+        "cca2": "DO",
+        "city": "Santo Domingo",
+        "lat": 18.4297008514,
+        "lon": -69.6688995361,
+        "name": "Santo Domingo, Dominican Republic",
+        "region": "North America"
     },
     {
         "cca2": "EC",
@@ -1242,9 +1250,9 @@
     {
         "cca2": "NZ",
         "city": "Christchurch",
+        "iata": "CHC",
         "lat": -43.4893989563,
         "lon": 172.5319976807,
-        "name": "Christchurch, New Zealand",
         "region": "Oceania"
     },
     {

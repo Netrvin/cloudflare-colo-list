@@ -152,6 +152,7 @@ ARN,"Stockholm, Sweden",59.6519012451,17.9186000824,SE,Europe,Stockholm
 TLL,"Tallinn, Estonia",59.4132995605,24.8327999115,EE,Europe,Tallinn
 TBS,"Tbilisi, Georgia",41.6692008972,44.95470047,GE,Europe,Tbilisi
 SKG,"Thessaloniki, Greece",40.5196990967,22.9708995819,GR,Europe,Thessaloniki
+TIA,"Tirana, Albania",41.4146995544,19.7206001282,AL,Europe,Tirana
 VIE,"Vienna, Austria",48.1102981567,16.5697002411,AT,Europe,Vienna
 VNO,"Vilnius, Lithuania",54.6341018677,25.2858009338,LT,Europe,Vilnius
 WAW,"Warsaw, Poland",52.1656990051,20.9671001434,PL,Europe,Warsaw
@@ -274,16 +275,16 @@ ADL,"Adelaide, SA, Australia",-34.9431729,138.5335637,AU,Oceania,Adelaide
 AKL,"Auckland, New Zealand",-37.0080986023,174.792007446,NZ,Oceania,Auckland
 BNE,"Brisbane, QLD, Australia",-27.3841991425,153.117004394,AU,Oceania,Brisbane
 CBR,"Canberra, ACT, Australia",-35.3069000244,149.1950073242,AU,Oceania,Canberra
+CHC,"Christchurch, New Zealand",-43.4893989563,172.5319976807,NZ,Oceania,Christchurch
 GUM,"Hagatna, Guam",13.4834003448,144.796005249,GU,Asia Pacific,Hagatna
 HBA,"Hobart, Australia",-42.883209,147.331665,AU,Oceania,Hobart
 MEL,"Melbourne, VIC, Australia",-37.6733016968,144.843002319,AU,Oceania,Melbourne
 NOU,"Noumea, New Caledonia",-22.0146007538,166.212997436,NC,Oceania,Noumea
 PER,"Perth, WA, Australia",-31.9402999878,115.967002869,AU,Oceania,Perth
 SYD,"Sydney, NSW, Australia",-33.9460983276,151.177001953,AU,Oceania,Sydney
-TIA,"Tirana, Albania",41.4146995544,19.7206001282,AL,Europe,Tirana
 OUA,"Ouagadougou, Burkina Faso",12.3531999588,-1.5124200583,BF,Africa,Ouagadougou
 CCP,"Concepción, Chile",-36.8201,-73.0444,CL,South America,Concepción
-CHC,"Christchurch, New Zealand",-43.4893989563,172.5319976807,NZ,Oceania,Christchurch
+SDQ,"Santo Domingo, Dominican Republic",18.4297008514,-69.6688995361,DO,North America,Santo Domingo
 CGY,"Cagayan de Oro, Philippines",8.4156198502,124.611000061,PH,Asia Pacific,Cagayan de Oro
 KLD,"Tver, Russia",56.8587,35.9176,RU,Europe,Tver
 BTS,"Bratislava, Slovakia",48.1486,17.1077,SK,Europe,Bratislava
