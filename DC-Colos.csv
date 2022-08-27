@@ -112,6 +112,7 @@ ATH,"Athens, Greece",37.9364013672,23.9444999695,GR,Europe,Athens
 BCN,"Barcelona, Spain",41.2971000671,2.0784599781,ES,Europe,Barcelona
 BEG,"Belgrade, Serbia",44.8184013367,20.3090991974,RS,Europe,Belgrade
 TXL,"Berlin, Germany",52.5597000122,13.2876996994,DE,Europe,Berlin
+BTS,"Bratislava, Slovakia",48.1486,17.1077,SK,Europe,Bratislava
 BRU,"Brussels, Belgium",50.9014015198,4.4844398499,BE,Europe,Brussels
 OTP,"Bucharest, Romania",44.5722007751,26.1021995544,RO,Europe,Bucharest
 BUD,"Budapest, Hungary",47.4369010925,19.2555999756,HU,Europe,Budapest
@@ -170,6 +171,7 @@ BSB,"Brasilia, Brazil",-15.79824,-47.90859,BR,South America,Brasilia
 EZE,"Buenos Aires, Argentina",-34.8222,-58.5358,AR,South America,Buenos Aires
 CFC,"Caçador, Brazil",-26.7762,-51.0125,BR,South America,Cacador
 VCP,"Campinas, Brazil",-22.90662,-47.08576,BR,South America,Campinas
+CCP,"Concepción, Chile",-36.8201,-73.0444,CL,South America,Concepción
 COR,"Córdoba, Argentina",-31.31,-64.208333,AR,South America,Córdoba
 CGB,"Cuiabá, Brazil",-15.59611,-56.09667,BR,South America,Cuiaba
 CWB,"Curitiba, Brazil",-25.5284996033,-49.1758003235,BR,South America,Curitiba
@@ -283,9 +285,7 @@ NOU,"Noumea, New Caledonia",-22.0146007538,166.212997436,NC,Oceania,Noumea
 PER,"Perth, WA, Australia",-31.9402999878,115.967002869,AU,Oceania,Perth
 SYD,"Sydney, NSW, Australia",-33.9460983276,151.177001953,AU,Oceania,Sydney
 OUA,"Ouagadougou, Burkina Faso",12.3531999588,-1.5124200583,BF,Africa,Ouagadougou
-CCP,"Concepción, Chile",-36.8201,-73.0444,CL,South America,Concepción
 SDQ,"Santo Domingo, Dominican Republic",18.4297008514,-69.6688995361,DO,North America,Santo Domingo
 CGY,"Cagayan de Oro, Philippines",8.4156198502,124.611000061,PH,Asia Pacific,Cagayan de Oro
 KLD,"Tver, Russia",56.8587,35.9176,RU,Europe,Tver
-BTS,"Bratislava, Slovakia",48.1486,17.1077,SK,Europe,Bratislava
 SFO,"San Francisco, United States",37.6189994812,-122.375,US,North America,San Francisco

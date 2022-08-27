@@ -490,9 +490,9 @@
     {
         "cca2": "CL",
         "city": "Concepción",
+        "iata": "CCP",
         "lat": -36.8201,
         "lon": -73.0444,
-        "name": "Concepción, Chile",
         "region": "South America"
     },
     {
@@ -1506,9 +1506,9 @@
     {
         "cca2": "SK",
         "city": "Bratislava",
+        "iata": "BTS",
         "lat": 48.1486,
         "lon": 17.1077,
-        "name": "Bratislava, Slovakia",
         "region": "Europe"
     },
     {
