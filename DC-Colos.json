@@ -178,9 +178,6 @@
         "name": "Bangalore, India",
         "region": "Asia Pacific"
     },
-    "BNA": {
-        "name": "Nashville, TN, United States"
-    },
     "BNE": {
         "cca2": "AU",
         "city": "Brisbane",
@@ -220,9 +217,6 @@
         "lon": -71.00520325,
         "name": "Boston, MA, United States",
         "region": "North America"
-    },
-    "BPE": {
-        "name": "Qinhuangdao, China"
     },
     "BRU": {
         "cca2": "BE",
@@ -361,6 +355,9 @@
         "name": "Chittagong, Bangladesh",
         "region": "Asia Pacific"
     },
+    "CGQ": {
+        "name": "Changchun, China"
+    },
     "CGY": {
         "cca2": "PH",
         "city": "Cagayan de Oro",
@@ -449,12 +446,6 @@
         "name": "Cape Town, South Africa",
         "region": "Africa"
     },
-    "CSX": {
-        "name": "Changsha, China"
-    },
-    "CTU": {
-        "name": "Chengdu, China"
-    },
     "CUR": {
         "cca2": "CW",
         "city": "Willemstad",
@@ -470,9 +461,6 @@
         "lon": -49.1758003235,
         "name": "Curitiba, Brazil",
         "region": "South America"
-    },
-    "CZX": {
-        "name": "Changzhou, China"
     },
     "DAC": {
         "cca2": "BD",
@@ -798,9 +786,6 @@
         "name": "Helsinki, Finland",
         "region": "Europe"
     },
-    "HET": {
-        "name": "Hohhot, China"
-    },
     "HFA": {
         "cca2": "IL",
         "city": "Haifa",
@@ -808,9 +793,6 @@
         "lon": 34.96069,
         "name": "Haifa, Israel",
         "region": "Middle East"
-    },
-    "HFE": {
-        "name": "Huainan, China"
     },
     "HGH": {
         "name": "Jinhua, China"
@@ -846,9 +828,6 @@
         "lon": 78.4298553467,
         "name": "Hyderabad, India",
         "region": "Asia Pacific"
-    },
-    "HYN": {
-        "name": "Taizhou, China"
     },
     "IAD": {
         "cca2": "US",
@@ -954,9 +933,6 @@
         "name": "Djibouti City, Djibouti",
         "region": "Africa"
     },
-    "JJN": {
-        "name": "Quanzhou, China"
-    },
     "JNB": {
         "cca2": "ZA",
         "city": "Johannesburg",
@@ -988,9 +964,6 @@
         "lon": 89.1607971191,
         "name": "Jashore, Bangladesh",
         "region": "Asia Pacific"
-    },
-    "JUZ": {
-        "name": "Quzhou, China"
     },
     "KBP": {
         "cca2": "UA",
@@ -1064,7 +1037,7 @@
         "city": "Tver",
         "lat": 56.8587,
         "lon": 35.9176,
-        "name": "Tver, Russia",
+        "name": "Tver, Russian Federation",
         "region": "Europe"
     },
     "KNU": {
@@ -1090,9 +1063,6 @@
         "lon": 101.709999084,
         "name": "Kuala Lumpur, Malaysia",
         "region": "Asia Pacific"
-    },
-    "KWE": {
-        "name": "Guiyang, China"
     },
     "KWI": {
         "cca2": "KW",
@@ -1428,8 +1398,8 @@
         "name": "Najaf, Iraq",
         "region": "Middle East"
     },
-    "NKG": {
-        "name": "Suqian, China"
+    "NNG": {
+        "name": "Nanning, China"
     },
     "NOU": {
         "cca2": "NC",
@@ -2041,8 +2011,8 @@
         "name": "Warsaw, Poland",
         "region": "Europe"
     },
-    "WDS": {
-        "name": "Shiyan, China"
+    "WUH": {
+        "name": "Xiaogan, China"
     },
     "WUX": {
         "name": "Wuxi, China"
@@ -2061,9 +2031,6 @@
     "XNN": {
         "name": "Xining, China"
     },
-    "YIH": {
-        "name": "Yichang, China"
-    },
     "YOW": {
         "cca2": "CA",
         "city": "Ottawa",
@@ -2071,6 +2038,9 @@
         "lon": -75.6691970825,
         "name": "Ottawa, Canada",
         "region": "North America"
+    },
+    "YTY": {
+        "name": "Yangzhou, China"
     },
     "YUL": {
         "cca2": "CA",
@@ -2135,6 +2105,9 @@
         "lon": 35.0194,
         "name": "Ramallah",
         "region": "Middle East"
+    },
+    "ZGN": {
+        "name": "Zhongshan, China"
     },
     "ZRH": {
         "cca2": "CH",

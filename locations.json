@@ -410,9 +410,9 @@
     {
         "cca2": "BF",
         "city": "Ouagadougou",
+        "iata": "OUA",
         "lat": 12.3531999588,
         "lon": -1.5124200583,
-        "name": "Ouagadougou, Burkina Faso",
         "region": "Africa"
     },
     {
@@ -578,9 +578,9 @@
     {
         "cca2": "DO",
         "city": "Santo Domingo",
+        "iata": "SDQ",
         "lat": 18.4297008514,
         "lon": -69.6688995361,
-        "name": "Santo Domingo, Dominican Republic",
         "region": "North America"
     },
     {
@@ -1338,9 +1338,9 @@
     {
         "cca2": "PH",
         "city": "Cagayan de Oro",
+        "iata": "CGY",
         "lat": 8.4156198502,
         "lon": 124.611000061,
-        "name": "Cagayan de Oro, Philippines",
         "region": "Asia Pacific"
     },
     {
@@ -1434,9 +1434,9 @@
     {
         "cca2": "RU",
         "city": "Tver",
+        "iata": "KLD",
         "lat": 56.8587,
         "lon": 35.9176,
-        "name": "Tver, Russia",
         "region": "Europe"
     },
     {

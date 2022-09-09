@@ -18,6 +18,7 @@ MPM,"Maputo, Mozambique",-25.9207992554,32.5726013184,MZ,Africa,Maputo
 MBA,"Mombasa, Kenya",-4.0348300934,39.5942001343,KE,Africa,Mombasa
 ROB,"Monrovia, Liberia",6.239127,-10.35462,LR,Africa,Monrovia
 NBO,"Nairobi, Kenya",-1.319239974,36.9277992249,KE,Africa,Nairobi
+OUA,"Ouagadougou, Burkina Faso",12.3531999588,-1.5124200583,BF,Africa,Ouagadougou
 MRU,"Port Louis, Mauritius",-20.4302005768,57.6836013794,MU,Africa,Port Louis
 RUN,"Réunion, France",-20.8871002197,55.5102996826,RE,Africa,Saint-Denis
 TUN,"Tunis, Tunisia",36.8510017395,10.2271995544,TN,Africa,Tunis
@@ -32,9 +33,6 @@ BBI,"Bhubaneswar, India",20.2961,85.8245,IN,Asia Pacific,Bhubaneswar
 CEB,"Cebu, Philippines",10.3074998856,123.978996277,PH,Asia Pacific,Cebu
 IXC,"Chandigarh, IN",30.673500061,76.7884979248,IN,Asia Pacific,Chandigarh
 CGD,"Changde, China",,,,,
-CSX,"Changsha, China",,,,,
-CZX,"Changzhou, China",,,,,
-CTU,"Chengdu, China",,,,,
 MAA,"Chennai, India",12.9900054932,80.1692962646,IN,Asia Pacific,Chennai
 CNX,"Chiang Mai, Thailand",18.7667999268,98.962600708,TH,Asia Pacific,Chiang Mai
 CGP,"Chittagong, Bangladesh",22.2495995,91.8133011,BD,Asia Pacific,Chittagong
@@ -44,14 +42,11 @@ DAC,"Dhaka, Bangladesh",23.843347,90.397783,BD,Asia Pacific,Dhaka
 FUO,"Foshan, China",,,,,
 FOC,"Fuzhou, China",,,,,
 CAN,"Guangzhou, China",,,,,
-KWE,"Guiyang, China",,,,,
 HAK,"Haikou, China",,,,,
 HAN,"Hanoi, Vietnam",21.221200943,105.806999206,VN,Asia Pacific,Hanoi
 SJW,"Hengshui, China",,,,,
 SGN,"Ho Chi Minh City, Vietnam",10.8187999725,106.652000427,VN,Asia Pacific,Ho Chi Minh City
-HET,"Hohhot, China",,,,,
 HKG,Hong Kong,22.3089008331,113.915000916,HK,Asia Pacific,Hong Kong
-HFE,"Huainan, China",,,,,
 HYD,"Hyderabad, India",17.2313175201,78.4298553467,IN,Asia Pacific,Hyderabad
 ISB,"Islamabad, Pakistan",33.6166992188,73.0991973877,PK,Asia Pacific,Islamabad
 CGK,"Jakarta, Indonesia",-6.1275229,106.6515118,ID,Asia Pacific,Jakarta
@@ -82,17 +77,11 @@ KIX,"Osaka, Japan",34.4272994995,135.244003296,JP,Asia Pacific,Osaka
 PAT,"Patna, India",25.591299057,85.0879974365,IN,Asia Pacific,Patna
 PNH,"Phnom Penh, Cambodia",11.5466003418,104.84400177,KH,Asia Pacific,Phnom Penh
 TAO,"Qingdao, China",,,,,
-BPE,"Qinhuangdao, China",,,,,
-JJN,"Quanzhou, China",,,,,
-JUZ,"Quzhou, China",,,,,
 ICN,"Seoul, South Korea",37.4691009521,126.450996399,KR,Asia Pacific,Seoul
 SHA,"Shanghai, China",,,,,
-WDS,"Shiyan, China",,,,,
 SIN,"Singapore, Singapore",1.3501900434,103.994003296,SG,Asia Pacific,Singapore
 URT,"Surat Thani, Thailand",9.1325998306,99.135597229,TH,Asia Pacific,Surat Thani
-NKG,"Suqian, China",,,,,
 TPE,Taipei,25.0776996613,121.233001709,TW,Asia Pacific,Taipei
-HYN,"Taizhou, China",,,,,
 TAS,"Tashkent, Uzbekistan",41.257900238,69.2811965942,UZ,Asia Pacific,Tashkent
 PBH,"Thimphu, Bhutan",27.4712,89.6339,BT,Asia Pacific,Thimphu
 TSN,"Tianjin, China",,,,,
@@ -104,9 +93,14 @@ XNN,"Xining, China",,,,,
 KHN,"Xinyu, China",,,,,
 RGN,"Yangon, Myanmar",16.9073009491,96.1332015991,MM,Asia Pacific,Yangon
 EVN,"Yerevan, Armenia",40.1473007202,44.3959007263,AM,Middle East,Yerevan
-YIH,"Yichang, China",,,,,
 JOG,"Yogyakarta, Indonesia",-7.7881798744,110.4319992065,ID,Asia Pacific,Yogyakarta
 CGO,"Zhengzhou, China",,,,,
+CGQ,"Changchun, China",,,,,
+NNG,"Nanning, China",,,,,
+WUH,"Xiaogan, China",,,,,
+YTY,"Yangzhou, China",,,,,
+ZGN,"Zhongshan, China",,,,,
+CGY,"Cagayan de Oro, Philippines",8.4156198502,124.611000061,PH,Asia Pacific,Cagayan de Oro
 AMS,"Amsterdam, Netherlands",52.3086013794,4.7638897896,NL,Europe,Amsterdam
 ATH,"Athens, Greece",37.9364013672,23.9444999695,GR,Europe,Athens
 BCN,"Barcelona, Spain",41.2971000671,2.0784599781,ES,Europe,Barcelona
@@ -160,6 +154,7 @@ WAW,"Warsaw, Poland",52.1656990051,20.9671001434,PL,Europe,Warsaw
 SVX,"Yekaterinburg, Russia",56.8431,60.6454,RU,Asia Pacific,Yekaterinburg
 ZAG,"Zagreb, Croatia",45.7429008484,16.0687999725,HR,Europe,Zagreb
 ZRH,"Zürich, Switzerland",47.4646987915,8.5491695404,CH,Europe,Zurich
+KLD,"Tver, Russian Federation",56.8587,35.9176,RU,Europe,Tver
 QWJ,"Americana, Brazil",-22.738,-47.334,BR,South America,Americana
 ARI,"Arica, Chile",-18.348611,-70.338889,CL,South America,Arica
 ASU,"Asunción, Paraguay",-25.2399997711,-57.5200004578,PY,South America,Asunción
@@ -205,6 +200,7 @@ GND,"St. George's, Grenada",12.007116,-61.7882288,GD,South America,St. George's
 TGU,"Tegucigalpa, Honduras",14.0608,-87.2172,HN,South America,Tegucigalpa
 UDI,"Uberlândia, Brazil",-18.8836116791,-48.225276947,BR,South America,Uberlandia
 CUR,"Willemstad, Curaçao",12.1888999939,-68.9598007202,CW,South America,Willemstad
+SDQ,"Santo Domingo, Dominican Republic",18.4297008514,-69.6688995361,DO,North America,Santo Domingo
 AMM,"Amman, Jordan",31.7226009369,35.9931983948,JO,Middle East,Amman
 LLK,"Astara, Azerbaijan",38.7463989258,48.8180007935,AZ,Middle East,Astara
 BGW,"Baghdad, Iraq",33.2625007629,44.2346000671,IQ,Middle East,Baghdad
@@ -250,7 +246,6 @@ MIA,"Miami, FL, United States",25.7931995392,-80.2906036377,US,North America,Mia
 MSP,"Minneapolis, MN, United States",44.8819999695,-93.2218017578,US,North America,Minneapolis
 MGM,"Montgomery, AL, United States",32.30059814,-86.39399719,US,North America,Montgomery
 YUL,"Montréal, QC, Canada",45.4706001282,-73.7407989502,CA,North America,Montréal
-BNA,"Nashville, TN, United States",,,,,
 EWR,"Newark, NJ, United States",40.6925010681,-74.1687011719,US,North America,Newark
 ORF,"Norfolk, VA, United States",36.8945999146,-76.2012023926,US,North America,Norfolk
 OMA,"Omaha, NE, United States",41.3031997681,-95.8940963745,US,North America,Omaha
@@ -284,8 +279,4 @@ MEL,"Melbourne, VIC, Australia",-37.6733016968,144.843002319,AU,Oceania,Melbourn
 NOU,"Noumea, New Caledonia",-22.0146007538,166.212997436,NC,Oceania,Noumea
 PER,"Perth, WA, Australia",-31.9402999878,115.967002869,AU,Oceania,Perth
 SYD,"Sydney, NSW, Australia",-33.9460983276,151.177001953,AU,Oceania,Sydney
-OUA,"Ouagadougou, Burkina Faso",12.3531999588,-1.5124200583,BF,Africa,Ouagadougou
-SDQ,"Santo Domingo, Dominican Republic",18.4297008514,-69.6688995361,DO,North America,Santo Domingo
-CGY,"Cagayan de Oro, Philippines",8.4156198502,124.611000061,PH,Asia Pacific,Cagayan de Oro
-KLD,"Tver, Russia",56.8587,35.9176,RU,Europe,Tver
 SFO,"San Francisco, United States",37.6189994812,-122.375,US,North America,San Francisco
