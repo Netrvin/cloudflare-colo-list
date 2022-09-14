@@ -989,6 +989,14 @@
         "name": "Kigali, Rwanda",
         "region": "Africa"
     },
+    "KHH": {
+        "cca2": "TW",
+        "city": "Kaohsiung City",
+        "lat": 22.5771007538,
+        "lon": 120.3499984741,
+        "name": "Kaohsiung City, Taiwan",
+        "region": "Asia Pacific"
+    },
     "KHI": {
         "cca2": "PK",
         "city": "Karachi",
