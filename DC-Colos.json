@@ -1359,12 +1359,7 @@
         "region": "North America"
     },
     "MSQ": {
-        "cca2": "BY",
-        "city": "Minsk",
-        "lat": 53.9006,
-        "lon": 27.599,
-        "name": "Minsk, Belarus",
-        "region": "Europe"
+        "name": "Minsk, Belarus"
     },
     "MUC": {
         "cca2": "DE",
