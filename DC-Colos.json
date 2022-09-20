@@ -1656,12 +1656,7 @@
         "region": "Europe"
     },
     "ROB": {
-        "cca2": "LR",
-        "city": "Monrovia",
-        "lat": 6.239127,
-        "lon": -10.35462,
-        "name": "Monrovia, Liberia",
-        "region": "Africa"
+        "name": "Monrovia, Liberia"
     },
     "RUH": {
         "cca2": "SA",
