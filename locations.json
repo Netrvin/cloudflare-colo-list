@@ -1187,8 +1187,8 @@
         "cca2": "MM",
         "city": "Mandalay",
         "iata": "MDL",
-        "lat": 39.2276,
-        "lon": -74.63704,
+        "lat": 21.7051697,
+        "lon": 95.9695206,
         "region": "Asia Pacific"
     },
     {
@@ -1586,9 +1586,9 @@
     {
         "cca2": "TW",
         "city": "Kaohsiung City",
+        "iata": "KHH",
         "lat": 22.5771007538,
         "lon": 120.3499984741,
-        "name": "Kaohsiung City, Taiwan",
         "region": "Asia Pacific"
     },
     {
