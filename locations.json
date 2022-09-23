@@ -920,6 +920,14 @@
         "region": "Middle East"
     },
     {
+        "cca2": "IQ",
+        "city": "Sulaymaniyah",
+        "lat": 35.5668,
+        "lon": 45.4161,
+        "name": "Sulaymaniyah, Iraq",
+        "region": "Middle East"
+    },
+    {
         "cca2": "IE",
         "city": "Cork",
         "iata": "ORK",

@@ -877,6 +877,14 @@
         "name": "Istanbul, Turkey",
         "region": "Europe"
     },
+    "ISU": {
+        "cca2": "IQ",
+        "city": "Sulaymaniyah",
+        "lat": 35.5668,
+        "lon": 45.4161,
+        "name": "Sulaymaniyah, Iraq",
+        "region": "Middle East"
+    },
     "ITJ": {
         "cca2": "BR",
         "city": "Itajai",
