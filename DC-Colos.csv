@@ -55,7 +55,7 @@ TNA,"Jinan, China",,,,,
 HGH,"Jinhua, China",,,,,
 JHB,"Johor Bahru, Malaysia",1.635848,103.665943,MY,Asia Pacific,Johor Bahru
 KNU,"Kanpur, India",26.4499,80.3319,IN,Asia Pacific,Kanpur
-KHH,"Kaohsiung City, Taiwan",22.5771007538,120.3499984741,TW,Asia Pacific,Kaohsiung City
+KHH,Kaohsiung City,22.5771007538,120.3499984741,TW,Asia Pacific,Kaohsiung City
 KHI,"Karachi, Pakistan",24.9064998627,67.1607971191,PK,Asia Pacific,Karachi
 KTM,"Kathmandu, Nepal",27.6965999603,85.3591003418,NP,Asia Pacific,Kathmandu
 KHV,"Khabarovsk, Russia",48.5279998779,135.18800354,RU,Asia Pacific,Khabarovsk
@@ -82,7 +82,7 @@ ICN,"Seoul, South Korea",37.4691009521,126.450996399,KR,Asia Pacific,Seoul
 SHA,"Shanghai, China",,,,,
 SIN,"Singapore, Singapore",1.3501900434,103.994003296,SG,Asia Pacific,Singapore
 URT,"Surat Thani, Thailand",9.1325998306,99.135597229,TH,Asia Pacific,Surat Thani
-TPE,Taipei - Taiwan,25.0776996613,121.233001709,TW,Asia Pacific,Taipei
+TPE,Taipei,25.0776996613,121.233001709,TW,Asia Pacific,Taipei
 TAS,"Tashkent, Uzbekistan",41.257900238,69.2811965942,UZ,Asia Pacific,Tashkent
 PBH,"Thimphu, Bhutan",27.4712,89.6339,BT,Asia Pacific,Thimphu
 TSN,"Tianjin, China",,,,,

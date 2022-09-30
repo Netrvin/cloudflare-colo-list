@@ -1002,7 +1002,7 @@
         "city": "Kaohsiung City",
         "lat": 22.5771007538,
         "lon": 120.3499984741,
-        "name": "Kaohsiung City, Taiwan",
+        "name": "Kaohsiung City",
         "region": "Asia Pacific"
     },
     "KHI": {
@@ -1923,7 +1923,7 @@
         "city": "Taipei",
         "lat": 25.0776996613,
         "lon": 121.233001709,
-        "name": "Taipei - Taiwan",
+        "name": "Taipei",
         "region": "Asia Pacific"
     },
     "TSN": {
