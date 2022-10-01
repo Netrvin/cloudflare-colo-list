@@ -168,6 +168,14 @@
         "region": "Asia Pacific"
     },
     {
+        "cca2": "BY",
+        "city": "Minsk",
+        "iata": "MSQ",
+        "lat": 53.9006,
+        "lon": 27.599,
+        "region": "Europe"
+    },
+    {
         "cca2": "BE",
         "city": "Brussels",
         "iata": "BRU",
