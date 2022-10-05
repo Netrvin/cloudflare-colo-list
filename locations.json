@@ -385,6 +385,14 @@
     },
     {
         "cca2": "BR",
+        "city": "Timbo",
+        "lat": -26.8251,
+        "lon": -49.2695,
+        "name": "Timbo, Brazil",
+        "region": "South America"
+    },
+    {
+        "cca2": "BR",
         "city": "Uberlandia",
         "iata": "UDI",
         "lat": -18.8836116791,

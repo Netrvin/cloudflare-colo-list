@@ -1441,6 +1441,14 @@
         "name": "Tokyo, Japan",
         "region": "Asia Pacific"
     },
+    "NVT": {
+        "cca2": "BR",
+        "city": "Timbo",
+        "lat": -26.8251,
+        "lon": -49.2695,
+        "name": "Timbo, Brazil",
+        "region": "South America"
+    },
     "OKA": {
         "cca2": "JP",
         "city": "Naha",
