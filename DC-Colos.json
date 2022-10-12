@@ -178,6 +178,14 @@
         "name": "Bangalore, India",
         "region": "Asia Pacific"
     },
+    "BNA": {
+        "cca2": "US",
+        "city": "Nashville",
+        "lat": 36.1245002747,
+        "lon": -86.6781997681,
+        "name": "Nashville, United States",
+        "region": "North America"
+    },
     "BNE": {
         "cca2": "AU",
         "city": "Brisbane",

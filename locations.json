@@ -1961,6 +1961,14 @@
     },
     {
         "cca2": "US",
+        "city": "Nashville",
+        "lat": 36.1245002747,
+        "lon": -86.6781997681,
+        "name": "Nashville, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
         "city": "Dallas",
         "iata": "DFW",
         "lat": 32.8968009949,
