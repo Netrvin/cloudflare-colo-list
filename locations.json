@@ -386,9 +386,9 @@
     {
         "cca2": "BR",
         "city": "Timbo",
+        "iata": "NVT",
         "lat": -26.8251,
         "lon": -49.2695,
-        "name": "Timbo, Brazil",
         "region": "South America"
     },
     {
@@ -938,9 +938,9 @@
     {
         "cca2": "IQ",
         "city": "Sulaymaniyah",
+        "iata": "ISU",
         "lat": 35.5668,
         "lon": 45.4161,
-        "name": "Sulaymaniyah, Iraq",
         "region": "Middle East"
     },
     {

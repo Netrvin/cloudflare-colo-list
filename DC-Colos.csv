@@ -199,6 +199,7 @@ GRU,"São Paulo, Brazil",-23.4355564117,-46.4730567932,BR,South America,São Pa
 SOD,"Sorocaba, Brazil",-23.54389,-46.63445,BR,South America,Sorocaba
 GND,"St. George's, Grenada",12.007116,-61.7882288,GD,South America,St. George's
 TGU,"Tegucigalpa, Honduras",14.0608,-87.2172,HN,South America,Tegucigalpa
+NVT,"Timbó, Brazil",-26.8251,-49.2695,BR,South America,Timbo
 UDI,"Uberlândia, Brazil",-18.8836116791,-48.225276947,BR,South America,Uberlandia
 CUR,"Willemstad, Curaçao",12.1888999939,-68.9598007202,CW,South America,Willemstad
 SDQ,"Santo Domingo, Dominican Republic",18.4297008514,-69.6688995361,DO,North America,Santo Domingo
@@ -221,6 +222,7 @@ NJF,"Najaf, Iraq",31.989722,44.404167,IQ,Middle East,Najaf
 XNH,"Nasiriyah, Iraq",30.9358005524,46.0900993347,IQ,Middle East,Nasiriyah
 ZDM,Ramallah,32.2719,35.0194,PS,Middle East,Ramallah
 RUH,"Riyadh, Saudi Arabia",24.9575996399,46.6987991333,SA,Middle East,Riyadh
+ISU,"Sulaymaniyah, Iraq",35.5668,45.4161,IQ,Middle East,Sulaymaniyah
 TLV,"Tel Aviv, Israel",32.0113983154,34.8866996765,IL,Middle East,Tel Aviv
 IAD,"Ashburn, VA, United States",38.94449997,-77.45580292,US,North America,Ashburn
 ATL,"Atlanta, GA, United States",33.6366996765,-84.4281005859,US,North America,Atlanta
@@ -280,7 +282,5 @@ MEL,"Melbourne, VIC, Australia",-37.6733016968,144.843002319,AU,Oceania,Melbourn
 NOU,"Noumea, New Caledonia",-22.0146007538,166.212997436,NC,Oceania,Noumea
 PER,"Perth, WA, Australia",-31.9402999878,115.967002869,AU,Oceania,Perth
 SYD,"Sydney, NSW, Australia",-33.9460983276,151.177001953,AU,Oceania,Sydney
-NVT,"Timbo, Brazil",-26.8251,-49.2695,BR,South America,Timbo
-ISU,"Sulaymaniyah, Iraq",35.5668,45.4161,IQ,Middle East,Sulaymaniyah
 SFO,"San Francisco, United States",37.6189994812,-122.375,US,North America,San Francisco
 BNA,"Nashville, United States",36.1245002747,-86.6781997681,US,North America,Nashville
