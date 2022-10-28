@@ -1962,9 +1962,9 @@
     {
         "cca2": "US",
         "city": "Nashville",
+        "iata": "BNA",
         "lat": 36.1245002747,
         "lon": -86.6781997681,
-        "name": "Nashville, United States",
         "region": "North America"
     },
     {

@@ -16,7 +16,6 @@ LOS,"Lagos, Nigeria",6.5773701668,3.321160078,NG,Africa,Lagos
 LAD,"Luanda, Angola",-8.8583698273,13.2312002182,AO,Africa,Luanda
 MPM,"Maputo, Mozambique",-25.9207992554,32.5726013184,MZ,Africa,Maputo
 MBA,"Mombasa, Kenya",-4.0348300934,39.5942001343,KE,Africa,Mombasa
-ROB,"Monrovia, Liberia",,,,,
 NBO,"Nairobi, Kenya",-1.319239974,36.9277992249,KE,Africa,Nairobi
 OUA,"Ouagadougou, Burkina Faso",12.3531999588,-1.5124200583,BF,Africa,Ouagadougou
 MRU,"Port Louis, Mauritius",-20.4302005768,57.6836013794,MU,Africa,Port Louis
@@ -37,7 +36,6 @@ MAA,"Chennai, India",12.9900054932,80.1692962646,IN,Asia Pacific,Chennai
 CNX,"Chiang Mai, Thailand",18.7667999268,98.962600708,TH,Asia Pacific,Chiang Mai
 CGP,"Chittagong, Bangladesh",22.2495995,91.8133011,BD,Asia Pacific,Chittagong
 CMB,"Colombo, Sri Lanka",7.1807599068,79.8841018677,LK,Asia Pacific,Colombo
-DLC,"Dalian, China",,,,,
 DAC,"Dhaka, Bangladesh",23.843347,90.397783,BD,Asia Pacific,Dhaka
 FUO,"Foshan, China",,,,,
 FOC,"Fuzhou, China",,,,,
@@ -102,6 +100,8 @@ WUH,"Xiaogan, China",,,,,
 YTY,"Yangzhou, China",,,,,
 ZGN,"Zhongshan, China",,,,,
 CGY,"Cagayan de Oro, Philippines",8.4156198502,124.611000061,PH,Asia Pacific,Cagayan de Oro
+CSX,"Changsha, China",,,,,
+TYN,"Datong, China",,,,,
 AMS,"Amsterdam, Netherlands",52.3086013794,4.7638897896,NL,Europe,Amsterdam
 ATH,"Athens, Greece",37.9364013672,23.9444999695,GR,Europe,Athens
 BCN,"Barcelona, Spain",41.2971000671,2.0784599781,ES,Europe,Barcelona
@@ -203,6 +203,7 @@ NVT,"Timbó, Brazil",-26.8251,-49.2695,BR,South America,Timbo
 UDI,"Uberlândia, Brazil",-18.8836116791,-48.225276947,BR,South America,Uberlandia
 CUR,"Willemstad, Curaçao",12.1888999939,-68.9598007202,CW,South America,Willemstad
 SDQ,"Santo Domingo, Dominican Republic",18.4297008514,-69.6688995361,DO,North America,Santo Domingo
+BNA,"Nashville, United States",36.1245002747,-86.6781997681,US,North America,Nashville
 AMM,"Amman, Jordan",31.7226009369,35.9931983948,JO,Middle East,Amman
 LLK,"Astara, Azerbaijan",38.7463989258,48.8180007935,AZ,Middle East,Astara
 BGW,"Baghdad, Iraq",33.2625007629,44.2346000671,IQ,Middle East,Baghdad
@@ -283,4 +284,3 @@ NOU,"Noumea, New Caledonia",-22.0146007538,166.212997436,NC,Oceania,Noumea
 PER,"Perth, WA, Australia",-31.9402999878,115.967002869,AU,Oceania,Perth
 SYD,"Sydney, NSW, Australia",-33.9460983276,151.177001953,AU,Oceania,Sydney
 SFO,"San Francisco, United States",37.6189994812,-122.375,US,North America,San Francisco
-BNA,"Nashville, United States",36.1245002747,-86.6781997681,US,North America,Nashville

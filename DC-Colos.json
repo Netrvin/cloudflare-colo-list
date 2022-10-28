@@ -454,6 +454,9 @@
         "name": "Cape Town, South Africa",
         "region": "Africa"
     },
+    "CSX": {
+        "name": "Changsha, China"
+    },
     "CUR": {
         "cca2": "CW",
         "city": "Willemstad",
@@ -517,9 +520,6 @@
         "lon": -17.4889771,
         "name": "Dakar, Senegal",
         "region": "Africa"
-    },
-    "DLC": {
-        "name": "Dalian, China"
     },
     "DME": {
         "cca2": "RU",
@@ -1684,9 +1684,6 @@
         "name": "Riga, Latvia",
         "region": "Europe"
     },
-    "ROB": {
-        "name": "Monrovia, Liberia"
-    },
     "RUH": {
         "cca2": "SA",
         "city": "Riyadh",
@@ -1965,6 +1962,9 @@
         "lon": 13.2876996994,
         "name": "Berlin, Germany",
         "region": "Europe"
+    },
+    "TYN": {
+        "name": "Datong, China"
     },
     "UDI": {
         "cca2": "BR",
