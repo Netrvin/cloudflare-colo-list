@@ -430,6 +430,14 @@
         "name": "Chiang Mai, Thailand",
         "region": "Asia Pacific"
     },
+    "COK": {
+        "cca2": "IN",
+        "city": "Kochi",
+        "lat": 9.9312,
+        "lon": 76.2673,
+        "name": "Kochi, India",
+        "region": "Asia Pacific"
+    },
     "COR": {
         "cca2": "AR",
         "city": "Córdoba",
