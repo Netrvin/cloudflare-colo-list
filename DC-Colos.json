@@ -1668,6 +1668,14 @@
         "name": "Ribeirao Preto, Brazil",
         "region": "South America"
     },
+    "REC": {
+        "cca2": "BR",
+        "city": "Recife",
+        "lat": -8.1264896393,
+        "lon": -34.9235992432,
+        "name": "Recife, Brazil",
+        "region": "South America"
+    },
     "RGN": {
         "cca2": "MM",
         "city": "Yangon",

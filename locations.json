@@ -337,6 +337,14 @@
     },
     {
         "cca2": "BR",
+        "city": "Recife",
+        "lat": -8.1264896393,
+        "lon": -34.9235992432,
+        "name": "Recife, Brazil",
+        "region": "South America"
+    },
+    {
+        "cca2": "BR",
         "city": "Ribeirao Preto",
         "iata": "RAO",
         "lat": -21.1363887787,
