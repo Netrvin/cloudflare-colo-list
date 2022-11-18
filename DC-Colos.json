@@ -1065,7 +1065,12 @@
         "region": "Asia Pacific"
     },
     "KLD": {
-        "name": "Tver, Russian Federation"
+        "cca2": "RU",
+        "city": "Tver",
+        "lat": 56.8587,
+        "lon": 35.9176,
+        "name": "Tver, Russian Federation",
+        "region": "Europe"
     },
     "KNU": {
         "cca2": "IN",
