@@ -7,6 +7,14 @@
         "name": "Accra, Ghana",
         "region": "Africa"
     },
+    "ADB": {
+        "cca2": "TR",
+        "city": "Izmir",
+        "lat": 38.32377,
+        "lon": 27.14317,
+        "name": "Izmir, Turkey",
+        "region": "Europe"
+    },
     "ADL": {
         "cca2": "AU",
         "city": "Adelaide",
