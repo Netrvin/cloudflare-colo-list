@@ -676,6 +676,14 @@
         "name": "Frankfurt, Germany",
         "region": "Europe"
     },
+    "FSD": {
+        "cca2": "US",
+        "city": "Sioux Falls",
+        "lat": 43.546,
+        "lon": 96.7313,
+        "name": "Sioux Falls, United States",
+        "region": "North America"
+    },
     "FUO": {
         "name": "Foshan, China"
     },
