@@ -648,6 +648,14 @@
         "region": "Europe"
     },
     {
+        "cca2": "PF",
+        "city": "Tahiti",
+        "lat": -17.5536994934,
+        "lon": -149.606994629,
+        "name": "Tahiti, French Polynesia",
+        "region": "Oceania"
+    },
+    {
         "cca2": "GE",
         "city": "Tbilisi",
         "iata": "TBS",

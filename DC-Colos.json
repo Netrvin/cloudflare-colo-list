@@ -1644,6 +1644,14 @@
         "name": "Porto Alegre, Brazil",
         "region": "South America"
     },
+    "PPT": {
+        "cca2": "PF",
+        "city": "Tahiti",
+        "lat": -17.5536994934,
+        "lon": -149.606994629,
+        "name": "Tahiti, French Polynesia",
+        "region": "Oceania"
+    },
     "PRG": {
         "cca2": "CZ",
         "city": "Prague",
