@@ -684,6 +684,14 @@
         "name": "Sioux Falls, United States",
         "region": "North America"
     },
+    "FUK": {
+        "cca2": "JP",
+        "city": "Fukuoka",
+        "lat": 33.5902,
+        "lon": 130.4017,
+        "name": "Fukuoka, Japan",
+        "region": "Asia Pacific"
+    },
     "FUO": {
         "name": "Foshan, China"
     },

@@ -1025,6 +1025,14 @@
     },
     {
         "cca2": "JP",
+        "city": "Fukuoka",
+        "lat": 33.5902,
+        "lon": 130.4017,
+        "name": "Fukuoka, Japan",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "JP",
         "city": "Naha",
         "iata": "OKA",
         "lat": 26.1958,
