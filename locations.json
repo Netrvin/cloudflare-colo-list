@@ -650,9 +650,9 @@
     {
         "cca2": "PF",
         "city": "Tahiti",
+        "iata": "PPT",
         "lat": -17.5536994934,
         "lon": -149.606994629,
-        "name": "Tahiti, French Polynesia",
         "region": "Oceania"
     },
     {
@@ -701,6 +701,14 @@
         "iata": "MUC",
         "lat": 48.3538017273,
         "lon": 11.7861003876,
+        "region": "Europe"
+    },
+    {
+        "cca2": "DE",
+        "city": "Stuttgart",
+        "lat": 48.783333,
+        "lon": 9.183333,
+        "name": "Stuttgart, Germany",
         "region": "Europe"
     },
     {

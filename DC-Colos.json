@@ -1890,6 +1890,14 @@
         "name": "St. Louis, MO, United States",
         "region": "North America"
     },
+    "STR": {
+        "cca2": "DE",
+        "city": "Stuttgart",
+        "lat": 48.783333,
+        "lon": 9.183333,
+        "name": "Stuttgart, Germany",
+        "region": "Europe"
+    },
     "SVX": {
         "cca2": "RU",
         "city": "Yekaterinburg",
