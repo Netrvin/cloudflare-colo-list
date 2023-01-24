@@ -338,9 +338,9 @@
     {
         "cca2": "BR",
         "city": "Recife",
+        "iata": "REC",
         "lat": -8.1264896393,
         "lon": -34.9235992432,
-        "name": "Recife, Brazil",
         "region": "South America"
     },
     {
@@ -706,9 +706,9 @@
     {
         "cca2": "DE",
         "city": "Stuttgart",
+        "iata": "STR",
         "lat": 48.783333,
         "lon": 9.183333,
-        "name": "Stuttgart, Germany",
         "region": "Europe"
     },
     {
@@ -866,9 +866,9 @@
     {
         "cca2": "IN",
         "city": "Kochi",
+        "iata": "COK",
         "lat": 9.9312,
         "lon": 76.2673,
-        "name": "Kochi, India",
         "region": "Asia Pacific"
     },
     {
@@ -1034,9 +1034,9 @@
     {
         "cca2": "JP",
         "city": "Fukuoka",
+        "iata": "FUK",
         "lat": 33.5902,
         "lon": 130.4017,
-        "name": "Fukuoka, Japan",
         "region": "Asia Pacific"
     },
     {
@@ -1714,9 +1714,9 @@
     {
         "cca2": "TR",
         "city": "Izmir",
+        "iata": "ADB",
         "lat": 38.32377,
         "lon": 27.14317,
-        "name": "Izmir, Turkey",
         "region": "Europe"
     },
     {
@@ -1802,9 +1802,9 @@
     {
         "cca2": "US",
         "city": "San Francisco",
+        "iata": "SFO",
         "lat": 37.6189994812,
         "lon": -122.375,
-        "name": "San Francisco, United States",
         "region": "North America"
     },
     {

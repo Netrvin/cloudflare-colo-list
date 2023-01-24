@@ -38,6 +38,7 @@ CGP,"Chittagong, Bangladesh",22.2495995,91.8133011,BD,Asia Pacific,Chittagong
 CMB,"Colombo, Sri Lanka",7.1807599068,79.8841018677,LK,Asia Pacific,Colombo
 DAC,"Dhaka, Bangladesh",23.843347,90.397783,BD,Asia Pacific,Dhaka
 FUO,"Foshan, China",,,,,
+FUK,"Fukuoka, Japan",33.5902,130.4017,JP,Asia Pacific,Fukuoka
 FOC,"Fuzhou, China",,,,,
 CAN,"Guangzhou, China",,,,,
 HAK,"Haikou, China",,,,,
@@ -102,6 +103,10 @@ ZGN,"Zhongshan, China",,,,,
 CGY,"Cagayan de Oro, Philippines",8.4156198502,124.611000061,PH,Asia Pacific,Cagayan de Oro
 CSX,"Changsha, China",,,,,
 TYN,"Datong, China",,,,,
+NTG,Nantong,,,,,
+WHU,Wuhu,,,,,
+HYN,Taizhou,,,,,
+COK,Kochi,9.9312,76.2673,IN,Asia Pacific,Kochi
 AMS,"Amsterdam, Netherlands",52.3086013794,4.7638897896,NL,Europe,Amsterdam
 ATH,"Athens, Greece",37.9364013672,23.9444999695,GR,Europe,Athens
 BCN,"Barcelona, Spain",41.2971000671,2.0784599781,ES,Europe,Barcelona
@@ -123,6 +128,7 @@ GOT,"Gothenburg, Sweden",57.6627998352,12.279800415,SE,Europe,Gothenburg
 HAM,"Hamburg, Germany",53.6304016113,9.9882297516,DE,Europe,Hamburg
 HEL,"Helsinki, Finland",60.317199707,24.963300705,FI,Europe,Helsinki
 IST,"Istanbul, Turkey",40.9768981934,28.8145999908,TR,Europe,Istanbul
+ADB,"Izmir, Turkey",38.32377,27.14317,TR,Europe,Izmir
 KBP,"Kyiv, Ukraine",50.3450012207,30.8946990967,UA,Europe,Kyiv
 LIS,"Lisbon, Portugal",38.7812995911,-9.1359195709,PT,Europe,Lisbon
 LHR,"London, United Kingdom",51.4706001282,-0.4619410038,GB,Europe,London
@@ -145,17 +151,18 @@ FCO,"Rome, Italy",41.8045005798,12.2508001328,IT,Europe,Rome
 LED,"Saint Petersburg, Russia",59.8003005981,30.2625007629,RU,Europe,Saint Petersburg
 SOF,"Sofia, Bulgaria",42.6966934204,23.4114360809,BG,Europe,Sofia
 ARN,"Stockholm, Sweden",59.6519012451,17.9186000824,SE,Europe,Stockholm
+STR,"Stuttgart, Germany",48.783333,9.183333,DE,Europe,Stuttgart
 TLL,"Tallinn, Estonia",59.4132995605,24.8327999115,EE,Europe,Tallinn
 TBS,"Tbilisi, Georgia",41.6692008972,44.95470047,GE,Europe,Tbilisi
 SKG,"Thessaloniki, Greece",40.5196990967,22.9708995819,GR,Europe,Thessaloniki
 TIA,"Tirana, Albania",41.4146995544,19.7206001282,AL,Europe,Tirana
+KLD,"Tver, Russian Federation",56.8587,35.9176,RU,Europe,Tver
 VIE,"Vienna, Austria",48.1102981567,16.5697002411,AT,Europe,Vienna
 VNO,"Vilnius, Lithuania",54.6341018677,25.2858009338,LT,Europe,Vilnius
 WAW,"Warsaw, Poland",52.1656990051,20.9671001434,PL,Europe,Warsaw
 SVX,"Yekaterinburg, Russia",56.8431,60.6454,RU,Asia Pacific,Yekaterinburg
 ZAG,"Zagreb, Croatia",45.7429008484,16.0687999725,HR,Europe,Zagreb
 ZRH,"Zürich, Switzerland",47.4646987915,8.5491695404,CH,Europe,Zurich
-KLD,"Tver, Russian Federation",56.8587,35.9176,RU,Europe,Tver
 QWJ,"Americana, Brazil",-22.738,-47.334,BR,South America,Americana
 ARI,"Arica, Chile",-18.348611,-70.338889,CL,South America,Arica
 ASU,"Asunción, Paraguay",-25.2399997711,-57.5200004578,PY,South America,Asunción
@@ -203,7 +210,7 @@ NVT,"Timbó, Brazil",-26.8251,-49.2695,BR,South America,Timbo
 UDI,"Uberlândia, Brazil",-18.8836116791,-48.225276947,BR,South America,Uberlandia
 CUR,"Willemstad, Curaçao",12.1888999939,-68.9598007202,CW,South America,Willemstad
 SDQ,"Santo Domingo, Dominican Republic",18.4297008514,-69.6688995361,DO,North America,Santo Domingo
-BNA,"Nashville, United States",36.1245002747,-86.6781997681,US,North America,Nashville
+REC,Recife,-8.1264896393,-34.9235992432,BR,South America,Recife
 AMM,"Amman, Jordan",31.7226009369,35.9931983948,JO,Middle East,Amman
 LLK,"Astara, Azerbaijan",38.7463989258,48.8180007935,AZ,Middle East,Astara
 BGW,"Baghdad, Iraq",33.2625007629,44.2346000671,IQ,Middle East,Baghdad
@@ -250,6 +257,7 @@ MIA,"Miami, FL, United States",25.7931995392,-80.2906036377,US,North America,Mia
 MSP,"Minneapolis, MN, United States",44.8819999695,-93.2218017578,US,North America,Minneapolis
 MGM,"Montgomery, AL, United States",32.30059814,-86.39399719,US,North America,Montgomery
 YUL,"Montréal, QC, Canada",45.4706001282,-73.7407989502,CA,North America,Montréal
+BNA,"Nashville, United States",36.1245002747,-86.6781997681,US,North America,Nashville
 EWR,"Newark, NJ, United States",40.6925010681,-74.1687011719,US,North America,Newark
 ORF,"Norfolk, VA, United States",36.8945999146,-76.2012023926,US,North America,Norfolk
 OMA,"Omaha, NE, United States",41.3031997681,-95.8940963745,US,North America,Omaha
@@ -273,6 +281,7 @@ TPA,"Tampa, FL, United States",27.9755001068,-82.533203125,US,North America,Tamp
 YYZ,"Toronto, ON, Canada",43.6772003174,-79.6305999756,CA,North America,Toronto
 YVR,"Vancouver, BC, Canada",49.193901062,-123.183998108,CA,North America,Vancouver
 YWG,"Winnipeg, MB, Canada",49.9099998474,-97.2398986816,CA,North America,Winnipeg
+SFO,San Francisco,37.6189994812,-122.375,US,North America,San Francisco
 ADL,"Adelaide, SA, Australia",-34.9431729,138.5335637,AU,Oceania,Adelaide
 AKL,"Auckland, New Zealand",-37.0080986023,174.792007446,NZ,Oceania,Auckland
 BNE,"Brisbane, QLD, Australia",-27.3841991425,153.117004394,AU,Oceania,Brisbane
@@ -285,9 +294,3 @@ NOU,"Noumea, New Caledonia",-22.0146007538,166.212997436,NC,Oceania,Noumea
 PER,"Perth, WA, Australia",-31.9402999878,115.967002869,AU,Oceania,Perth
 SYD,"Sydney, NSW, Australia",-33.9460983276,151.177001953,AU,Oceania,Sydney
 PPT,"Tahiti, French Polynesia",-17.5536994934,-149.606994629,PF,Oceania,Tahiti
-REC,"Recife, Brazil",-8.1264896393,-34.9235992432,BR,South America,Recife
-STR,"Stuttgart, Germany",48.783333,9.183333,DE,Europe,Stuttgart
-COK,"Kochi, India",9.9312,76.2673,IN,Asia Pacific,Kochi
-FUK,"Fukuoka, Japan",33.5902,130.4017,JP,Asia Pacific,Fukuoka
-ADB,"Izmir, Turkey",38.32377,27.14317,TR,Europe,Izmir
-SFO,"San Francisco, United States",37.6189994812,-122.375,US,North America,San Francisco

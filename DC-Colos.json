@@ -443,7 +443,7 @@
         "city": "Kochi",
         "lat": 9.9312,
         "lon": 76.2673,
-        "name": "Kochi, India",
+        "name": "Kochi",
         "region": "Asia Pacific"
     },
     "COR": {
@@ -868,6 +868,9 @@
         "lon": 78.4298553467,
         "name": "Hyderabad, India",
         "region": "Asia Pacific"
+    },
+    "HYN": {
+        "name": "Taizhou"
     },
     "IAD": {
         "cca2": "US",
@@ -1481,6 +1484,9 @@
         "name": "Tokyo, Japan",
         "region": "Asia Pacific"
     },
+    "NTG": {
+        "name": "Nantong"
+    },
     "NVT": {
         "cca2": "BR",
         "city": "Timbo",
@@ -1705,7 +1711,7 @@
         "city": "Recife",
         "lat": -8.1264896393,
         "lon": -34.9235992432,
-        "name": "Recife, Brazil",
+        "name": "Recife",
         "region": "South America"
     },
     "RGN": {
@@ -1785,7 +1791,7 @@
         "city": "San Francisco",
         "lat": 37.6189994812,
         "lon": -122.375,
-        "name": "San Francisco, United States",
+        "name": "San Francisco",
         "region": "North America"
     },
     "SGN": {
@@ -2093,6 +2099,9 @@
         "lon": 20.9671001434,
         "name": "Warsaw, Poland",
         "region": "Europe"
+    },
+    "WHU": {
+        "name": "Wuhu"
     },
     "WUH": {
         "name": "Xiaogan, China"
