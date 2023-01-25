@@ -1032,6 +1032,14 @@
         "region": "Europe"
     },
     {
+        "cca2": "JM",
+        "city": "Kingston",
+        "iata": "KIN",
+        "lat": 17.9951,
+        "lon": -76.7846,
+        "region": "North America"
+    },
+    {
         "cca2": "JP",
         "city": "Fukuoka",
         "iata": "FUK",

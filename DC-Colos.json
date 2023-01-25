@@ -1067,6 +1067,14 @@
         "name": "Khabarovsk, Russia",
         "region": "Asia Pacific"
     },
+    "KIN": {
+        "cca2": "JM",
+        "city": "Kingston",
+        "lat": 17.9951,
+        "lon": -76.7846,
+        "name": "Kingston",
+        "region": "North America"
+    },
     "KIV": {
         "cca2": "MD",
         "city": "Chișinău",
