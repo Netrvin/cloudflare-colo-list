@@ -71,9 +71,6 @@
         "name": "Amsterdam, Netherlands",
         "region": "Europe"
     },
-    "AQG": {
-        "name": "Anqing, China"
-    },
     "ARI": {
         "cca2": "CL",
         "city": "Arica",
@@ -834,9 +831,6 @@
         "name": "Haifa, Israel",
         "region": "Middle East"
     },
-    "HGH": {
-        "name": "Jinhua, China"
-    },
     "HKG": {
         "cca2": "HK",
         "city": "Hong Kong",
@@ -1464,9 +1458,6 @@
         "lon": 44.404167,
         "name": "Najaf, Iraq",
         "region": "Middle East"
-    },
-    "NNG": {
-        "name": "Nanning, China"
     },
     "NOU": {
         "cca2": "NC",
@@ -2128,9 +2119,6 @@
         "name": "Nasiriyah, Iraq",
         "region": "Middle East"
     },
-    "XNN": {
-        "name": "Xining, China"
-    },
     "YOW": {
         "cca2": "CA",
         "city": "Ottawa",
@@ -2138,9 +2126,6 @@
         "lon": -75.6691970825,
         "name": "Ottawa, Canada",
         "region": "North America"
-    },
-    "YTY": {
-        "name": "Yangzhou, China"
     },
     "YUL": {
         "cca2": "CA",

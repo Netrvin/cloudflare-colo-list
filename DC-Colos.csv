@@ -23,7 +23,6 @@ RUN,"Réunion, France",-20.8871002197,55.5102996826,RE,Africa,Saint-Denis
 TUN,"Tunis, Tunisia",36.8510017395,10.2271995544,TN,Africa,Tunis
 AMD,"Ahmedabad, India",23.0225,72.5714,IN,Asia Pacific,Ahmedabad
 ALA,"Almaty, Kazakhstan",43.3521003723,77.0404968262,KZ,Asia Pacific,Almaty
-AQG,"Anqing, China",,,,,
 BLR,"Bangalore, India",13.7835719,76.6165937,IN,Asia Pacific,Bangalore
 BKK,"Bangkok, Thailand",13.6810998917,100.747001648,TH,Asia Pacific,Bangkok
 BWN,"Bandar Seri Begawan, Brunei",4.903052,114.939819,BN,Asia Pacific,Bandar Seri Begawan
@@ -51,7 +50,6 @@ ISB,"Islamabad, Pakistan",33.6166992188,73.0991973877,PK,Asia Pacific,Islamabad
 CGK,"Jakarta, Indonesia",-6.1275229,106.6515118,ID,Asia Pacific,Jakarta
 JSR,"Jashore, Bangladesh",23.1837997437,89.1607971191,BD,Asia Pacific,Jashore
 TNA,"Jinan, China",,,,,
-HGH,"Jinhua, China",,,,,
 JHB,"Johor Bahru, Malaysia",1.635848,103.665943,MY,Asia Pacific,Johor Bahru
 KNU,"Kanpur, India",26.4499,80.3319,IN,Asia Pacific,Kanpur
 KHH,Kaohsiung City,22.5771007538,120.3499984741,TW,Asia Pacific,Kaohsiung City
@@ -89,16 +87,13 @@ NRT,"Tokyo, Japan",35.7647018433,140.386001587,JP,Asia Pacific,Tokyo
 ULN,"Ulaanbaatar, Mongolia",47.8431015015,106.766998291,MN,Asia Pacific,Ulaanbaatar
 VTE,"Vientiane, Laos",17.9757,102.5683,LA,Asia Pacific,Vientiane
 WUX,"Wuxi, China",,,,,
-XNN,"Xining, China",,,,,
 KHN,"Xinyu, China",,,,,
 RGN,"Yangon, Myanmar",16.9073009491,96.1332015991,MM,Asia Pacific,Yangon
 EVN,"Yerevan, Armenia",40.1473007202,44.3959007263,AM,Middle East,Yerevan
 JOG,"Yogyakarta, Indonesia",-7.7881798744,110.4319992065,ID,Asia Pacific,Yogyakarta
 CGO,"Zhengzhou, China",,,,,
 CGQ,"Changchun, China",,,,,
-NNG,"Nanning, China",,,,,
 WUH,"Xiaogan, China",,,,,
-YTY,"Yangzhou, China",,,,,
 ZGN,"Zhongshan, China",,,,,
 CGY,"Cagayan de Oro, Philippines",8.4156198502,124.611000061,PH,Asia Pacific,Cagayan de Oro
 CSX,"Changsha, China",,,,,
