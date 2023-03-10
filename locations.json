@@ -408,6 +408,14 @@
         "region": "South America"
     },
     {
+        "cca2": "BR",
+        "city": "Vitoria",
+        "lat": -20.64871,
+        "lon": -41.90857,
+        "name": "Vitoria, Brazil",
+        "region": "South America"
+    },
+    {
         "cca2": "BN",
         "city": "Bandar Seri Begawan",
         "iata": "BWN",

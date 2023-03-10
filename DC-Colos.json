@@ -2075,6 +2075,14 @@
         "name": "Vienna, Austria",
         "region": "Europe"
     },
+    "VIX": {
+        "cca2": "BR",
+        "city": "Vitoria",
+        "lat": -20.64871,
+        "lon": -41.90857,
+        "name": "Vitoria, Brazil",
+        "region": "South America"
+    },
     "VNO": {
         "cca2": "LT",
         "city": "Vilnius",
