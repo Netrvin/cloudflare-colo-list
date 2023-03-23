@@ -159,6 +159,14 @@
         "name": "Beirut, Lebanon",
         "region": "Middle East"
     },
+    "BGR": {
+        "cca2": "US",
+        "city": "Bangor",
+        "lat": 44.8081,
+        "lon": -68.795,
+        "name": "Bangor, United States",
+        "region": "North America"
+    },
     "BGW": {
         "cca2": "IQ",
         "city": "Baghdad",
@@ -1819,6 +1827,14 @@
         "lon": -121.929000855,
         "name": "San Jose, CA, United States",
         "region": "North America"
+    },
+    "SJK": {
+        "cca2": "BR",
+        "city": "São José dos Campos",
+        "lat": -23.1791,
+        "lon": -45.8872,
+        "name": "São José dos Campos, Brazil",
+        "region": "South America"
     },
     "SJO": {
         "cca2": "CR",

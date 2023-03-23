@@ -191,11 +191,13 @@ PBM,"Paramaribo, Suriname",5.452831,-55.187783,SR,South America,Paramaribo
 POA,"Porto Alegre, Brazil",-29.9944000244,-51.1713981628,BR,South America,Porto Alegre
 PAP,"Port-Au-Prince, Haiti",18.5799999237,-72.2925033569,HT,North America,Port-au-Prince
 UIO,"Quito, Ecuador",-0.1291666667,-78.3575,EC,South America,Quito
+REC,Recife,-8.1264896393,-34.9235992432,BR,South America,Recife
 RAO,"Ribeirao Preto, Brazil",-21.1363887787,-47.7766685486,BR,South America,Ribeirao Preto
 GIG,"Rio de Janeiro, Brazil",-22.8099994659,-43.2505569458,BR,South America,Rio de Janeiro
 SSA,"Salvador, Brazil",-12.9086112976,-38.3224983215,BR,South America,Salvador
 SJO,"San José, Costa Rica",9.9938602448,-84.2088012695,CR,South America,San José
 SCL,"Santiago, Chile",-33.3930015564,-70.7857971191,CL,South America,Santiago
+SDQ,"Santo Domingo, Dominican Republic",18.4297008514,-69.6688995361,DO,North America,Santo Domingo
 SJP,"São José do Rio Preto, Brazil",-20.807157,-49.378994,BR,South America,São José do Rio Preto
 GRU,"São Paulo, Brazil",-23.4355564117,-46.4730567932,BR,South America,São Paulo
 SOD,"Sorocaba, Brazil",-23.54389,-46.63445,BR,South America,Sorocaba
@@ -203,9 +205,8 @@ GND,"St. George's, Grenada",12.007116,-61.7882288,GD,South America,St. George's
 TGU,"Tegucigalpa, Honduras",14.0608,-87.2172,HN,South America,Tegucigalpa
 NVT,"Timbó, Brazil",-26.8251,-49.2695,BR,South America,Timbo
 UDI,"Uberlândia, Brazil",-18.8836116791,-48.225276947,BR,South America,Uberlandia
+VIX,"Vitoria, Brazil",-20.64871,-41.90857,BR,South America,Vitoria
 CUR,"Willemstad, Curaçao",12.1888999939,-68.9598007202,CW,South America,Willemstad
-SDQ,"Santo Domingo, Dominican Republic",18.4297008514,-69.6688995361,DO,North America,Santo Domingo
-REC,Recife,-8.1264896393,-34.9235992432,BR,South America,Recife
 AMM,"Amman, Jordan",31.7226009369,35.9931983948,JO,Middle East,Amman
 LLK,"Astara, Azerbaijan",38.7463989258,48.8180007935,AZ,Middle East,Astara
 BGW,"Baghdad, Iraq",33.2625007629,44.2346000671,IQ,Middle East,Baghdad
@@ -290,4 +291,5 @@ NOU,"Noumea, New Caledonia",-22.0146007538,166.212997436,NC,Oceania,Noumea
 PER,"Perth, WA, Australia",-31.9402999878,115.967002869,AU,Oceania,Perth
 SYD,"Sydney, NSW, Australia",-33.9460983276,151.177001953,AU,Oceania,Sydney
 PPT,"Tahiti, French Polynesia",-17.5536994934,-149.606994629,PF,Oceania,Tahiti
-VIX,"Vitoria, Brazil",-20.64871,-41.90857,BR,South America,Vitoria
+SJK,"São José dos Campos, Brazil",-23.1791,-45.8872,BR,South America,São José dos Campos
+BGR,"Bangor, United States",44.8081,-68.795,US,North America,Bangor

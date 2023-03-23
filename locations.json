@@ -377,6 +377,14 @@
     },
     {
         "cca2": "BR",
+        "city": "São José dos Campos",
+        "lat": -23.1791,
+        "lon": -45.8872,
+        "name": "São José dos Campos, Brazil",
+        "region": "South America"
+    },
+    {
+        "cca2": "BR",
         "city": "São Paulo",
         "iata": "GRU",
         "lat": -23.4355564117,
@@ -410,9 +418,9 @@
     {
         "cca2": "BR",
         "city": "Vitoria",
+        "iata": "VIX",
         "lat": -20.64871,
         "lon": -41.90857,
-        "name": "Vitoria, Brazil",
         "region": "South America"
     },
     {
@@ -1901,6 +1909,14 @@
         "iata": "IND",
         "lat": 39.717300415,
         "lon": -86.2944030762,
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "Bangor",
+        "lat": 44.8081,
+        "lon": -68.795,
+        "name": "Bangor, United States",
         "region": "North America"
     },
     {
