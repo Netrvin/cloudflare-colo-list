@@ -207,6 +207,7 @@ NVT,"Timbó, Brazil",-26.8251,-49.2695,BR,South America,Timbo
 UDI,"Uberlândia, Brazil",-18.8836116791,-48.225276947,BR,South America,Uberlandia
 VIX,"Vitoria, Brazil",-20.64871,-41.90857,BR,South America,Vitoria
 CUR,"Willemstad, Curaçao",12.1888999939,-68.9598007202,CW,South America,Willemstad
+SJK,São José dos Campos,-23.1791,-45.8872,BR,South America,São José dos Campos
 AMM,"Amman, Jordan",31.7226009369,35.9931983948,JO,Middle East,Amman
 LLK,"Astara, Azerbaijan",38.7463989258,48.8180007935,AZ,Middle East,Astara
 BGW,"Baghdad, Iraq",33.2625007629,44.2346000671,IQ,Middle East,Baghdad
@@ -279,6 +280,7 @@ YVR,"Vancouver, BC, Canada",49.193901062,-123.183998108,CA,North America,Vancouv
 YWG,"Winnipeg, MB, Canada",49.9099998474,-97.2398986816,CA,North America,Winnipeg
 SFO,San Francisco,37.6189994812,-122.375,US,North America,San Francisco
 KIN,Kingston,17.9951,-76.7846,JM,North America,Kingston
+BGR,Bangor,44.8081,-68.795,US,North America,Bangor
 ADL,"Adelaide, SA, Australia",-34.9431729,138.5335637,AU,Oceania,Adelaide
 AKL,"Auckland, New Zealand",-37.0080986023,174.792007446,NZ,Oceania,Auckland
 BNE,"Brisbane, QLD, Australia",-27.3841991425,153.117004394,AU,Oceania,Brisbane
@@ -291,5 +293,3 @@ NOU,"Noumea, New Caledonia",-22.0146007538,166.212997436,NC,Oceania,Noumea
 PER,"Perth, WA, Australia",-31.9402999878,115.967002869,AU,Oceania,Perth
 SYD,"Sydney, NSW, Australia",-33.9460983276,151.177001953,AU,Oceania,Sydney
 PPT,"Tahiti, French Polynesia",-17.5536994934,-149.606994629,PF,Oceania,Tahiti
-SJK,"São José dos Campos, Brazil",-23.1791,-45.8872,BR,South America,São José dos Campos
-BGR,"Bangor, United States",44.8081,-68.795,US,North America,Bangor

@@ -378,9 +378,9 @@
     {
         "cca2": "BR",
         "city": "São José dos Campos",
+        "iata": "SJK",
         "lat": -23.1791,
         "lon": -45.8872,
-        "name": "São José dos Campos, Brazil",
         "region": "South America"
     },
     {
@@ -1914,9 +1914,9 @@
     {
         "cca2": "US",
         "city": "Bangor",
+        "iata": "BGR",
         "lat": 44.8081,
         "lon": -68.795,
-        "name": "Bangor, United States",
         "region": "North America"
     },
     {

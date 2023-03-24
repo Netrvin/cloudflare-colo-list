@@ -164,7 +164,7 @@
         "city": "Bangor",
         "lat": 44.8081,
         "lon": -68.795,
-        "name": "Bangor, United States",
+        "name": "Bangor",
         "region": "North America"
     },
     "BGW": {
@@ -1833,7 +1833,7 @@
         "city": "São José dos Campos",
         "lat": -23.1791,
         "lon": -45.8872,
-        "name": "São José dos Campos, Brazil",
+        "name": "São José dos Campos",
         "region": "South America"
     },
     "SJO": {
