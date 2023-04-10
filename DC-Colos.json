@@ -654,6 +654,14 @@
         "name": "Rome, Italy",
         "region": "Europe"
     },
+    "FIH": {
+        "cca2": "CD",
+        "city": "Kinshasa",
+        "lat": -4.3857498169,
+        "lon": 15.4446001053,
+        "name": "Kinshasa",
+        "region": "Africa"
+    },
     "FLN": {
         "cca2": "BR",
         "city": "Florianopolis",

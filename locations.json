@@ -552,6 +552,14 @@
         "region": "South America"
     },
     {
+        "cca2": "CD",
+        "city": "Kinshasa",
+        "iata": "FIH",
+        "lat": -4.3857498169,
+        "lon": 15.4446001053,
+        "region": "Africa"
+    },
+    {
         "cca2": "CR",
         "city": "San José",
         "iata": "SJO",
