@@ -4,18 +4,20 @@ import bs4
 import os
 import sys
 import re
+import time
 import unicodedata
 import pandas as pd
 
 os.chdir(os.path.split(os.path.realpath(sys.argv[0]))[0])
 
 
-def get(url, retry=3):
+def get(url, retry=5):
     try:
         r = requests.get(url, timeout=5)
         return r
     except:
         if retry > 0:
+            time.sleep(1)
             return get(url, retry - 1)
         else:
             raise Exception('Failed to get url: {}'.format(url))
