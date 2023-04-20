@@ -200,6 +200,7 @@ SJO,"San José, Costa Rica",9.9938602448,-84.2088012695,CR,South America,San Jo
 SCL,"Santiago, Chile",-33.3930015564,-70.7857971191,CL,South America,Santiago
 SDQ,"Santo Domingo, Dominican Republic",18.4297008514,-69.6688995361,DO,North America,Santo Domingo
 SJP,"São José do Rio Preto, Brazil",-20.807157,-49.378994,BR,South America,São José do Rio Preto
+SJK,"São José dos Campos, Brazil",-23.1791,-45.8872,BR,South America,São José dos Campos
 GRU,"São Paulo, Brazil",-23.4355564117,-46.4730567932,BR,South America,São Paulo
 SOD,"Sorocaba, Brazil",-23.54389,-46.63445,BR,South America,Sorocaba
 GND,"St. George's, Grenada",12.007116,-61.7882288,GD,South America,St. George's
@@ -208,7 +209,6 @@ NVT,"Timbó, Brazil",-26.8251,-49.2695,BR,South America,Timbo
 UDI,"Uberlândia, Brazil",-18.8836116791,-48.225276947,BR,South America,Uberlandia
 VIX,"Vitoria, Brazil",-20.64871,-41.90857,BR,South America,Vitoria
 CUR,"Willemstad, Curaçao",12.1888999939,-68.9598007202,CW,South America,Willemstad
-SJK,São José dos Campos,-23.1791,-45.8872,BR,South America,São José dos Campos
 AMM,"Amman, Jordan",31.7226009369,35.9931983948,JO,Middle East,Amman
 LLK,"Astara, Azerbaijan",38.7463989258,48.8180007935,AZ,Middle East,Astara
 BGW,"Baghdad, Iraq",33.2625007629,44.2346000671,IQ,Middle East,Baghdad
@@ -232,6 +232,7 @@ ISU,"Sulaymaniyah, Iraq",35.5668,45.4161,IQ,Middle East,Sulaymaniyah
 TLV,"Tel Aviv, Israel",32.0113983154,34.8866996765,IL,Middle East,Tel Aviv
 IAD,"Ashburn, VA, United States",38.94449997,-77.45580292,US,North America,Ashburn
 ATL,"Atlanta, GA, United States",33.6366996765,-84.4281005859,US,North America,Atlanta
+BGR,Bangor,44.8081,-68.795,US,North America,Bangor
 BOS,"Boston, MA, United States",42.36429977,-71.00520325,US,North America,Boston
 BUF,"Buffalo, NY, United States",42.94049835,-78.73220062,US,North America,Buffalo
 YYC,"Calgary, AB, Canada",51.113899231,-114.019996643,CA,North America,Calgary
@@ -281,7 +282,6 @@ YVR,"Vancouver, BC, Canada",49.193901062,-123.183998108,CA,North America,Vancouv
 YWG,"Winnipeg, MB, Canada",49.9099998474,-97.2398986816,CA,North America,Winnipeg
 SFO,San Francisco,37.6189994812,-122.375,US,North America,San Francisco
 KIN,Kingston,17.9951,-76.7846,JM,North America,Kingston
-BGR,Bangor,44.8081,-68.795,US,North America,Bangor
 ADL,"Adelaide, SA, Australia",-34.9431729,138.5335637,AU,Oceania,Adelaide
 AKL,"Auckland, New Zealand",-37.0080986023,174.792007446,NZ,Oceania,Auckland
 BNE,"Brisbane, QLD, Australia",-27.3841991425,153.117004394,AU,Oceania,Brisbane
