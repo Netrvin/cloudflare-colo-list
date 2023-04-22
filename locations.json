@@ -2065,6 +2065,14 @@
     },
     {
         "cca2": "US",
+        "city": "Austin",
+        "iata": "AUS",
+        "lat": 30.1975,
+        "lon": -97.6664,
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
         "city": "Dallas",
         "iata": "DFW",
         "lat": 32.8968009949,

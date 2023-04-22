@@ -111,6 +111,14 @@
         "name": "Atlanta, GA, United States",
         "region": "North America"
     },
+    "AUS": {
+        "cca2": "US",
+        "city": "Austin",
+        "lat": 30.1975,
+        "lon": -97.6664,
+        "name": "Austin",
+        "region": "North America"
+    },
     "BAH": {
         "cca2": "BH",
         "city": "Manama",
