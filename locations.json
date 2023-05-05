@@ -1993,6 +1993,14 @@
     },
     {
         "cca2": "US",
+        "city": "Albuquerque",
+        "iata": "ABQ",
+        "lat": 35.0844,
+        "lon": -106.6504,
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
         "city": "Buffalo",
         "iata": "BUF",
         "lat": 42.94049835,

@@ -1,4 +1,12 @@
 {
+    "ABQ": {
+        "cca2": "US",
+        "city": "Albuquerque",
+        "lat": 35.0844,
+        "lon": -106.6504,
+        "name": "Albuquerque",
+        "region": "North America"
+    },
     "ACC": {
         "cca2": "GH",
         "city": "Accra",
