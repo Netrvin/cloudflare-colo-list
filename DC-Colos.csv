@@ -22,6 +22,7 @@ MRU,"Port Louis, Mauritius",-20.4302005768,57.6836013794,MU,Africa,Port Louis
 RUN,"Réunion, France",-20.8871002197,55.5102996826,RE,Africa,Saint-Denis
 TUN,"Tunis, Tunisia",36.8510017395,10.2271995544,TN,Africa,Tunis
 FIH,Kinshasa,-4.3857498169,15.4446001053,CD,Africa,Kinshasa
+ORN,Oran,35.6911,-0.6416,DZ,Africa,Oran
 AMD,"Ahmedabad, India",23.0225,72.5714,IN,Asia Pacific,Ahmedabad
 ALA,"Almaty, Kazakhstan",43.3521003723,77.0404968262,KZ,Asia Pacific,Almaty
 BLR,"Bangalore, India",13.7835719,76.6165937,IN,Asia Pacific,Bangalore
@@ -230,6 +231,7 @@ ZDM,Ramallah,32.2719,35.0194,PS,Middle East,Ramallah
 RUH,"Riyadh, Saudi Arabia",24.9575996399,46.6987991333,SA,Middle East,Riyadh
 ISU,"Sulaymaniyah, Iraq",35.5668,45.4161,IQ,Middle East,Sulaymaniyah
 TLV,"Tel Aviv, Israel",32.0113983154,34.8866996765,IL,Middle East,Tel Aviv
+ABQ,Albuquerque,35.0844,-106.6504,US,North America,Albuquerque
 IAD,"Ashburn, VA, United States",38.94449997,-77.45580292,US,North America,Ashburn
 ATL,"Atlanta, GA, United States",33.6366996765,-84.4281005859,US,North America,Atlanta
 BGR,Bangor,44.8081,-68.795,US,North America,Bangor
@@ -283,7 +285,6 @@ YWG,"Winnipeg, MB, Canada",49.9099998474,-97.2398986816,CA,North America,Winnipe
 SFO,San Francisco,37.6189994812,-122.375,US,North America,San Francisco
 KIN,Kingston,17.9951,-76.7846,JM,North America,Kingston
 AUS,Austin,30.1975,-97.6664,US,North America,Austin
-ABQ,Albuquerque,35.0844,-106.6504,US,North America,Albuquerque
 ADL,"Adelaide, SA, Australia",-34.9431729,138.5335637,AU,Oceania,Adelaide
 AKL,"Auckland, New Zealand",-37.0080986023,174.792007446,NZ,Oceania,Auckland
 BNE,"Brisbane, QLD, Australia",-27.3841991425,153.117004394,AU,Oceania,Brisbane

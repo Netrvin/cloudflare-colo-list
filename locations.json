@@ -16,6 +16,14 @@
         "region": "Africa"
     },
     {
+        "cca2": "DZ",
+        "city": "Oran",
+        "iata": "ORN",
+        "lat": 35.6911,
+        "lon": -0.6416,
+        "region": "Africa"
+    },
+    {
         "cca2": "AO",
         "city": "Luanda",
         "iata": "LAD",

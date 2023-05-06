@@ -1566,6 +1566,14 @@
         "name": "Cork, Ireland",
         "region": "Europe"
     },
+    "ORN": {
+        "cca2": "DZ",
+        "city": "Oran",
+        "lat": 35.6911,
+        "lon": -0.6416,
+        "name": "Oran",
+        "region": "Africa"
+    },
     "OSL": {
         "cca2": "NO",
         "city": "Oslo",
