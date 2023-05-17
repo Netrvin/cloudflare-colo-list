@@ -314,6 +314,14 @@
     "CAN": {
         "name": "Guangzhou, China"
     },
+    "CAW": {
+        "cca2": "BR",
+        "city": "Campos dos Goytacazes",
+        "lat": -21.698299408,
+        "lon": -41.301700592,
+        "name": "Campos dos Goytacazes",
+        "region": "South America"
+    },
     "CBR": {
         "cca2": "AU",
         "city": "Canberra",
