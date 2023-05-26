@@ -1275,6 +1275,14 @@
     "LYA": {
         "name": "Luoyang, China"
     },
+    "LYS": {
+        "cca2": "FR",
+        "city": "Lyon",
+        "lat": 45.7263,
+        "lon": 5.0908,
+        "name": "Lyon",
+        "region": "Europe"
+    },
     "MAA": {
         "cca2": "IN",
         "city": "Chennai",

@@ -673,6 +673,14 @@
     },
     {
         "cca2": "FR",
+        "city": "Lyon",
+        "iata": "LYS",
+        "lat": 45.7263,
+        "lon": 5.0908,
+        "region": "Europe"
+    },
+    {
+        "cca2": "FR",
         "city": "Marseille",
         "iata": "MRS",
         "lat": 43.439271922,
