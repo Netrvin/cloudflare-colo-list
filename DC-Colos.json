@@ -590,6 +590,14 @@
         "name": "Doha, Qatar",
         "region": "Middle East"
     },
+    "DPS": {
+        "cca2": "ID",
+        "city": "Denpasar",
+        "lat": -8.748169899,
+        "lon": 115.1669998169,
+        "name": "Denpasar",
+        "region": "Asia Pacific"
+    },
     "DTW": {
         "cca2": "US",
         "city": "Detroit",

@@ -961,6 +961,14 @@
     },
     {
         "cca2": "ID",
+        "city": "Denpasar",
+        "iata": "DPS",
+        "lat": -8.748169899,
+        "lon": 115.1669998169,
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "ID",
         "city": "Jakarta",
         "iata": "CGK",
         "lat": -6.1275229,
