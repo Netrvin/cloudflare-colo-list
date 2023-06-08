@@ -748,6 +748,14 @@
         "name": "Gaborone, Botswana",
         "region": "Africa"
     },
+    "GDL": {
+        "cca2": "MX",
+        "city": "Guadalajara",
+        "lat": 20.5217990875,
+        "lon": -103.3109970093,
+        "name": "Guadalajara",
+        "region": "North America"
+    },
     "GEO": {
         "cca2": "GY",
         "city": "Georgetown",

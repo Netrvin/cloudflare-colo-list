@@ -1265,6 +1265,14 @@
     },
     {
         "cca2": "MX",
+        "city": "Guadalajara",
+        "iata": "GDL",
+        "lat": 20.5217990875,
+        "lon": -103.3109970093,
+        "region": "North America"
+    },
+    {
+        "cca2": "MX",
         "city": "Mexico City",
         "iata": "MEX",
         "lat": 19.4363002777,
