@@ -905,6 +905,14 @@
     },
     {
         "cca2": "IN",
+        "city": "Kannur",
+        "iata": "CNN",
+        "lat": 11.915858,
+        "lon": 75.55094,
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "IN",
         "city": "Kanpur",
         "iata": "KNU",
         "lat": 26.4499,

@@ -459,6 +459,14 @@
         "name": "Belo Horizonte, Brazil",
         "region": "South America"
     },
+    "CNN": {
+        "cca2": "IN",
+        "city": "Kannur",
+        "lat": 11.915858,
+        "lon": 75.55094,
+        "name": "Kannur",
+        "region": "Asia Pacific"
+    },
     "CNX": {
         "cca2": "TH",
         "city": "Chiang Mai",
