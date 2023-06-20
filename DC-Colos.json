@@ -1,4 +1,12 @@
 {
+    "AAE": {
+        "cca2": "DZ",
+        "city": "Annaba",
+        "lat": 36.85596,
+        "lon": 7.79207,
+        "name": "Annaba",
+        "region": "Africa"
+    },
     "ABQ": {
         "cca2": "US",
         "city": "Albuquerque",

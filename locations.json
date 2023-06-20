@@ -17,6 +17,14 @@
     },
     {
         "cca2": "DZ",
+        "city": "Annaba",
+        "iata": "AAE",
+        "lat": 36.85596,
+        "lon": 7.79207,
+        "region": "Africa"
+    },
+    {
+        "cca2": "DZ",
         "city": "Oran",
         "iata": "ORN",
         "lat": 35.6911,
