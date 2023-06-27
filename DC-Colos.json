@@ -2086,12 +2086,7 @@
         "region": "Africa"
     },
     "TPA": {
-        "cca2": "US",
-        "city": "Tampa",
-        "lat": 27.9755001068,
-        "lon": -82.533203125,
-        "name": "Tampa, FL, United States",
-        "region": "North America"
+        "name": "Tampa, FL, United States"
     },
     "TPE": {
         "cca2": "TW",

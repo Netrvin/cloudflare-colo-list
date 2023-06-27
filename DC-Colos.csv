@@ -284,7 +284,7 @@ SEA,"Seattle, WA, United States",47.4490013123,-122.308998108,US,North America,S
 FSD,"Sioux Falls, South Dakota",43.540819819502,-96.65511577730963,US,North America,Sioux Falls
 STL,"St. Louis, MO, United States",38.7486991882,-90.3700027466,US,North America,St. Louis
 TLH,"Tallahassee, FL, United States",30.3964996338,-84.3503036499,US,North America,Tallahassee
-TPA,"Tampa, FL, United States",27.9755001068,-82.533203125,US,North America,Tampa
+TPA,"Tampa, FL, United States",,,,,
 YYZ,"Toronto, ON, Canada",43.6772003174,-79.6305999756,CA,North America,Toronto
 YVR,"Vancouver, BC, Canada",49.193901062,-123.183998108,CA,North America,Vancouver
 YWG,"Winnipeg, MB, Canada",49.9099998474,-97.2398986816,CA,North America,Winnipeg
