@@ -21,9 +21,9 @@ OUA,"Ouagadougou, Burkina Faso",12.3531999588,-1.5124200583,BF,Africa,Ouagadougo
 MRU,"Port Louis, Mauritius",-20.4302005768,57.6836013794,MU,Africa,Port Louis
 RUN,"Réunion, France",-20.8871002197,55.5102996826,RE,Africa,Saint-Denis
 TUN,"Tunis, Tunisia",36.8510017395,10.2271995544,TN,Africa,Tunis
-FIH,Kinshasa,-4.3857498169,15.4446001053,CD,Africa,Kinshasa
-ORN,Oran,35.6911,-0.6416,DZ,Africa,Oran
-AAE,Annaba,36.85596,7.79207,DZ,Africa,Annaba
+FIH,"Kinshasa, DR Congo",-4.3857498169,15.4446001053,CD,Africa,Kinshasa
+ORN,"Oran, Algeria",35.6911,-0.6416,DZ,Africa,Oran
+AAE,"Annaba, Algeria",36.85596,7.79207,DZ,Africa,Annaba
 AMD,"Ahmedabad, India",23.0225,72.5714,IN,Asia Pacific,Ahmedabad
 ALA,"Almaty, Kazakhstan",43.3521003723,77.0404968262,KZ,Asia Pacific,Almaty
 BLR,"Bangalore, India",13.7835719,76.6165937,IN,Asia Pacific,Bangalore
@@ -55,7 +55,7 @@ JSR,"Jashore, Bangladesh",23.1837997437,89.1607971191,BD,Asia Pacific,Jashore
 TNA,"Jinan, China",,,,,
 JHB,"Johor Bahru, Malaysia",1.635848,103.665943,MY,Asia Pacific,Johor Bahru
 KNU,"Kanpur, India",26.4499,80.3319,IN,Asia Pacific,Kanpur
-KHH,Kaohsiung City,22.5771007538,120.3499984741,TW,Asia Pacific,Kaohsiung City
+KHH,"Kaohsiung City, Taiwan",22.5771007538,120.3499984741,TW,Asia Pacific,Kaohsiung City
 KHI,"Karachi, Pakistan",24.9064998627,67.1607971191,PK,Asia Pacific,Karachi
 KTM,"Kathmandu, Nepal",27.6965999603,85.3591003418,NP,Asia Pacific,Kathmandu
 KHV,"Khabarovsk, Russia",48.5279998779,135.18800354,RU,Asia Pacific,Khabarovsk
@@ -89,7 +89,6 @@ TSN,"Tianjin, China",,,,,
 NRT,"Tokyo, Japan",35.7647018433,140.386001587,JP,Asia Pacific,Tokyo
 ULN,"Ulaanbaatar, Mongolia",47.8431015015,106.766998291,MN,Asia Pacific,Ulaanbaatar
 VTE,"Vientiane, Laos",17.9757,102.5683,LA,Asia Pacific,Vientiane
-WUX,"Wuxi, China",,,,,
 KHN,"Xinyu, China",,,,,
 RGN,"Yangon, Myanmar",16.9073009491,96.1332015991,MM,Asia Pacific,Yangon
 EVN,"Yerevan, Armenia",40.1473007202,44.3959007263,AM,Middle East,Yerevan
@@ -101,13 +100,13 @@ ZGN,"Zhongshan, China",,,,,
 CGY,"Cagayan de Oro, Philippines",8.4156198502,124.611000061,PH,Asia Pacific,Cagayan de Oro
 CSX,"Changsha, China",,,,,
 TYN,"Datong, China",,,,,
-WHU,Wuhu,,,,,
-HYN,Taizhou,,,,,
-COK,Kochi,9.9312,76.2673,IN,Asia Pacific,Kochi
-NTG,Nantong,,,,,
-XMN,Xiamen,,,,,
-DPS,Denpasar,-8.748169899,115.1669998169,ID,Asia Pacific,Denpasar
-CNN,Kannur,11.915858,75.55094,IN,Asia Pacific,Kannur
+WHU,"Wuhu, China",,,,,
+HYN,"Taizhou, China",,,,,
+COK,"Kochi, India",9.9312,76.2673,IN,Asia Pacific,Kochi
+NTG,"Nantong, China",,,,,
+XMN,"Xiamen, China",,,,,
+DPS,"Denpasar, Indonesia",-8.748169899,115.1669998169,ID,Asia Pacific,Denpasar
+CNN,"Kannur, India",11.915858,75.55094,IN,Asia Pacific,Kannur
 AMS,"Amsterdam, Netherlands",52.3086013794,4.7638897896,NL,Europe,Amsterdam
 ATH,"Athens, Greece",37.9364013672,23.9444999695,GR,Europe,Athens
 BCN,"Barcelona, Spain",41.2971000671,2.0784599781,ES,Europe,Barcelona
@@ -164,7 +163,7 @@ WAW,"Warsaw, Poland",52.1656990051,20.9671001434,PL,Europe,Warsaw
 SVX,"Yekaterinburg, Russia",56.8431,60.6454,RU,Asia Pacific,Yekaterinburg
 ZAG,"Zagreb, Croatia",45.7429008484,16.0687999725,HR,Europe,Zagreb
 ZRH,"Zürich, Switzerland",47.4646987915,8.5491695404,CH,Europe,Zurich
-LYS,Lyon,45.7263,5.0908,FR,Europe,Lyon
+LYS,"Lyon, France",45.7263,5.0908,FR,Europe,Lyon
 QWJ,"Americana, Brazil",-22.738,-47.334,BR,South America,Americana
 ARI,"Arica, Chile",-18.348611,-70.338889,CL,South America,Arica
 ASU,"Asunción, Paraguay",-25.2399997711,-57.5200004578,PY,South America,Asunción
@@ -198,7 +197,7 @@ PBM,"Paramaribo, Suriname",5.452831,-55.187783,SR,South America,Paramaribo
 POA,"Porto Alegre, Brazil",-29.9944000244,-51.1713981628,BR,South America,Porto Alegre
 PAP,"Port-Au-Prince, Haiti",18.5799999237,-72.2925033569,HT,North America,Port-au-Prince
 UIO,"Quito, Ecuador",-0.1291666667,-78.3575,EC,South America,Quito
-REC,Recife,-8.1264896393,-34.9235992432,BR,South America,Recife
+REC,"Recife, Brazil",-8.1264896393,-34.9235992432,BR,South America,Recife
 RAO,"Ribeirao Preto, Brazil",-21.1363887787,-47.7766685486,BR,South America,Ribeirao Preto
 GIG,"Rio de Janeiro, Brazil",-22.8099994659,-43.2505569458,BR,South America,Rio de Janeiro
 SSA,"Salvador, Brazil",-12.9086112976,-38.3224983215,BR,South America,Salvador
@@ -215,7 +214,7 @@ NVT,"Timbó, Brazil",-26.8251,-49.2695,BR,South America,Timbo
 UDI,"Uberlândia, Brazil",-18.8836116791,-48.225276947,BR,South America,Uberlandia
 VIX,"Vitoria, Brazil",-20.64871,-41.90857,BR,South America,Vitoria
 CUR,"Willemstad, Curaçao",12.1888999939,-68.9598007202,CW,South America,Willemstad
-CAW,Campos dos Goytacazes,-21.698299408,-41.301700592,BR,South America,Campos dos Goytacazes
+CAW,"Campos dos Goytacazes, Brazil",-21.698299408,-41.301700592,BR,South America,Campos dos Goytacazes
 AMM,"Amman, Jordan",31.7226009369,35.9931983948,JO,Middle East,Amman
 LLK,"Astara, Azerbaijan",38.7463989258,48.8180007935,AZ,Middle East,Astara
 BGW,"Baghdad, Iraq",33.2625007629,44.2346000671,IQ,Middle East,Baghdad
@@ -237,10 +236,8 @@ ZDM,Ramallah,32.2719,35.0194,PS,Middle East,Ramallah
 RUH,"Riyadh, Saudi Arabia",24.9575996399,46.6987991333,SA,Middle East,Riyadh
 ISU,"Sulaymaniyah, Iraq",35.5668,45.4161,IQ,Middle East,Sulaymaniyah
 TLV,"Tel Aviv, Israel",32.0113983154,34.8866996765,IL,Middle East,Tel Aviv
-ABQ,Albuquerque,35.0844,-106.6504,US,North America,Albuquerque
 IAD,"Ashburn, VA, United States",38.94449997,-77.45580292,US,North America,Ashburn
 ATL,"Atlanta, GA, United States",33.6366996765,-84.4281005859,US,North America,Atlanta
-BGR,Bangor,44.8081,-68.795,US,North America,Bangor
 BOS,"Boston, MA, United States",42.36429977,-71.00520325,US,North America,Boston
 BUF,"Buffalo, NY, United States",42.94049835,-78.73220062,US,North America,Buffalo
 YYC,"Calgary, AB, Canada",51.113899231,-114.019996643,CA,North America,Calgary
@@ -284,14 +281,15 @@ SEA,"Seattle, WA, United States",47.4490013123,-122.308998108,US,North America,S
 FSD,"Sioux Falls, South Dakota",43.540819819502,-96.65511577730963,US,North America,Sioux Falls
 STL,"St. Louis, MO, United States",38.7486991882,-90.3700027466,US,North America,St. Louis
 TLH,"Tallahassee, FL, United States",30.3964996338,-84.3503036499,US,North America,Tallahassee
-TPA,"Tampa, FL, United States",,,,,
 YYZ,"Toronto, ON, Canada",43.6772003174,-79.6305999756,CA,North America,Toronto
 YVR,"Vancouver, BC, Canada",49.193901062,-123.183998108,CA,North America,Vancouver
 YWG,"Winnipeg, MB, Canada",49.9099998474,-97.2398986816,CA,North America,Winnipeg
-SFO,San Francisco,37.6189994812,-122.375,US,North America,San Francisco
-KIN,Kingston,17.9951,-76.7846,JM,North America,Kingston
-AUS,Austin,30.1975,-97.6664,US,North America,Austin
-GDL,Guadalajara,20.5217990875,-103.3109970093,MX,North America,Guadalajara
+SFO,"San Francisco, United States",37.6189994812,-122.375,US,North America,San Francisco
+KIN,"Kingston, Jamaica",17.9951,-76.7846,JM,North America,Kingston
+BGR,"Bangor, United States",44.8081,-68.795,US,North America,Bangor
+AUS,"Austin, United States",30.1975,-97.6664,US,North America,Austin
+ABQ,"Albuquerque, United States",35.0844,-106.6504,US,North America,Albuquerque
+GDL,"Guadalajara, Mexico",20.5217990875,-103.3109970093,MX,North America,Guadalajara
 ADL,"Adelaide, SA, Australia",-34.9431729,138.5335637,AU,Oceania,Adelaide
 AKL,"Auckland, New Zealand",-37.0080986023,174.792007446,NZ,Oceania,Auckland
 BNE,"Brisbane, QLD, Australia",-27.3841991425,153.117004394,AU,Oceania,Brisbane

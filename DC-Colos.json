@@ -4,7 +4,7 @@
         "city": "Annaba",
         "lat": 36.85596,
         "lon": 7.79207,
-        "name": "Annaba",
+        "name": "Annaba, Algeria",
         "region": "Africa"
     },
     "ABQ": {
@@ -12,7 +12,7 @@
         "city": "Albuquerque",
         "lat": 35.0844,
         "lon": -106.6504,
-        "name": "Albuquerque",
+        "name": "Albuquerque, United States",
         "region": "North America"
     },
     "ACC": {
@@ -132,7 +132,7 @@
         "city": "Austin",
         "lat": 30.1975,
         "lon": -97.6664,
-        "name": "Austin",
+        "name": "Austin, United States",
         "region": "North America"
     },
     "BAH": {
@@ -188,7 +188,7 @@
         "city": "Bangor",
         "lat": 44.8081,
         "lon": -68.795,
-        "name": "Bangor",
+        "name": "Bangor, United States",
         "region": "North America"
     },
     "BGW": {
@@ -327,7 +327,7 @@
         "city": "Campos dos Goytacazes",
         "lat": -21.698299408,
         "lon": -41.301700592,
-        "name": "Campos dos Goytacazes",
+        "name": "Campos dos Goytacazes, Brazil",
         "region": "South America"
     },
     "CBR": {
@@ -472,7 +472,7 @@
         "city": "Kannur",
         "lat": 11.915858,
         "lon": 75.55094,
-        "name": "Kannur",
+        "name": "Kannur, India",
         "region": "Asia Pacific"
     },
     "CNX": {
@@ -488,7 +488,7 @@
         "city": "Kochi",
         "lat": 9.9312,
         "lon": 76.2673,
-        "name": "Kochi",
+        "name": "Kochi, India",
         "region": "Asia Pacific"
     },
     "COR": {
@@ -611,7 +611,7 @@
         "city": "Denpasar",
         "lat": -8.748169899,
         "lon": 115.1669998169,
-        "name": "Denpasar",
+        "name": "Denpasar, Indonesia",
         "region": "Asia Pacific"
     },
     "DTW": {
@@ -707,7 +707,7 @@
         "city": "Kinshasa",
         "lat": -4.3857498169,
         "lon": 15.4446001053,
-        "name": "Kinshasa",
+        "name": "Kinshasa, DR Congo",
         "region": "Africa"
     },
     "FLN": {
@@ -769,7 +769,7 @@
         "city": "Guadalajara",
         "lat": 20.5217990875,
         "lon": -103.3109970093,
-        "name": "Guadalajara",
+        "name": "Guadalajara, Mexico",
         "region": "North America"
     },
     "GEO": {
@@ -936,7 +936,7 @@
         "region": "Asia Pacific"
     },
     "HYN": {
-        "name": "Taizhou"
+        "name": "Taizhou, China"
     },
     "IAD": {
         "cca2": "US",
@@ -1111,7 +1111,7 @@
         "city": "Kaohsiung City",
         "lat": 22.5771007538,
         "lon": 120.3499984741,
-        "name": "Kaohsiung City",
+        "name": "Kaohsiung City, Taiwan",
         "region": "Asia Pacific"
     },
     "KHI": {
@@ -1138,7 +1138,7 @@
         "city": "Kingston",
         "lat": 17.9951,
         "lon": -76.7846,
-        "name": "Kingston",
+        "name": "Kingston, Jamaica",
         "region": "North America"
     },
     "KIV": {
@@ -1312,7 +1312,7 @@
         "city": "Lyon",
         "lat": 45.7263,
         "lon": 5.0908,
-        "name": "Lyon",
+        "name": "Lyon, France",
         "region": "Europe"
     },
     "MAA": {
@@ -1564,7 +1564,7 @@
         "region": "Asia Pacific"
     },
     "NTG": {
-        "name": "Nantong"
+        "name": "Nantong, China"
     },
     "NVT": {
         "cca2": "BR",
@@ -1619,7 +1619,7 @@
         "city": "Oran",
         "lat": 35.6911,
         "lon": -0.6416,
-        "name": "Oran",
+        "name": "Oran, Algeria",
         "region": "Africa"
     },
     "OSL": {
@@ -1798,7 +1798,7 @@
         "city": "Recife",
         "lat": -8.1264896393,
         "lon": -34.9235992432,
-        "name": "Recife",
+        "name": "Recife, Brazil",
         "region": "South America"
     },
     "RGN": {
@@ -1878,7 +1878,7 @@
         "city": "San Francisco",
         "lat": 37.6189994812,
         "lon": -122.375,
-        "name": "San Francisco",
+        "name": "San Francisco, United States",
         "region": "North America"
     },
     "SGN": {
@@ -2085,9 +2085,6 @@
         "name": "Antananarivo, Madagascar",
         "region": "Africa"
     },
-    "TPA": {
-        "name": "Tampa, FL, United States"
-    },
     "TPE": {
         "cca2": "TW",
         "city": "Taipei",
@@ -2199,19 +2196,16 @@
         "region": "Europe"
     },
     "WHU": {
-        "name": "Wuhu"
+        "name": "Wuhu, China"
     },
     "WUH": {
         "name": "Xiaogan, China"
-    },
-    "WUX": {
-        "name": "Wuxi, China"
     },
     "XIY": {
         "name": "Baoji, China"
     },
     "XMN": {
-        "name": "Xiamen"
+        "name": "Xiamen, China"
     },
     "XNH": {
         "cca2": "IQ",
