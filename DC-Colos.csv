@@ -1,6 +1,7 @@
 colo,name,lat,lon,cca2,region,city
 ACC,"Accra, Ghana",5.614818,-0.205874,GH,Africa,Accra
 ALG,"Algiers, Algeria",36.6910018921,3.2154099941,DZ,Africa,Algiers
+AAE,"Annaba, Algeria",36.85596,7.79207,DZ,Africa,Annaba
 TNR,"Antananarivo, Madagascar",-18.91368,47.53613,MG,Africa,Antananarivo
 CPT,"Cape Town, South Africa",-33.9648017883,18.6016998291,ZA,Africa,Cape Town
 CMN,"Casablanca, Morocco",33.3675003052,-7.5899701118,MA,Africa,Casablanca
@@ -17,13 +18,12 @@ LAD,"Luanda, Angola",-8.8583698273,13.2312002182,AO,Africa,Luanda
 MPM,"Maputo, Mozambique",-25.9207992554,32.5726013184,MZ,Africa,Maputo
 MBA,"Mombasa, Kenya",-4.0348300934,39.5942001343,KE,Africa,Mombasa
 NBO,"Nairobi, Kenya",-1.319239974,36.9277992249,KE,Africa,Nairobi
+ORN,"Oran, Algeria",35.6911,-0.6416,DZ,Africa,Oran
 OUA,"Ouagadougou, Burkina Faso",12.3531999588,-1.5124200583,BF,Africa,Ouagadougou
 MRU,"Port Louis, Mauritius",-20.4302005768,57.6836013794,MU,Africa,Port Louis
 RUN,"Réunion, France",-20.8871002197,55.5102996826,RE,Africa,Saint-Denis
 TUN,"Tunis, Tunisia",36.8510017395,10.2271995544,TN,Africa,Tunis
 FIH,"Kinshasa, DR Congo",-4.3857498169,15.4446001053,CD,Africa,Kinshasa
-ORN,"Oran, Algeria",35.6911,-0.6416,DZ,Africa,Oran
-AAE,"Annaba, Algeria",36.85596,7.79207,DZ,Africa,Annaba
 AMD,"Ahmedabad, India",23.0225,72.5714,IN,Asia Pacific,Ahmedabad
 ALA,"Almaty, Kazakhstan",43.3521003723,77.0404968262,KZ,Asia Pacific,Almaty
 BLR,"Bangalore, India",13.7835719,76.6165937,IN,Asia Pacific,Bangalore
@@ -106,7 +106,7 @@ COK,"Kochi, India",9.9312,76.2673,IN,Asia Pacific,Kochi
 NTG,"Nantong, China",,,,,
 XMN,"Xiamen, China",,,,,
 DPS,"Denpasar, Indonesia",-8.748169899,115.1669998169,ID,Asia Pacific,Denpasar
-CNN,"Kannur, India",11.915858,75.55094,IN,Asia Pacific,Kannur
+CNN,"Shenzhen, China",11.915858,75.55094,IN,Asia Pacific,Kannur
 AMS,"Amsterdam, Netherlands",52.3086013794,4.7638897896,NL,Europe,Amsterdam
 ATH,"Athens, Greece",37.9364013672,23.9444999695,GR,Europe,Athens
 BCN,"Barcelona, Spain",41.2971000671,2.0784599781,ES,Europe,Barcelona
