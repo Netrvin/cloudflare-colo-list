@@ -472,7 +472,7 @@
         "city": "Kannur",
         "lat": 11.915858,
         "lon": 75.55094,
-        "name": "Shenzhen, China",
+        "name": "Kannur, India",
         "region": "Asia Pacific"
     },
     "CNX": {
@@ -2014,6 +2014,9 @@
         "lon": 151.177001953,
         "name": "Sydney, NSW, Australia",
         "region": "Oceania"
+    },
+    "SZX": {
+        "name": "Shenzhen, China"
     },
     "TAO": {
         "name": "Qingdao, China"
