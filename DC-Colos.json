@@ -1563,9 +1563,6 @@
         "name": "Tokyo, Japan",
         "region": "Asia Pacific"
     },
-    "NTG": {
-        "name": "Nantong, China"
-    },
     "NVT": {
         "cca2": "BR",
         "city": "Timbo",
@@ -2200,9 +2197,6 @@
     },
     "WHU": {
         "name": "Wuhu, China"
-    },
-    "WUH": {
-        "name": "Xiaogan, China"
     },
     "XIY": {
         "name": "Baoji, China"
