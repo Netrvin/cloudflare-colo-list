@@ -824,14 +824,6 @@
         "region": "South America"
     },
     {
-        "cca2": "HT",
-        "city": "Port-au-Prince",
-        "iata": "PAP",
-        "lat": 18.5799999237,
-        "lon": -72.2925033569,
-        "region": "North America"
-    },
-    {
         "cca2": "HN",
         "city": "Tegucigalpa",
         "iata": "TGU",

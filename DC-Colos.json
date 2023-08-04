@@ -1643,14 +1643,6 @@
         "name": "Ouagadougou, Burkina Faso",
         "region": "Africa"
     },
-    "PAP": {
-        "cca2": "HT",
-        "city": "Port-au-Prince",
-        "lat": 18.5799999237,
-        "lon": -72.2925033569,
-        "name": "Port-Au-Prince, Haiti",
-        "region": "North America"
-    },
     "PAT": {
         "cca2": "IN",
         "city": "Patna",
