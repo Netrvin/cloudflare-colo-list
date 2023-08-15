@@ -163,6 +163,7 @@ SVX,"Yekaterinburg, Russia",56.8431,60.6454,RU,Asia Pacific,Yekaterinburg
 ZAG,"Zagreb, Croatia",45.7429008484,16.0687999725,HR,Europe,Zagreb
 ZRH,"Zürich, Switzerland",47.4646987915,8.5491695404,CH,Europe,Zurich
 LYS,"Lyon, France",45.7263,5.0908,FR,Europe,Lyon
+BOD,"Bordeaux, France",44.82946,-0.58355,FR,Europe,Bordeaux
 QWJ,"Americana, Brazil",-22.738,-47.334,BR,South America,Americana
 ARI,"Arica, Chile",-18.348611,-70.338889,CL,South America,Arica
 ASU,"Asunción, Paraguay",-25.2399997711,-57.5200004578,PY,South America,Asunción
@@ -287,6 +288,7 @@ BGR,"Bangor, United States",44.8081,-68.795,US,North America,Bangor
 AUS,"Austin, United States",30.1975,-97.6664,US,North America,Austin
 ABQ,"Albuquerque, United States",35.0844,-106.6504,US,North America,Albuquerque
 GDL,"Guadalajara, Mexico",20.5217990875,-103.3109970093,MX,North America,Guadalajara
+SAT,"San Antonio, United States",29.429461,-98.487061,US,North America,San Antonio
 ADL,"Adelaide, SA, Australia",-34.9431729,138.5335637,AU,Oceania,Adelaide
 AKL,"Auckland, New Zealand",-37.0080986023,174.792007446,NZ,Oceania,Auckland
 BNE,"Brisbane, QLD, Australia",-27.3841991425,153.117004394,AU,Oceania,Brisbane

@@ -239,6 +239,14 @@
         "name": "Blumenau, Brazil",
         "region": "South America"
     },
+    "BOD": {
+        "cca2": "FR",
+        "city": "Bordeaux",
+        "lat": 44.82946,
+        "lon": -0.58355,
+        "name": "Bordeaux, France",
+        "region": "Europe"
+    },
     "BOG": {
         "cca2": "CO",
         "city": "Bogotá",
@@ -1828,6 +1836,14 @@
         "lat": 32.7336006165,
         "lon": -117.190002441,
         "name": "San Diego, CA, United States",
+        "region": "North America"
+    },
+    "SAT": {
+        "cca2": "US",
+        "city": "San Antonio",
+        "lat": 29.429461,
+        "lon": -98.487061,
+        "name": "San Antonio, United States",
         "region": "North America"
     },
     "SCL": {

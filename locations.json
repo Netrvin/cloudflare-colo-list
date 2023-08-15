@@ -673,6 +673,14 @@
     },
     {
         "cca2": "FR",
+        "city": "Bordeaux",
+        "iata": "BOD",
+        "lat": 44.82946,
+        "lon": -0.58355,
+        "region": "Europe"
+    },
+    {
+        "cca2": "FR",
         "city": "Lyon",
         "iata": "LYS",
         "lat": 45.7263,
@@ -2133,6 +2141,14 @@
         "iata": "MFE",
         "lat": 26.17580032,
         "lon": -98.23860168,
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "San Antonio",
+        "iata": "SAT",
+        "lat": 29.429461,
+        "lon": -98.487061,
         "region": "North America"
     },
     {
