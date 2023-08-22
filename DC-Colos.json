@@ -1197,6 +1197,9 @@
         "name": "Kuala Lumpur, Malaysia",
         "region": "Asia Pacific"
     },
+    "KWE": {
+        "name": "Guiyang, China"
+    },
     "KWI": {
         "cca2": "KW",
         "city": "Kuwait City",
@@ -2111,9 +2114,6 @@
         "lon": 13.2876996994,
         "name": "Berlin, Germany",
         "region": "Europe"
-    },
-    "TYN": {
-        "name": "Datong, China"
     },
     "UDI": {
         "cca2": "BR",
