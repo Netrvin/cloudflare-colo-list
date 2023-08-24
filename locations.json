@@ -281,6 +281,14 @@
     },
     {
         "cca2": "BR",
+        "city": "Chapeco",
+        "iata": "XAP",
+        "lat": -27.1341991425,
+        "lon": -52.6566009521,
+        "region": "South America"
+    },
+    {
+        "cca2": "BR",
         "city": "Cuiaba",
         "iata": "CGB",
         "lat": -15.59611,

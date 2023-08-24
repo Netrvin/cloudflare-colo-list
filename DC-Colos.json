@@ -2201,6 +2201,17 @@
     "WHU": {
         "name": "Wuhu, China"
     },
+    "WUX": {
+        "name": "Wuxi, China"
+    },
+    "XAP": {
+        "cca2": "BR",
+        "city": "Chapeco",
+        "lat": -27.1341991425,
+        "lon": -52.6566009521,
+        "name": "Chapeco, Brazil",
+        "region": "South America"
+    },
     "XIY": {
         "name": "Baoji, China"
     },
