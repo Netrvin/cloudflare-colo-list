@@ -427,6 +427,14 @@
         "name": "Christchurch, New Zealand",
         "region": "Oceania"
     },
+    "CLE": {
+        "cca2": "US",
+        "city": "Cleveland",
+        "lat": 41.50069,
+        "lon": -81.68412,
+        "name": "Cleveland, United States",
+        "region": "North America"
+    },
     "CLT": {
         "cca2": "US",
         "city": "Charlotte",
