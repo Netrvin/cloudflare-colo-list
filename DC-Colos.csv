@@ -24,6 +24,7 @@ MRU,"Port Louis, Mauritius",-20.4302005768,57.6836013794,MU,Africa,Port Louis
 RUN,"Réunion, France",-20.8871002197,55.5102996826,RE,Africa,Saint-Denis
 TUN,"Tunis, Tunisia",36.8510017395,10.2271995544,TN,Africa,Tunis
 FIH,"Kinshasa, DR Congo",-4.3857498169,15.4446001053,CD,Africa,Kinshasa
+CAI,"Cairo, Egypt",30.1219005585,31.4055995941,EG,Africa,Cairo
 AMD,"Ahmedabad, India",23.0225,72.5714,IN,Asia Pacific,Ahmedabad
 ALA,"Almaty, Kazakhstan",43.3521003723,77.0404968262,KZ,Asia Pacific,Almaty
 BLR,"Bangalore, India",13.7835719,76.6165937,IN,Asia Pacific,Bangalore
@@ -108,6 +109,8 @@ SZX,"Shenzhen, China",,,,,
 KWE,"Guiyang, China",,,,,
 CZX,"Changzhou, China",,,,,
 WUX,"Wuxi, China",,,,,
+YNJ,"Yanbian, China",,,,,
+HGH,"Shaoxing, China",,,,,
 AMS,"Amsterdam, Netherlands",52.3086013794,4.7638897896,NL,Europe,Amsterdam
 ATH,"Athens, Greece",37.9364013672,23.9444999695,GR,Europe,Athens
 BCN,"Barcelona, Spain",41.2971000671,2.0784599781,ES,Europe,Barcelona

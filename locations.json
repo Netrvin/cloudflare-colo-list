@@ -664,6 +664,14 @@
         "region": "South America"
     },
     {
+        "cca2": "EG",
+        "city": "Cairo",
+        "iata": "CAI",
+        "lat": 30.1219005585,
+        "lon": 31.4055995941,
+        "region": "Africa"
+    },
+    {
         "cca2": "EE",
         "city": "Tallinn",
         "iata": "TLL",
