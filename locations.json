@@ -2073,6 +2073,14 @@
     },
     {
         "cca2": "US",
+        "city": "Durham",
+        "iata": "RDU",
+        "lat": 35.93543,
+        "lon": -78.88075,
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
         "city": "Cleveland",
         "iata": "CLE",
         "lat": 41.50069,

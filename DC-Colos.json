@@ -1807,6 +1807,14 @@
         "name": "Ribeirao Preto, Brazil",
         "region": "South America"
     },
+    "RDU": {
+        "cca2": "US",
+        "city": "Durham",
+        "lat": 35.93543,
+        "lon": -78.88075,
+        "name": "Durham, United States",
+        "region": "North America"
+    },
     "REC": {
         "cca2": "BR",
         "city": "Recife",
