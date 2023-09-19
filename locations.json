@@ -184,6 +184,14 @@
         "region": "Asia Pacific"
     },
     {
+        "cca2": "BB",
+        "city": "Bridgetown",
+        "iata": "BGI",
+        "lat": 13.103562,
+        "lon": -59.603226,
+        "region": "North America"
+    },
+    {
         "cca2": "BY",
         "city": "Minsk",
         "iata": "MSQ",
