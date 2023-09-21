@@ -2105,6 +2105,14 @@
     },
     {
         "cca2": "US",
+        "city": "Oklahoma City",
+        "iata": "OKC",
+        "lat": 35.46655,
+        "lon": -97.65373,
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
         "city": "Portland",
         "iata": "PDX",
         "lat": 45.58869934,

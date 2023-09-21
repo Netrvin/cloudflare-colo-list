@@ -558,6 +558,9 @@
         "name": "Curitiba, Brazil",
         "region": "South America"
     },
+    "CZX": {
+        "name": "Changzhou, China"
+    },
     "DAC": {
         "cca2": "BD",
         "city": "Dhaka",
@@ -1608,6 +1611,14 @@
         "lon": 127.646,
         "name": "Naha, Japan",
         "region": "Asia Pacific"
+    },
+    "OKC": {
+        "cca2": "US",
+        "city": "Oklahoma City",
+        "lat": 35.46655,
+        "lon": -97.65373,
+        "name": "Oklahoma City, United States",
+        "region": "North America"
     },
     "OMA": {
         "cca2": "US",
