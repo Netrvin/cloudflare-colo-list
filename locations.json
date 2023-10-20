@@ -1953,6 +1953,14 @@
     },
     {
         "cca2": "US",
+        "city": "Tampa",
+        "iata": "TPA",
+        "lat": 27.9755001068,
+        "lon": -82.533203125,
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
         "city": "Atlanta",
         "iata": "ATL",
         "lat": 33.6366996765,
