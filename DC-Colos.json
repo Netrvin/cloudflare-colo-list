@@ -2039,6 +2039,14 @@
         "name": "Stuttgart, Germany",
         "region": "Europe"
     },
+    "SUV": {
+        "cca2": "FJ",
+        "city": "Suva",
+        "lat": -18.11319,
+        "lon": 178.43859,
+        "name": "Suva, Fiji",
+        "region": "Oceania"
+    },
     "SVX": {
         "cca2": "RU",
         "city": "Yekaterinburg",

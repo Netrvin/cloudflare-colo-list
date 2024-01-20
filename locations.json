@@ -688,6 +688,14 @@
         "region": "Europe"
     },
     {
+        "cca2": "FJ",
+        "city": "Suva",
+        "iata": "SUV",
+        "lat": -18.11319,
+        "lon": 178.43859,
+        "region": "Oceania"
+    },
+    {
         "cca2": "FI",
         "city": "Helsinki",
         "iata": "HEL",
