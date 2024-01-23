@@ -87,6 +87,14 @@
         "name": "Amsterdam, Netherlands",
         "region": "Europe"
     },
+    "ANC": {
+        "cca2": "US",
+        "city": "Anchorage",
+        "lat": 61.158555,
+        "lon": -149.890208,
+        "name": "Anchorage, United States",
+        "region": "North America"
+    },
     "ARI": {
         "cca2": "CL",
         "city": "Arica",

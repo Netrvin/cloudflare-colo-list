@@ -1881,6 +1881,14 @@
     },
     {
         "cca2": "US",
+        "city": "Anchorage",
+        "iata": "ANC",
+        "lat": 61.158555,
+        "lon": -149.890208,
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
         "city": "Phoenix",
         "iata": "PHX",
         "lat": 33.434299469,
