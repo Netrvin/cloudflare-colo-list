@@ -824,14 +824,6 @@
         "region": "Europe"
     },
     {
-        "cca2": "GD",
-        "city": "St. George's",
-        "iata": "GND",
-        "lat": 12.007116,
-        "lon": -61.7882288,
-        "region": "South America"
-    },
-    {
         "cca2": "GU",
         "city": "Hagatna",
         "iata": "GUM",
@@ -1789,14 +1781,6 @@
         "iata": "BKK",
         "lat": 13.6810998917,
         "lon": 100.747001648,
-        "region": "Asia Pacific"
-    },
-    {
-        "cca2": "TH",
-        "city": "Chiang Mai",
-        "iata": "CNX",
-        "lat": 18.7667999268,
-        "lon": 98.962600708,
         "region": "Asia Pacific"
     },
     {

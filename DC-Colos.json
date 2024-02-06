@@ -504,14 +504,6 @@
         "name": "Kannur, India",
         "region": "Asia Pacific"
     },
-    "CNX": {
-        "cca2": "TH",
-        "city": "Chiang Mai",
-        "lat": 18.7667999268,
-        "lon": 98.962600708,
-        "name": "Chiang Mai, Thailand",
-        "region": "Asia Pacific"
-    },
     "COK": {
         "cca2": "IN",
         "city": "Kochi",
@@ -815,14 +807,6 @@
         "lat": -22.8099994659,
         "lon": -43.2505569458,
         "name": "Rio de Janeiro, Brazil",
-        "region": "South America"
-    },
-    "GND": {
-        "cca2": "GD",
-        "city": "St. George's",
-        "lat": 12.007116,
-        "lon": -61.7882288,
-        "name": "St. George's, Grenada",
         "region": "South America"
     },
     "GOT": {
