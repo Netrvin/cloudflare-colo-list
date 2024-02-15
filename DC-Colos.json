@@ -2265,6 +2265,14 @@
         "name": "Nasiriyah, Iraq",
         "region": "Middle East"
     },
+    "YHZ": {
+        "cca2": "CA",
+        "city": "Halifax",
+        "lat": 44.64601,
+        "lon": -63.66844,
+        "name": "Halifax, Canada",
+        "region": "North America"
+    },
     "YOW": {
         "cca2": "CA",
         "city": "Ottawa",
