@@ -832,6 +832,14 @@
         "region": "Europe"
     },
     {
+        "cca2": "GD",
+        "city": "St. George's",
+        "iata": "GND",
+        "lat": 12.007116,
+        "lon": -61.7882288,
+        "region": "South America"
+    },
+    {
         "cca2": "GU",
         "city": "Hagatna",
         "iata": "GUM",

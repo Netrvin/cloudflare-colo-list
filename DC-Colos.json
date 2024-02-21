@@ -809,6 +809,14 @@
         "name": "Rio de Janeiro, Brazil",
         "region": "South America"
     },
+    "GND": {
+        "cca2": "GD",
+        "city": "St. George's",
+        "lat": 12.007116,
+        "lon": -61.7882288,
+        "name": "St. George's, Grenada",
+        "region": "South America"
+    },
     "GOT": {
         "cca2": "SE",
         "city": "Gothenburg",
