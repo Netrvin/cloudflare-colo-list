@@ -429,9 +429,6 @@
         "name": "Chittagong, Bangladesh",
         "region": "Asia Pacific"
     },
-    "CGQ": {
-        "name": "Changchun, China"
-    },
     "CGY": {
         "cca2": "PH",
         "city": "Cagayan de Oro",
@@ -2023,6 +2020,14 @@
         "name": "Salvador, Brazil",
         "region": "South America"
     },
+    "STI": {
+        "cca2": "DO",
+        "city": "Santiago de los Caballeros",
+        "lat": 19.4060993195,
+        "lon": -70.6046981812,
+        "name": "Santiago de los Caballeros, Dominican Republic",
+        "region": "North America"
+    },
     "STL": {
         "cca2": "US",
         "city": "St. Louis",
@@ -2253,9 +2258,6 @@
     },
     "WHU": {
         "name": "Wuhu, China"
-    },
-    "WUX": {
-        "name": "Wuxi, China"
     },
     "XAP": {
         "cca2": "BR",

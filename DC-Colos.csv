@@ -91,7 +91,6 @@ KHN,"Xinyu, China",,,,,
 RGN,"Yangon, Myanmar",16.9073009491,96.1332015991,MM,Asia Pacific,Yangon
 EVN,"Yerevan, Armenia",40.1473007202,44.3959007263,AM,Middle East,Yerevan
 JOG,"Yogyakarta, Indonesia",-7.7881798744,110.4319992065,ID,Asia Pacific,Yogyakarta
-CGQ,"Changchun, China",,,,,
 ZGN,"Zhongshan, China",,,,,
 CGY,"Cagayan de Oro, Philippines",8.4156198502,124.611000061,PH,Asia Pacific,Cagayan de Oro
 WHU,"Wuhu, China",,,,,
@@ -101,7 +100,6 @@ DPS,"Denpasar, Indonesia",-8.748169899,115.1669998169,ID,Asia Pacific,Denpasar
 CNN,"Kannur, India",11.915858,75.55094,IN,Asia Pacific,Kannur
 SZX,"Shenzhen, China",,,,,
 KWE,"Guiyang, China",,,,,
-WUX,"Wuxi, China",,,,,
 HGH,"Shaoxing, China",,,,,
 CZX,"Changzhou, China",,,,,
 KMG,"Kunming, China",,,,,
@@ -214,6 +212,7 @@ CAW,"Campos dos Goytacazes, Brazil",-21.698299408,-41.301700592,BR,South America
 XAP,"Chapeco, Brazil",-27.1341991425,-52.6566009521,BR,South America,Chapeco
 BGI,"Bridgetown, Barbados",13.103562,-59.603226,BB,North America,Bridgetown
 GND,"St. George's, Grenada",12.007116,-61.7882288,GD,South America,St. George's
+STI,"Santiago de los Caballeros, Dominican Republic",19.4060993195,-70.6046981812,DO,North America,Santiago de los Caballeros
 AMM,"Amman, Jordan",31.7226009369,35.9931983948,JO,Middle East,Amman
 LLK,"Astara, Azerbaijan",38.7463989258,48.8180007935,AZ,Middle East,Astara
 BGW,"Baghdad, Iraq",33.2625007629,44.2346000671,IQ,Middle East,Baghdad
