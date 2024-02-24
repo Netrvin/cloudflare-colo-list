@@ -1809,6 +1809,14 @@
     },
     {
         "cca2": "TH",
+        "city": "Chiang Mai",
+        "iata": "CNX",
+        "lat": 18.7667999268,
+        "lon": 98.962600708,
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "TH",
         "city": "Surat Thani",
         "iata": "URT",
         "lat": 9.1325998306,
