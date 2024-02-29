@@ -1334,6 +1334,14 @@
         "name": "Lagos, Nigeria",
         "region": "Africa"
     },
+    "LPB": {
+        "cca2": "BO",
+        "city": "La Paz",
+        "lat": -16.4897,
+        "lon": -68.1193,
+        "name": "La Paz, Bolivia",
+        "region": "South America"
+    },
     "LUX": {
         "cca2": "LU",
         "city": "Luxembourg City",

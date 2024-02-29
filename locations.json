@@ -216,6 +216,14 @@
         "region": "Asia Pacific"
     },
     {
+        "cca2": "BO",
+        "city": "La Paz",
+        "iata": "LPB",
+        "lat": -16.4897,
+        "lon": -68.1193,
+        "region": "South America"
+    },
+    {
         "cca2": "BW",
         "city": "Gaborone",
         "iata": "GBE",
