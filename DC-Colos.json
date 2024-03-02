@@ -544,6 +544,9 @@
         "name": "Cape Town, South Africa",
         "region": "Africa"
     },
+    "CSX": {
+        "name": "Changsha, China"
+    },
     "CUR": {
         "cca2": "CW",
         "city": "Willemstad",
@@ -2194,6 +2197,9 @@
         "lon": 13.2876996994,
         "name": "Berlin, Germany",
         "region": "Europe"
+    },
+    "TYN": {
+        "name": "Yangquan, China"
     },
     "UDI": {
         "cca2": "BR",
