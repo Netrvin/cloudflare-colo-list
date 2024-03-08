@@ -614,6 +614,9 @@
         "name": "Dakar, Senegal",
         "region": "Africa"
     },
+    "DLC": {
+        "name": "Dalian, China"
+    },
     "DME": {
         "cca2": "RU",
         "city": "Moscow",
