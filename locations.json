@@ -1585,14 +1585,6 @@
     },
     {
         "cca2": "RU",
-        "city": "Khabarovsk",
-        "iata": "KHV",
-        "lat": 48.5279998779,
-        "lon": 135.18800354,
-        "region": "Asia Pacific"
-    },
-    {
-        "cca2": "RU",
         "city": "Krasnoyarsk",
         "iata": "KJA",
         "lat": 56.0153,
