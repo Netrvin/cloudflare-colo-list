@@ -215,6 +215,9 @@
         "name": "Baghdad, Iraq",
         "region": "Middle East"
     },
+    "BHY": {
+        "name": "Beihai, China"
+    },
     "BKK": {
         "cca2": "TH",
         "city": "Bangkok",
@@ -447,6 +450,9 @@
         "lon": 172.5319976807,
         "name": "Christchurch, New Zealand",
         "region": "Oceania"
+    },
+    "CKG": {
+        "name": "Chongqing, China"
     },
     "CLE": {
         "cca2": "US",
