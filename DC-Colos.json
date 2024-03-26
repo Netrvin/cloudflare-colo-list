@@ -2003,6 +2003,14 @@
         "name": "São José do Rio Preto, Brazil",
         "region": "South America"
     },
+    "SJU": {
+        "cca2": "PR",
+        "city": "San Juan",
+        "lat": 18.411391,
+        "lon": -66.102793,
+        "name": "San Juan, Puerto Rico",
+        "region": "North America"
+    },
     "SJW": {
         "name": "Hengshui, China"
     },

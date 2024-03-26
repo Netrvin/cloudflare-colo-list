@@ -1568,6 +1568,14 @@
         "region": "Europe"
     },
     {
+        "cca2": "PR",
+        "city": "San Juan",
+        "iata": "SJU",
+        "lat": 18.411391,
+        "lon": -66.102793,
+        "region": "North America"
+    },
+    {
         "cca2": "QA",
         "city": "Doha",
         "iata": "DOH",
