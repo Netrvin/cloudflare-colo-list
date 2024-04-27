@@ -151,6 +151,14 @@
         "name": "Manama, Bahrain",
         "region": "Middle East"
     },
+    "BAQ": {
+        "cca2": "CO",
+        "city": "Barranquilla",
+        "lat": 10.8896,
+        "lon": -74.7808,
+        "name": "Barranquilla, Colombia",
+        "region": "South America"
+    },
     "BBI": {
         "cca2": "IN",
         "city": "Bhubaneswar",
@@ -578,6 +586,14 @@
         "lat": 23.843347,
         "lon": 90.397783,
         "name": "Dhaka, Bangladesh",
+        "region": "Asia Pacific"
+    },
+    "DAD": {
+        "cca2": "VN",
+        "city": "Da Nang",
+        "lat": 16.02636,
+        "lon": 108.20869,
+        "name": "Da Nang, Vietnam",
         "region": "Asia Pacific"
     },
     "DAR": {

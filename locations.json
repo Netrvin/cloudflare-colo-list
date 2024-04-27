@@ -585,6 +585,14 @@
     },
     {
         "cca2": "CO",
+        "city": "Barranquilla",
+        "iata": "BAQ",
+        "lat": 10.8896,
+        "lon": -74.7808,
+        "region": "South America"
+    },
+    {
+        "cca2": "CO",
         "city": "Bogotá",
         "iata": "BOG",
         "lat": 4.70159,
@@ -2301,6 +2309,14 @@
         "iata": "TAS",
         "lat": 41.257900238,
         "lon": 69.2811965942,
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "VN",
+        "city": "Da Nang",
+        "iata": "DAD",
+        "lat": 16.02636,
+        "lon": 108.20869,
         "region": "Asia Pacific"
     },
     {
