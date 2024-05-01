@@ -1717,14 +1717,6 @@
         "name": "Ouagadougou, Burkina Faso",
         "region": "Africa"
     },
-    "PAP": {
-        "cca2": "HT",
-        "city": "Port-au-Prince",
-        "lat": 18.5799999237,
-        "lon": -72.2925033569,
-        "name": "Port-au-Prince, Haiti",
-        "region": "North America"
-    },
     "PAT": {
         "cca2": "IN",
         "city": "Patna",
@@ -1799,6 +1791,14 @@
         "lon": 13.31546,
         "name": "Palermo, Italy",
         "region": "Europe"
+    },
+    "PMW": {
+        "cca2": "BR",
+        "city": "Palmas",
+        "lat": -10.2915000916,
+        "lon": -48.3569984436,
+        "name": "Palmas, Brazil",
+        "region": "South America"
     },
     "PNH": {
         "cca2": "KH",
