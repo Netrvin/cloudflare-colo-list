@@ -2038,6 +2038,14 @@
         "name": "Thessaloniki, Greece",
         "region": "Europe"
     },
+    "SKP": {
+        "cca2": "MK",
+        "city": "Skopje",
+        "lat": 41.9616012573,
+        "lon": 21.6214008331,
+        "name": "Skopje, North Macedonia",
+        "region": "Europe"
+    },
     "SLC": {
         "cca2": "US",
         "city": "Salt Lake City",

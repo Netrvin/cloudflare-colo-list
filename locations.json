@@ -1464,6 +1464,14 @@
         "region": "Africa"
     },
     {
+        "cca2": "MK",
+        "city": "Skopje",
+        "iata": "SKP",
+        "lat": 41.9616012573,
+        "lon": 21.6214008331,
+        "region": "Europe"
+    },
+    {
         "cca2": "NO",
         "city": "Oslo",
         "iata": "OSL",
