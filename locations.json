@@ -1552,6 +1552,14 @@
         "region": "Asia Pacific"
     },
     {
+        "cca2": "PH",
+        "city": "Tarlac City",
+        "iata": "CRK",
+        "lat": 15.1859,
+        "lon": 120.5599,
+        "region": "Asia Pacific"
+    },
+    {
         "cca2": "PL",
         "city": "Warsaw",
         "iata": "WAW",

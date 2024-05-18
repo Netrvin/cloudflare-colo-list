@@ -558,6 +558,14 @@
         "name": "Cape Town, South Africa",
         "region": "Africa"
     },
+    "CRK": {
+        "cca2": "PH",
+        "city": "Tarlac City",
+        "lat": 15.1859,
+        "lon": 120.5599,
+        "name": "Tarlac City, Philippines",
+        "region": "Asia Pacific"
+    },
     "CSX": {
         "name": "Changsha, China"
     },
