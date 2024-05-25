@@ -97,6 +97,14 @@
     },
     {
         "cca2": "AU",
+        "city": "Hobart",
+        "iata": "HBA",
+        "lat": -42.883209,
+        "lon": 147.331665,
+        "region": "Oceania"
+    },
+    {
+        "cca2": "AU",
         "city": "Melbourne",
         "iata": "MEL",
         "lat": -37.6733016968,
