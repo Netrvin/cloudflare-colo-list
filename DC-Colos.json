@@ -2328,6 +2328,14 @@
         "name": "Warsaw, Poland",
         "region": "Europe"
     },
+    "WDH": {
+        "cca2": "NA",
+        "city": "Windhoek",
+        "lat": -22.565587,
+        "lon": 17.085334,
+        "name": "Windhoek, Namibia",
+        "region": "Africa"
+    },
     "WDS": {
         "name": "Shiyan, China"
     },

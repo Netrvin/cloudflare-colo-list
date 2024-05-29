@@ -1408,6 +1408,14 @@
         "region": "Asia Pacific"
     },
     {
+        "cca2": "NA",
+        "city": "Windhoek",
+        "iata": "WDH",
+        "lat": -22.565587,
+        "lon": 17.085334,
+        "region": "Africa"
+    },
+    {
         "cca2": "NP",
         "city": "Kathmandu",
         "iata": "KTM",
