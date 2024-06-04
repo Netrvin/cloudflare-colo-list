@@ -7,6 +7,14 @@
         "name": "Annaba, Algeria",
         "region": "Africa"
     },
+    "ABJ": {
+        "cca2": "CI",
+        "city": "ABIDJAN",
+        "lat": 5.292598,
+        "lon": -3.999133,
+        "name": "ABIDJAN, Ivory Coast",
+        "region": "Africa"
+    },
     "ABQ": {
         "cca2": "US",
         "city": "Albuquerque",
@@ -110,6 +118,14 @@
         "lon": 17.9186000824,
         "name": "Stockholm, Sweden",
         "region": "Europe"
+    },
+    "ASK": {
+        "cca2": "CI",
+        "city": "ABIDJAN",
+        "lat": 5.292598,
+        "lon": -3.999133,
+        "name": "ABIDJAN, Ivory Coast",
+        "region": "Africa"
     },
     "ASU": {
         "cca2": "PY",
