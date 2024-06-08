@@ -241,6 +241,14 @@
     },
     {
         "cca2": "BR",
+        "city": "Aracatuba",
+        "iata": "ARU",
+        "lat": -21.1413002014,
+        "lon": -50.4247016907,
+        "region": "South America"
+    },
+    {
+        "cca2": "BR",
         "city": "Belém",
         "iata": "BEL",
         "lat": -1.4563,

@@ -119,6 +119,14 @@
         "name": "Stockholm, Sweden",
         "region": "Europe"
     },
+    "ARU": {
+        "cca2": "BR",
+        "city": "Aracatuba",
+        "lat": -21.1413002014,
+        "lon": -50.4247016907,
+        "name": "Aracatuba, Brazil",
+        "region": "South America"
+    },
     "ASK": {
         "cca2": "CI",
         "city": "ABIDJAN",
