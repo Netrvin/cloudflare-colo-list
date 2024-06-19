@@ -86,7 +86,7 @@ if __name__ == '__main__':
     # save as xlsx & csv
     dt = pd.DataFrame(match_data).T
     dt.index.name = 'colo'
-    dt.to_excel('DC-Colos.xlsx', encoding='utf-8')
+    dt.to_excel('DC-Colos.xlsx')
     dt.to_csv('DC-Colos.csv', encoding='utf-8')
 
     # final check for log
