@@ -1752,6 +1752,14 @@
         "name": "Patna, India",
         "region": "Asia Pacific"
     },
+    "PBH": {
+        "cca2": "BT",
+        "city": "Thimphu",
+        "lat": 27.4712,
+        "lon": 89.6339,
+        "name": "Thimphu, Bhutan",
+        "region": "Asia Pacific"
+    },
     "PBM": {
         "cca2": "SR",
         "city": "Paramaribo",
