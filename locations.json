@@ -1880,6 +1880,14 @@
         "region": "Asia Pacific"
     },
     {
+        "cca2": "TT",
+        "city": "Port of Spain",
+        "iata": "POS",
+        "lat": 10.5953998566,
+        "lon": -61.3372001648,
+        "region": "South America"
+    },
+    {
         "cca2": "TN",
         "city": "Tunis",
         "iata": "TUN",
@@ -1902,6 +1910,14 @@
         "lat": 38.32377,
         "lon": 27.14317,
         "region": "Europe"
+    },
+    {
+        "cca2": "UG",
+        "city": "KAMPALA",
+        "iata": "EBB",
+        "lat": 0.3152,
+        "lon": 32.5816,
+        "region": "Africa"
     },
     {
         "cca2": "UA",

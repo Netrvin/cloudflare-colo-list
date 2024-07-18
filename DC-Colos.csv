@@ -28,6 +28,7 @@ CAI,"Cairo, Egypt",30.1219005585,31.4055995941,EG,Africa,Cairo
 WDH,"Windhoek, Namibia",-22.565587,17.085334,NA,Africa,Windhoek
 ASK,"Yamoussoukro, Ivory Coast",6.842178,-5.259932,CI,Africa,Yamoussoukro
 ABJ,"Abidjan, Ivory Coast",5.292598,-3.999133,CI,Africa,Abidjan
+EBB,"KAMPALA, Uganda",0.3152,32.5816,UG,Africa,KAMPALA
 AMD,"Ahmedabad, India",23.0225,72.5714,IN,Asia Pacific,Ahmedabad
 ALA,"Almaty, Kazakhstan",43.3521003723,77.0404968262,KZ,Asia Pacific,Almaty
 BLR,"Bangalore, India",13.7835719,76.6165937,IN,Asia Pacific,Bangalore
@@ -233,6 +234,7 @@ SJU,"San Juan, Puerto Rico",18.411391,-66.102793,PR,North America,San Juan
 BAQ,"Barranquilla, Colombia",10.8896,-74.7808,CO,South America,Barranquilla
 PMW,"Palmas, Brazil",-10.2915000916,-48.3569984436,BR,South America,Palmas
 ARU,"Aracatuba, Brazil",-21.1413002014,-50.4247016907,BR,South America,Aracatuba
+POS,"Port of Spain, Trinidad and Tobago",10.5953998566,-61.3372001648,TT,South America,Port of Spain
 AMM,"Amman, Jordan",31.7226009369,35.9931983948,JO,Middle East,Amman
 LLK,"Astara, Azerbaijan",38.7463989258,48.8180007935,AZ,Middle East,Astara
 BGW,"Baghdad, Iraq",33.2625007629,44.2346000671,IQ,Middle East,Baghdad

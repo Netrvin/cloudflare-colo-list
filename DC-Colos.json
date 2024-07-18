@@ -735,6 +735,14 @@
         "name": "Dubai, United Arab Emirates",
         "region": "Middle East"
     },
+    "EBB": {
+        "cca2": "UG",
+        "city": "KAMPALA",
+        "lat": 0.3152,
+        "lon": 32.5816,
+        "name": "KAMPALA, Uganda",
+        "region": "Africa"
+    },
     "EBL": {
         "cca2": "IQ",
         "city": "Erbil",
@@ -1841,6 +1849,14 @@
         "lat": -29.9944000244,
         "lon": -51.1713981628,
         "name": "Porto Alegre, Brazil",
+        "region": "South America"
+    },
+    "POS": {
+        "cca2": "TT",
+        "city": "Port of Spain",
+        "lat": 10.5953998566,
+        "lon": -61.3372001648,
+        "name": "Port of Spain, Trinidad and Tobago",
         "region": "South America"
     },
     "PPT": {
