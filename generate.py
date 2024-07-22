@@ -24,28 +24,66 @@ def get(url, retry=5):
 
 
 def generate():
+
+    country_codes = json.load(open('country.json', 'r', encoding='utf-8'))
+    country_codes_inv = {v: k for k, v in country_codes.items()}
+
     data = {}
 
-    # www.cloudflarestatus.com for DC list
-    # Site Struct: Table --div--> continents --div--> DCs --text--> Info
-    soup = bs4.BeautifulSoup(get('https://www.cloudflarestatus.com/').text, 'html.parser')
-    soup = soup.find('div', {'class': 'components-container one-column'})
-    continents = soup.find_all('div', recursive=False)
-    continents.pop(0)
-    for continent in continents:
-        for div in continent.find('div', {'class': 'child-components-container'}).find_all('div', recursive=False):
-            txt = div.get_text(strip=True)
-            txt = unicodedata.normalize("NFKD", txt)
-            regex = re.search(r'^([\s\S]+?)( +-)? +\(([A-Z]{3})\)', txt)
+    # https://www.cloudflarestatus.com/api/v2/components.json for DC list
+    components_json = json.loads(requests.get('https://www.cloudflarestatus.com/api/v2/components.json').text)
+
+    grouped_list = {}
+
+    for item in components_json['components']:
+        if item['group_id']:
+            group_id = item['group_id']
+            if group_id not in grouped_list:
+                grouped_list[group_id] = dict({'child': {}})
+            my_id = item['id']
+            my_name = item['name']
+            grouped_list[group_id]['child'][my_id] = my_name
+        else:
+            my_id = item['id']
+            my_name = item['name']
+            if my_id not in grouped_list:
+                grouped_list[my_id] = dict({'child': {}})
+            grouped_list[my_id]['name'] = my_name
+
+    to_be_deleted_keys = set()
+
+    for key in grouped_list.keys():
+        if grouped_list[key]['name'].find('Cloudflare') != -1:
+            to_be_deleted_keys.add(key)
+
+    for key in to_be_deleted_keys:
+        del grouped_list[key]
+
+    for region in grouped_list.values():
+        region_name = region['name']
+        for v in region['child'].values():
+            v = v.strip()
+            v = unicodedata.normalize("NFKD", v)
+            regex = re.search(r'^([\s\S]+?)( +-)? +\(([A-Z]{3})\)', v)
             name = regex.group(1)
             colo = regex.group(3)
-            data[colo] = {}
-            data[colo]['name'] = name
+            data[colo] = {
+                'name': name,
+                'region': region_name
+            }
+            regex2 = re.search(r'^([\s\S]+), ([\s\S]+)', name)
+            if regex2:
+                data[colo].update({
+                    'city': regex2.group(1),
+                    'country': regex2.group(2)
+                })
+                if regex2.group(2) in country_codes_inv:
+                    data[colo]['cca2'] = country_codes_inv[regex2.group(2)]
+
 
     # speed.cloudflare.com for locations
     # format: json
     speed_locations = json.loads(get('https://speed.cloudflare.com/locations').text)
-    country_codes = json.load(open('country.json', 'r', encoding='utf-8'))
     for location in speed_locations:
         iata = location['iata']
         if iata in data:
