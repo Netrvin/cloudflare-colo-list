@@ -2,6 +2,7 @@
     "AAE": {
         "cca2": "DZ",
         "city": "Annaba",
+        "country": "Algeria",
         "lat": 36.85596,
         "lon": 7.79207,
         "name": "Annaba, Algeria",
@@ -10,6 +11,7 @@
     "ABJ": {
         "cca2": "CI",
         "city": "Abidjan",
+        "country": "Ivory Coast",
         "lat": 5.292598,
         "lon": -3.999133,
         "name": "Abidjan, Ivory Coast",
@@ -18,6 +20,7 @@
     "ABQ": {
         "cca2": "US",
         "city": "Albuquerque",
+        "country": "United States",
         "lat": 35.0844,
         "lon": -106.6504,
         "name": "Albuquerque, United States",
@@ -26,6 +29,7 @@
     "ACC": {
         "cca2": "GH",
         "city": "Accra",
+        "country": "Ghana",
         "lat": 5.614818,
         "lon": -0.205874,
         "name": "Accra, Ghana",
@@ -34,6 +38,7 @@
     "ADB": {
         "cca2": "TR",
         "city": "Izmir",
+        "country": "Turkey",
         "lat": 38.32377,
         "lon": 27.14317,
         "name": "Izmir, Turkey",
@@ -42,6 +47,7 @@
     "ADL": {
         "cca2": "AU",
         "city": "Adelaide",
+        "country": "Australia",
         "lat": -34.9431729,
         "lon": 138.5335637,
         "name": "Adelaide, SA, Australia",
@@ -50,6 +56,7 @@
     "AKL": {
         "cca2": "NZ",
         "city": "Auckland",
+        "country": "New Zealand",
         "lat": -37.0080986023,
         "lon": 174.792007446,
         "name": "Auckland, New Zealand",
@@ -58,6 +65,7 @@
     "ALA": {
         "cca2": "KZ",
         "city": "Almaty",
+        "country": "Kazakhstan",
         "lat": 43.3521003723,
         "lon": 77.0404968262,
         "name": "Almaty, Kazakhstan",
@@ -66,6 +74,7 @@
     "ALG": {
         "cca2": "DZ",
         "city": "Algiers",
+        "country": "Algeria",
         "lat": 36.6910018921,
         "lon": 3.2154099941,
         "name": "Algiers, Algeria",
@@ -74,6 +83,7 @@
     "AMD": {
         "cca2": "IN",
         "city": "Ahmedabad",
+        "country": "India",
         "lat": 23.0225,
         "lon": 72.5714,
         "name": "Ahmedabad, India",
@@ -82,6 +92,7 @@
     "AMM": {
         "cca2": "JO",
         "city": "Amman",
+        "country": "Jordan",
         "lat": 31.7226009369,
         "lon": 35.9931983948,
         "name": "Amman, Jordan",
@@ -90,6 +101,7 @@
     "AMS": {
         "cca2": "NL",
         "city": "Amsterdam",
+        "country": "Netherlands",
         "lat": 52.3086013794,
         "lon": 4.7638897896,
         "name": "Amsterdam, Netherlands",
@@ -98,6 +110,7 @@
     "ANC": {
         "cca2": "US",
         "city": "Anchorage",
+        "country": "United States",
         "lat": 61.158555,
         "lon": -149.890208,
         "name": "Anchorage, United States",
@@ -106,6 +119,7 @@
     "ARI": {
         "cca2": "CL",
         "city": "Arica",
+        "country": "Chile",
         "lat": -18.348611,
         "lon": -70.338889,
         "name": "Arica, Chile",
@@ -114,6 +128,7 @@
     "ARN": {
         "cca2": "SE",
         "city": "Stockholm",
+        "country": "Sweden",
         "lat": 59.6519012451,
         "lon": 17.9186000824,
         "name": "Stockholm, Sweden",
@@ -122,6 +137,7 @@
     "ARU": {
         "cca2": "BR",
         "city": "Aracatuba",
+        "country": "Brazil",
         "lat": -21.1413002014,
         "lon": -50.4247016907,
         "name": "Aracatuba, Brazil",
@@ -130,6 +146,7 @@
     "ASK": {
         "cca2": "CI",
         "city": "Yamoussoukro",
+        "country": "Ivory Coast",
         "lat": 6.842178,
         "lon": -5.259932,
         "name": "Yamoussoukro, Ivory Coast",
@@ -138,6 +155,7 @@
     "ASU": {
         "cca2": "PY",
         "city": "Asunción",
+        "country": "Paraguay",
         "lat": -25.2399997711,
         "lon": -57.5200004578,
         "name": "Asunción, Paraguay",
@@ -146,6 +164,7 @@
     "ATH": {
         "cca2": "GR",
         "city": "Athens",
+        "country": "Greece",
         "lat": 37.9364013672,
         "lon": 23.9444999695,
         "name": "Athens, Greece",
@@ -154,6 +173,7 @@
     "ATL": {
         "cca2": "US",
         "city": "Atlanta",
+        "country": "United States",
         "lat": 33.6366996765,
         "lon": -84.4281005859,
         "name": "Atlanta, GA, United States",
@@ -162,6 +182,7 @@
     "AUS": {
         "cca2": "US",
         "city": "Austin",
+        "country": "United States",
         "lat": 30.1975,
         "lon": -97.6664,
         "name": "Austin, United States",
@@ -170,6 +191,7 @@
     "BAH": {
         "cca2": "BH",
         "city": "Manama",
+        "country": "Bahrain",
         "lat": 26.2707996368,
         "lon": 50.6335983276,
         "name": "Manama, Bahrain",
@@ -178,6 +200,7 @@
     "BAQ": {
         "cca2": "CO",
         "city": "Barranquilla",
+        "country": "Colombia",
         "lat": 10.8896,
         "lon": -74.7808,
         "name": "Barranquilla, Colombia",
@@ -186,6 +209,7 @@
     "BBI": {
         "cca2": "IN",
         "city": "Bhubaneswar",
+        "country": "India",
         "lat": 20.2961,
         "lon": 85.8245,
         "name": "Bhubaneswar, India",
@@ -194,6 +218,7 @@
     "BCN": {
         "cca2": "ES",
         "city": "Barcelona",
+        "country": "Spain",
         "lat": 41.2971000671,
         "lon": 2.0784599781,
         "name": "Barcelona, Spain",
@@ -202,6 +227,7 @@
     "BEG": {
         "cca2": "RS",
         "city": "Belgrade",
+        "country": "Serbia",
         "lat": 44.8184013367,
         "lon": 20.3090991974,
         "name": "Belgrade, Serbia",
@@ -210,6 +236,7 @@
     "BEL": {
         "cca2": "BR",
         "city": "Belém",
+        "country": "Brazil",
         "lat": -1.4563,
         "lon": -48.5013,
         "name": "Belém, Brazil",
@@ -218,6 +245,7 @@
     "BEY": {
         "cca2": "LB",
         "city": "Beirut",
+        "country": "Lebanon",
         "lat": 33.8208999634,
         "lon": 35.4883995056,
         "name": "Beirut, Lebanon",
@@ -226,6 +254,7 @@
     "BGI": {
         "cca2": "BB",
         "city": "Bridgetown",
+        "country": "Barbados",
         "lat": 13.103562,
         "lon": -59.603226,
         "name": "Bridgetown, Barbados",
@@ -234,6 +263,7 @@
     "BGR": {
         "cca2": "US",
         "city": "Bangor",
+        "country": "United States",
         "lat": 44.8081,
         "lon": -68.795,
         "name": "Bangor, United States",
@@ -242,17 +272,23 @@
     "BGW": {
         "cca2": "IQ",
         "city": "Baghdad",
+        "country": "Iraq",
         "lat": 33.2625007629,
         "lon": 44.2346000671,
         "name": "Baghdad, Iraq",
         "region": "Middle East"
     },
     "BHY": {
-        "name": "Beihai, China"
+        "cca2": "CN",
+        "city": "Beihai",
+        "country": "China",
+        "name": "Beihai, China",
+        "region": "Asia"
     },
     "BKK": {
         "cca2": "TH",
         "city": "Bangkok",
+        "country": "Thailand",
         "lat": 13.6810998917,
         "lon": 100.747001648,
         "name": "Bangkok, Thailand",
@@ -261,6 +297,7 @@
     "BLR": {
         "cca2": "IN",
         "city": "Bangalore",
+        "country": "India",
         "lat": 13.7835719,
         "lon": 76.6165937,
         "name": "Bangalore, India",
@@ -269,6 +306,7 @@
     "BNA": {
         "cca2": "US",
         "city": "Nashville",
+        "country": "United States",
         "lat": 36.1245002747,
         "lon": -86.6781997681,
         "name": "Nashville, United States",
@@ -277,6 +315,7 @@
     "BNE": {
         "cca2": "AU",
         "city": "Brisbane",
+        "country": "Australia",
         "lat": -27.3841991425,
         "lon": 153.117004394,
         "name": "Brisbane, QLD, Australia",
@@ -285,6 +324,7 @@
     "BNU": {
         "cca2": "BR",
         "city": "Blumenau",
+        "country": "Brazil",
         "lat": -26.89245,
         "lon": -49.07696,
         "name": "Blumenau, Brazil",
@@ -293,6 +333,7 @@
     "BOD": {
         "cca2": "FR",
         "city": "Bordeaux",
+        "country": "France",
         "lat": 44.82946,
         "lon": -0.58355,
         "name": "Bordeaux, France",
@@ -301,6 +342,7 @@
     "BOG": {
         "cca2": "CO",
         "city": "Bogota",
+        "country": "Colombia",
         "lat": 4.70159,
         "lon": -74.1469,
         "name": "Bogotá, Colombia",
@@ -309,6 +351,7 @@
     "BOM": {
         "cca2": "IN",
         "city": "Mumbai",
+        "country": "India",
         "lat": 19.0886993408,
         "lon": 72.8678970337,
         "name": "Mumbai, India",
@@ -317,6 +360,7 @@
     "BOS": {
         "cca2": "US",
         "city": "Boston",
+        "country": "United States",
         "lat": 42.36429977,
         "lon": -71.00520325,
         "name": "Boston, MA, United States",
@@ -325,6 +369,7 @@
     "BRU": {
         "cca2": "BE",
         "city": "Brussels",
+        "country": "Belgium",
         "lat": 50.9014015198,
         "lon": 4.4844398499,
         "name": "Brussels, Belgium",
@@ -333,6 +378,7 @@
     "BSB": {
         "cca2": "BR",
         "city": "Brasilia",
+        "country": "Brazil",
         "lat": -15.79824,
         "lon": -47.90859,
         "name": "Brasilia, Brazil",
@@ -341,6 +387,7 @@
     "BSR": {
         "cca2": "IQ",
         "city": "Basra",
+        "country": "Iraq",
         "lat": 30.5491008759,
         "lon": 47.6621017456,
         "name": "Basra, Iraq",
@@ -349,6 +396,7 @@
     "BTS": {
         "cca2": "SK",
         "city": "Bratislava",
+        "country": "Slovakia",
         "lat": 48.1486,
         "lon": 17.1077,
         "name": "Bratislava, Slovakia",
@@ -357,6 +405,7 @@
     "BUD": {
         "cca2": "HU",
         "city": "Budapest",
+        "country": "Hungary",
         "lat": 47.4369010925,
         "lon": 19.2555999756,
         "name": "Budapest, Hungary",
@@ -365,6 +414,7 @@
     "BUF": {
         "cca2": "US",
         "city": "Buffalo",
+        "country": "United States",
         "lat": 42.94049835,
         "lon": -78.73220062,
         "name": "Buffalo, NY, United States",
@@ -373,6 +423,7 @@
     "BWN": {
         "cca2": "BN",
         "city": "Bandar Seri Begawan",
+        "country": "Brunei",
         "lat": 4.903052,
         "lon": 114.939819,
         "name": "Bandar Seri Begawan, Brunei",
@@ -381,17 +432,23 @@
     "CAI": {
         "cca2": "EG",
         "city": "Cairo",
+        "country": "Egypt",
         "lat": 30.1219005585,
         "lon": 31.4055995941,
         "name": "Cairo, Egypt",
         "region": "Africa"
     },
     "CAN": {
-        "name": "Guangzhou, China"
+        "cca2": "CN",
+        "city": "Guangzhou",
+        "country": "China",
+        "name": "Guangzhou, China",
+        "region": "Asia"
     },
     "CAW": {
         "cca2": "BR",
         "city": "Campos dos Goytacazes",
+        "country": "Brazil",
         "lat": -21.698299408,
         "lon": -41.301700592,
         "name": "Campos dos Goytacazes, Brazil",
@@ -400,6 +457,7 @@
     "CBR": {
         "cca2": "AU",
         "city": "Canberra",
+        "country": "Australia",
         "lat": -35.3069000244,
         "lon": 149.1950073242,
         "name": "Canberra, ACT, Australia",
@@ -408,6 +466,7 @@
     "CCU": {
         "cca2": "IN",
         "city": "Kolkata",
+        "country": "India",
         "lat": 22.6476933,
         "lon": 88.4349249,
         "name": "Kolkata, India",
@@ -416,6 +475,7 @@
     "CDG": {
         "cca2": "FR",
         "city": "Paris",
+        "country": "France",
         "lat": 49.0127983093,
         "lon": 2.5499999523,
         "name": "Paris, France",
@@ -424,6 +484,7 @@
     "CEB": {
         "cca2": "PH",
         "city": "Cebu",
+        "country": "Philippines",
         "lat": 10.3074998856,
         "lon": 123.978996277,
         "name": "Cebu, Philippines",
@@ -432,6 +493,7 @@
     "CFC": {
         "cca2": "BR",
         "city": "Cacador",
+        "country": "Brazil",
         "lat": -26.7762,
         "lon": -51.0125,
         "name": "Caçador, Brazil",
@@ -440,28 +502,39 @@
     "CGB": {
         "cca2": "BR",
         "city": "Cuiaba",
+        "country": "Brazil",
         "lat": -15.59611,
         "lon": -56.09667,
         "name": "Cuiabá, Brazil",
         "region": "South America"
     },
     "CGD": {
-        "name": "Changde, China"
+        "cca2": "CN",
+        "city": "Changde",
+        "country": "China",
+        "name": "Changde, China",
+        "region": "Asia"
     },
     "CGK": {
         "cca2": "ID",
         "city": "Jakarta",
+        "country": "Indonesia",
         "lat": -6.1275229,
         "lon": 106.6515118,
         "name": "Jakarta, Indonesia",
         "region": "Asia Pacific"
     },
     "CGO": {
-        "name": "Zhengzhou, China"
+        "cca2": "CN",
+        "city": "Zhengzhou",
+        "country": "China",
+        "name": "Zhengzhou, China",
+        "region": "Asia"
     },
     "CGP": {
         "cca2": "BD",
         "city": "Chittagong",
+        "country": "Bangladesh",
         "lat": 22.2495995,
         "lon": 91.8133011,
         "name": "Chittagong, Bangladesh",
@@ -470,6 +543,7 @@
     "CGY": {
         "cca2": "PH",
         "city": "Cagayan de Oro",
+        "country": "Philippines",
         "lat": 8.4156198502,
         "lon": 124.611000061,
         "name": "Cagayan de Oro, Philippines",
@@ -478,17 +552,23 @@
     "CHC": {
         "cca2": "NZ",
         "city": "Christchurch",
+        "country": "New Zealand",
         "lat": -43.4893989563,
         "lon": 172.5319976807,
         "name": "Christchurch, New Zealand",
         "region": "Oceania"
     },
     "CKG": {
-        "name": "Chongqing, China"
+        "cca2": "CN",
+        "city": "Chongqing",
+        "country": "China",
+        "name": "Chongqing, China",
+        "region": "Asia"
     },
     "CLE": {
         "cca2": "US",
         "city": "Cleveland",
+        "country": "United States",
         "lat": 41.50069,
         "lon": -81.68412,
         "name": "Cleveland, United States",
@@ -497,6 +577,7 @@
     "CLT": {
         "cca2": "US",
         "city": "Charlotte",
+        "country": "United States",
         "lat": 35.2140007019,
         "lon": -80.9430999756,
         "name": "Charlotte, NC, United States",
@@ -505,6 +586,7 @@
     "CMB": {
         "cca2": "LK",
         "city": "Colombo",
+        "country": "Sri Lanka",
         "lat": 7.1807599068,
         "lon": 79.8841018677,
         "name": "Colombo, Sri Lanka",
@@ -513,6 +595,7 @@
     "CMH": {
         "cca2": "US",
         "city": "Columbus",
+        "country": "United States",
         "lat": 39.9980010986,
         "lon": -82.8918991089,
         "name": "Columbus, OH, United States",
@@ -521,6 +604,7 @@
     "CMN": {
         "cca2": "MA",
         "city": "Casablanca",
+        "country": "Morocco",
         "lat": 33.3675003052,
         "lon": -7.5899701118,
         "name": "Casablanca, Morocco",
@@ -529,6 +613,7 @@
     "CNF": {
         "cca2": "BR",
         "city": "Belo Horizonte",
+        "country": "Brazil",
         "lat": -19.624444,
         "lon": -43.971944,
         "name": "Belo Horizonte, Brazil",
@@ -537,6 +622,7 @@
     "CNN": {
         "cca2": "IN",
         "city": "Kannur",
+        "country": "India",
         "lat": 11.915858,
         "lon": 75.55094,
         "name": "Kannur, India",
@@ -545,6 +631,7 @@
     "CNX": {
         "cca2": "TH",
         "city": "Chiang Mai",
+        "country": "Thailand",
         "lat": 18.7667999268,
         "lon": 98.962600708,
         "name": "Chiang Mai, Thailand",
@@ -553,6 +640,7 @@
     "COK": {
         "cca2": "IN",
         "city": "Kochi",
+        "country": "India",
         "lat": 9.9312,
         "lon": 76.2673,
         "name": "Kochi, India",
@@ -561,6 +649,7 @@
     "COR": {
         "cca2": "AR",
         "city": "Córdoba",
+        "country": "Argentina",
         "lat": -31.31,
         "lon": -64.208333,
         "name": "Córdoba, Argentina",
@@ -569,6 +658,7 @@
     "CPH": {
         "cca2": "DK",
         "city": "Copenhagen",
+        "country": "Denmark",
         "lat": 55.6179008484,
         "lon": 12.6560001373,
         "name": "Copenhagen, Denmark",
@@ -577,6 +667,7 @@
     "CPT": {
         "cca2": "ZA",
         "city": "Cape Town",
+        "country": "South Africa",
         "lat": -33.9648017883,
         "lon": 18.6016998291,
         "name": "Cape Town, South Africa",
@@ -585,28 +676,39 @@
     "CRK": {
         "cca2": "PH",
         "city": "Tarlac City",
+        "country": "Philippines",
         "lat": 15.1859,
         "lon": 120.5599,
         "name": "Tarlac City, Philippines",
         "region": "Asia Pacific"
     },
     "CSX": {
-        "name": "Changsha, China"
+        "cca2": "CN",
+        "city": "Changsha",
+        "country": "China",
+        "name": "Changsha, China",
+        "region": "Asia"
     },
     "CWB": {
         "cca2": "BR",
         "city": "Curitiba",
+        "country": "Brazil",
         "lat": -25.5284996033,
         "lon": -49.1758003235,
         "name": "Curitiba, Brazil",
         "region": "South America"
     },
     "CZX": {
-        "name": "Changzhou, China"
+        "cca2": "CN",
+        "city": "Changzhou",
+        "country": "China",
+        "name": "Changzhou, China",
+        "region": "Asia"
     },
     "DAC": {
         "cca2": "BD",
         "city": "Dhaka",
+        "country": "Bangladesh",
         "lat": 23.843347,
         "lon": 90.397783,
         "name": "Dhaka, Bangladesh",
@@ -615,6 +717,7 @@
     "DAD": {
         "cca2": "VN",
         "city": "Da Nang",
+        "country": "Vietnam",
         "lat": 16.02636,
         "lon": 108.20869,
         "name": "Da Nang, Vietnam",
@@ -623,6 +726,7 @@
     "DAR": {
         "cca2": "TZ",
         "city": "Dar es Salaam",
+        "country": "Tanzania",
         "lat": -6.8781099319,
         "lon": 39.2025985718,
         "name": "Dar Es Salaam, Tanzania",
@@ -631,6 +735,7 @@
     "DEL": {
         "cca2": "IN",
         "city": "New Delhi",
+        "country": "India",
         "lat": 28.5664997101,
         "lon": 77.1031036377,
         "name": "New Delhi, India",
@@ -639,6 +744,7 @@
     "DEN": {
         "cca2": "US",
         "city": "Denver",
+        "country": "United States",
         "lat": 39.8616981506,
         "lon": -104.672996521,
         "name": "Denver, CO, United States",
@@ -647,6 +753,7 @@
     "DFW": {
         "cca2": "US",
         "city": "Dallas",
+        "country": "United States",
         "lat": 32.8968009949,
         "lon": -97.0380020142,
         "name": "Dallas, TX, United States",
@@ -655,17 +762,23 @@
     "DKR": {
         "cca2": "SN",
         "city": "Dakar",
+        "country": "Senegal",
         "lat": 14.7412099,
         "lon": -17.4889771,
         "name": "Dakar, Senegal",
         "region": "Africa"
     },
     "DLC": {
-        "name": "Dalian, China"
+        "cca2": "CN",
+        "city": "Dalian",
+        "country": "China",
+        "name": "Dalian, China",
+        "region": "Asia"
     },
     "DME": {
         "cca2": "RU",
         "city": "Moscow",
+        "country": "Russia",
         "lat": 55.4087982178,
         "lon": 37.9062995911,
         "name": "Moscow, Russia",
@@ -674,6 +787,7 @@
     "DMM": {
         "cca2": "SA",
         "city": "Dammam",
+        "country": "Saudi Arabia",
         "lat": 26.471200943,
         "lon": 49.7979011536,
         "name": "Dammam, Saudi Arabia",
@@ -682,6 +796,7 @@
     "DOH": {
         "cca2": "QA",
         "city": "Doha",
+        "country": "Qatar",
         "lat": 25.2605946,
         "lon": 51.6137665,
         "name": "Doha, Qatar",
@@ -690,6 +805,7 @@
     "DPS": {
         "cca2": "ID",
         "city": "Denpasar",
+        "country": "Indonesia",
         "lat": -8.748169899,
         "lon": 115.1669998169,
         "name": "Denpasar, Indonesia",
@@ -698,6 +814,7 @@
     "DTW": {
         "cca2": "US",
         "city": "Detroit",
+        "country": "United States",
         "lat": 42.2123985291,
         "lon": -83.3534011841,
         "name": "Detroit, MI, United States",
@@ -706,6 +823,7 @@
     "DUB": {
         "cca2": "IE",
         "city": "Dublin",
+        "country": "Ireland",
         "lat": 53.4212989807,
         "lon": -6.270070076,
         "name": "Dublin, Ireland",
@@ -714,6 +832,7 @@
     "DUR": {
         "cca2": "ZA",
         "city": "Durban",
+        "country": "South Africa",
         "lat": -29.6144444444,
         "lon": 31.1197222222,
         "name": "Durban, South Africa",
@@ -722,6 +841,7 @@
     "DUS": {
         "cca2": "DE",
         "city": "Düsseldorf",
+        "country": "Germany",
         "lat": 51.2895011902,
         "lon": 6.7667798996,
         "name": "Düsseldorf, Germany",
@@ -730,6 +850,7 @@
     "DXB": {
         "cca2": "AE",
         "city": "Dubai",
+        "country": "United Arab Emirates",
         "lat": 25.2527999878,
         "lon": 55.3643989563,
         "name": "Dubai, United Arab Emirates",
@@ -738,6 +859,7 @@
     "EBB": {
         "cca2": "UG",
         "city": "KAMPALA",
+        "country": "Uganda",
         "lat": 0.3152,
         "lon": 32.5816,
         "name": "KAMPALA, Uganda",
@@ -746,6 +868,7 @@
     "EBL": {
         "cca2": "IQ",
         "city": "Erbil",
+        "country": "Iraq",
         "lat": 36.1901,
         "lon": 43.993,
         "name": "Erbil, Iraq",
@@ -754,6 +877,7 @@
     "EDI": {
         "cca2": "GB",
         "city": "Edinburgh",
+        "country": "United Kingdom",
         "lat": 55.9500007629,
         "lon": -3.3724999428,
         "name": "Edinburgh, United Kingdom",
@@ -762,6 +886,7 @@
     "EVN": {
         "cca2": "AM",
         "city": "Yerevan",
+        "country": "Armenia",
         "lat": 40.1473007202,
         "lon": 44.3959007263,
         "name": "Yerevan, Armenia",
@@ -770,6 +895,7 @@
     "EWR": {
         "cca2": "US",
         "city": "Newark",
+        "country": "United States",
         "lat": 40.6925010681,
         "lon": -74.1687011719,
         "name": "Newark, NJ, United States",
@@ -778,6 +904,7 @@
     "EZE": {
         "cca2": "AR",
         "city": "Buenos Aires",
+        "country": "Argentina",
         "lat": -34.8222,
         "lon": -58.5358,
         "name": "Buenos Aires, Argentina",
@@ -786,6 +913,7 @@
     "FCO": {
         "cca2": "IT",
         "city": "Rome",
+        "country": "Italy",
         "lat": 41.8045005798,
         "lon": 12.2508001328,
         "name": "Rome, Italy",
@@ -794,6 +922,7 @@
     "FIH": {
         "cca2": "CD",
         "city": "Kinshasa",
+        "country": "DR Congo",
         "lat": -4.3857498169,
         "lon": 15.4446001053,
         "name": "Kinshasa, DR Congo",
@@ -802,17 +931,23 @@
     "FLN": {
         "cca2": "BR",
         "city": "Florianopolis",
+        "country": "Brazil",
         "lat": -27.6702785492,
         "lon": -48.5525016785,
         "name": "Florianopolis, Brazil",
         "region": "South America"
     },
     "FOC": {
-        "name": "Fuzhou, China"
+        "cca2": "CN",
+        "city": "Fuzhou",
+        "country": "China",
+        "name": "Fuzhou, China",
+        "region": "Asia"
     },
     "FOR": {
         "cca2": "BR",
         "city": "Fortaleza",
+        "country": "Brazil",
         "lat": -3.7762799263,
         "lon": -38.5326004028,
         "name": "Fortaleza, Brazil",
@@ -821,6 +956,7 @@
     "FRA": {
         "cca2": "DE",
         "city": "Frankfurt",
+        "country": "Germany",
         "lat": 50.0264015198,
         "lon": 8.543129921,
         "name": "Frankfurt, Germany",
@@ -829,6 +965,7 @@
     "FSD": {
         "cca2": "US",
         "city": "Sioux Falls",
+        "country": "South Dakota",
         "lat": 43.540819819502,
         "lon": -96.65511577730963,
         "name": "Sioux Falls, South Dakota",
@@ -837,17 +974,23 @@
     "FUK": {
         "cca2": "JP",
         "city": "Fukuoka",
+        "country": "Japan",
         "lat": 33.5902,
         "lon": 130.4017,
         "name": "Fukuoka, Japan",
         "region": "Asia Pacific"
     },
     "FUO": {
-        "name": "Foshan, China"
+        "cca2": "CN",
+        "city": "Foshan",
+        "country": "China",
+        "name": "Foshan, China",
+        "region": "Asia"
     },
     "GBE": {
         "cca2": "BW",
         "city": "Gaborone",
+        "country": "Botswana",
         "lat": -24.6282,
         "lon": 25.9231,
         "name": "Gaborone, Botswana",
@@ -856,6 +999,7 @@
     "GDL": {
         "cca2": "MX",
         "city": "Guadalajara",
+        "country": "Mexico",
         "lat": 20.5217990875,
         "lon": -103.3109970093,
         "name": "Guadalajara, Mexico",
@@ -864,6 +1008,7 @@
     "GEO": {
         "cca2": "GY",
         "city": "Georgetown",
+        "country": "Guyana",
         "lat": 6.825648,
         "lon": -58.163756,
         "name": "Georgetown, Guyana",
@@ -872,6 +1017,7 @@
     "GIG": {
         "cca2": "BR",
         "city": "Rio de Janeiro",
+        "country": "Brazil",
         "lat": -22.8099994659,
         "lon": -43.2505569458,
         "name": "Rio de Janeiro, Brazil",
@@ -880,6 +1026,7 @@
     "GND": {
         "cca2": "GD",
         "city": "St. George's",
+        "country": "Grenada",
         "lat": 12.007116,
         "lon": -61.7882288,
         "name": "St. George's, Grenada",
@@ -888,6 +1035,7 @@
     "GOT": {
         "cca2": "SE",
         "city": "Gothenburg",
+        "country": "Sweden",
         "lat": 57.6627998352,
         "lon": 12.279800415,
         "name": "Gothenburg, Sweden",
@@ -896,6 +1044,7 @@
     "GRU": {
         "cca2": "BR",
         "city": "São Paulo",
+        "country": "Brazil",
         "lat": -23.4355564117,
         "lon": -46.4730567932,
         "name": "São Paulo, Brazil",
@@ -904,6 +1053,7 @@
     "GUA": {
         "cca2": "GT",
         "city": "Guatemala City",
+        "country": "Guatemala",
         "lat": 14.5832996368,
         "lon": -90.5274963379,
         "name": "Guatemala City, Guatemala",
@@ -912,6 +1062,7 @@
     "GUM": {
         "cca2": "GU",
         "city": "Hagatna",
+        "country": "Guam",
         "lat": 13.4834003448,
         "lon": 144.796005249,
         "name": "Hagatna, Guam",
@@ -920,6 +1071,7 @@
     "GVA": {
         "cca2": "CH",
         "city": "Geneva",
+        "country": "Switzerland",
         "lat": 46.2380981445,
         "lon": 6.1089501381,
         "name": "Geneva, Switzerland",
@@ -928,6 +1080,7 @@
     "GYD": {
         "cca2": "AZ",
         "city": "Baku",
+        "country": "Azerbaijan",
         "lat": 40.4674987793,
         "lon": 50.0466995239,
         "name": "Baku, Azerbaijan",
@@ -936,6 +1089,7 @@
     "GYE": {
         "cca2": "EC",
         "city": "Guayaquil",
+        "country": "Ecuador",
         "lat": -2.1894,
         "lon": -79.8891,
         "name": "Guayaquil, Ecuador",
@@ -944,17 +1098,23 @@
     "GYN": {
         "cca2": "BR",
         "city": "Goiania",
+        "country": "Brazil",
         "lat": -16.69727,
         "lon": -49.26851,
         "name": "Goiânia, Brazil",
         "region": "South America"
     },
     "HAK": {
-        "name": "Haikou, China"
+        "cca2": "CN",
+        "city": "Haikou",
+        "country": "China",
+        "name": "Haikou, China",
+        "region": "Asia"
     },
     "HAM": {
         "cca2": "DE",
         "city": "Hamburg",
+        "country": "Germany",
         "lat": 53.6304016113,
         "lon": 9.9882297516,
         "name": "Hamburg, Germany",
@@ -963,6 +1123,7 @@
     "HAN": {
         "cca2": "VN",
         "city": "Hanoi",
+        "country": "Vietnam",
         "lat": 21.221200943,
         "lon": 105.806999206,
         "name": "Hanoi, Vietnam",
@@ -971,6 +1132,7 @@
     "HBA": {
         "cca2": "AU",
         "city": "Hobart",
+        "country": "Australia",
         "lat": -42.883209,
         "lon": 147.331665,
         "name": "Hobart, Australia",
@@ -979,6 +1141,7 @@
     "HEL": {
         "cca2": "FI",
         "city": "Helsinki",
+        "country": "Finland",
         "lat": 60.317199707,
         "lon": 24.963300705,
         "name": "Helsinki, Finland",
@@ -987,16 +1150,25 @@
     "HFA": {
         "cca2": "IL",
         "city": "Haifa",
+        "country": "Israel",
         "lat": 32.78492,
         "lon": 34.96069,
         "name": "Haifa, Israel",
         "region": "Middle East"
     },
     "HFE": {
-        "name": "Huainan, China"
+        "cca2": "CN",
+        "city": "Huainan",
+        "country": "China",
+        "name": "Huainan, China",
+        "region": "Asia"
     },
     "HGH": {
-        "name": "Shaoxing, China"
+        "cca2": "CN",
+        "city": "Shaoxing",
+        "country": "China",
+        "name": "Shaoxing, China",
+        "region": "Asia"
     },
     "HKG": {
         "cca2": "HK",
@@ -1009,6 +1181,7 @@
     "HNL": {
         "cca2": "US",
         "city": "Honolulu",
+        "country": "United States",
         "lat": 21.3187007904,
         "lon": -157.9219970703,
         "name": "Honolulu, HI, United States",
@@ -1017,6 +1190,7 @@
     "HRE": {
         "cca2": "ZW",
         "city": "Harare",
+        "country": "Zimbabwe",
         "lat": -17.9318008423,
         "lon": 31.0928001404,
         "name": "Harare, Zimbabwe",
@@ -1025,17 +1199,23 @@
     "HYD": {
         "cca2": "IN",
         "city": "Hyderabad",
+        "country": "India",
         "lat": 17.2313175201,
         "lon": 78.4298553467,
         "name": "Hyderabad, India",
         "region": "Asia Pacific"
     },
     "HYN": {
-        "name": "Taizhou, China"
+        "cca2": "CN",
+        "city": "Taizhou",
+        "country": "China",
+        "name": "Taizhou, China",
+        "region": "Asia"
     },
     "IAD": {
         "cca2": "US",
         "city": "Ashburn",
+        "country": "United States",
         "lat": 38.94449997,
         "lon": -77.45580292,
         "name": "Ashburn, VA, United States",
@@ -1044,6 +1224,7 @@
     "IAH": {
         "cca2": "US",
         "city": "Houston",
+        "country": "United States",
         "lat": 29.9843997955,
         "lon": -95.3414001465,
         "name": "Houston, TX, United States",
@@ -1052,6 +1233,7 @@
     "ICN": {
         "cca2": "KR",
         "city": "Seoul",
+        "country": "South Korea",
         "lat": 37.4691009521,
         "lon": 126.450996399,
         "name": "Seoul, South Korea",
@@ -1060,6 +1242,7 @@
     "IND": {
         "cca2": "US",
         "city": "Indianapolis",
+        "country": "United States",
         "lat": 39.717300415,
         "lon": -86.2944030762,
         "name": "Indianapolis, IN, United States",
@@ -1068,6 +1251,7 @@
     "ISB": {
         "cca2": "PK",
         "city": "Islamabad",
+        "country": "Pakistan",
         "lat": 33.6166992188,
         "lon": 73.0991973877,
         "name": "Islamabad, Pakistan",
@@ -1076,6 +1260,7 @@
     "IST": {
         "cca2": "TR",
         "city": "Istanbul",
+        "country": "Turkey",
         "lat": 40.9768981934,
         "lon": 28.8145999908,
         "name": "Istanbul, Turkey",
@@ -1084,6 +1269,7 @@
     "ISU": {
         "cca2": "IQ",
         "city": "Sulaymaniyah",
+        "country": "Iraq",
         "lat": 35.5668,
         "lon": 45.4161,
         "name": "Sulaymaniyah, Iraq",
@@ -1092,6 +1278,7 @@
     "ITJ": {
         "cca2": "BR",
         "city": "Itajai",
+        "country": "Brazil",
         "lat": -27.6116676331,
         "lon": -48.6727790833,
         "name": "Itajaí, Brazil",
@@ -1100,6 +1287,7 @@
     "IXC": {
         "cca2": "IN",
         "city": "Chandigarh",
+        "country": "India",
         "lat": 30.673500061,
         "lon": 76.7884979248,
         "name": "Chandigarh, India",
@@ -1108,6 +1296,7 @@
     "JAX": {
         "cca2": "US",
         "city": "Jacksonville",
+        "country": "United States",
         "lat": 30.4941005707,
         "lon": -81.6878967285,
         "name": "Jacksonville, FL, United States",
@@ -1116,6 +1305,7 @@
     "JDO": {
         "cca2": "BR",
         "city": "Juazeiro do Norte",
+        "country": "Brazil",
         "lat": -7.2242,
         "lon": -39.313,
         "name": "Juazeiro do Norte, Brazil",
@@ -1124,6 +1314,7 @@
     "JED": {
         "cca2": "SA",
         "city": "Jeddah",
+        "country": "Saudi Arabia",
         "lat": 21.679599762,
         "lon": 39.15650177,
         "name": "Jeddah, Saudi Arabia",
@@ -1132,6 +1323,7 @@
     "JHB": {
         "cca2": "MY",
         "city": "Johor Bahru",
+        "country": "Malaysia",
         "lat": 1.635848,
         "lon": 103.665943,
         "name": "Johor Bahru, Malaysia",
@@ -1140,6 +1332,7 @@
     "JIB": {
         "cca2": "DJ",
         "city": "Djibouti",
+        "country": "Djibouti",
         "lat": 11.5473003387,
         "lon": 43.1595001221,
         "name": "Djibouti City, Djibouti",
@@ -1148,6 +1341,7 @@
     "JNB": {
         "cca2": "ZA",
         "city": "Johannesburg",
+        "country": "South Africa",
         "lat": -26.133333,
         "lon": 28.25,
         "name": "Johannesburg, South Africa",
@@ -1156,6 +1350,7 @@
     "JOG": {
         "cca2": "ID",
         "city": "Yogyakarta",
+        "country": "Indonesia",
         "lat": -7.7881798744,
         "lon": 110.4319992065,
         "name": "Yogyakarta, Indonesia",
@@ -1164,6 +1359,7 @@
     "JOI": {
         "cca2": "BR",
         "city": "Joinville",
+        "country": "Brazil",
         "lat": -26.304408,
         "lon": -48.846383,
         "name": "Joinville, Brazil",
@@ -1172,17 +1368,23 @@
     "JSR": {
         "cca2": "BD",
         "city": "Jashore",
+        "country": "Bangladesh",
         "lat": 23.1837997437,
         "lon": 89.1607971191,
         "name": "Jashore, Bangladesh",
         "region": "Asia Pacific"
     },
     "JXG": {
-        "name": "Jiaxing, China"
+        "cca2": "CN",
+        "city": "Jiaxing",
+        "country": "China",
+        "name": "Jiaxing, China",
+        "region": "Asia"
     },
     "KBP": {
         "cca2": "UA",
         "city": "Kyiv",
+        "country": "Ukraine",
         "lat": 50.3450012207,
         "lon": 30.8946990967,
         "name": "Kyiv, Ukraine",
@@ -1191,6 +1393,7 @@
     "KEF": {
         "cca2": "IS",
         "city": "Reykjavík",
+        "country": "Iceland",
         "lat": 63.9850006104,
         "lon": -22.6056003571,
         "name": "Reykjavík, Iceland",
@@ -1199,6 +1402,7 @@
     "KGL": {
         "cca2": "RW",
         "city": "Kigali",
+        "country": "Rwanda",
         "lat": -1.9686299563,
         "lon": 30.1394996643,
         "name": "Kigali, Rwanda",
@@ -1207,6 +1411,7 @@
     "KHH": {
         "cca2": "TW",
         "city": "Kaohsiung City",
+        "country": "Taiwan",
         "lat": 22.5771007538,
         "lon": 120.3499984741,
         "name": "Kaohsiung City, Taiwan",
@@ -1215,17 +1420,23 @@
     "KHI": {
         "cca2": "PK",
         "city": "Karachi",
+        "country": "Pakistan",
         "lat": 24.9064998627,
         "lon": 67.1607971191,
         "name": "Karachi, Pakistan",
         "region": "Asia Pacific"
     },
     "KHN": {
-        "name": "Xinyu, China"
+        "cca2": "CN",
+        "city": "Xinyu",
+        "country": "China",
+        "name": "Xinyu, China",
+        "region": "Asia"
     },
     "KIN": {
         "cca2": "JM",
         "city": "Kingston",
+        "country": "Jamaica",
         "lat": 17.9951,
         "lon": -76.7846,
         "name": "Kingston, Jamaica",
@@ -1234,6 +1445,7 @@
     "KIV": {
         "cca2": "MD",
         "city": "Chișinău",
+        "country": "Moldova",
         "lat": 46.9277000427,
         "lon": 28.9309997559,
         "name": "Chișinău, Moldova",
@@ -1242,6 +1454,7 @@
     "KIX": {
         "cca2": "JP",
         "city": "Osaka",
+        "country": "Japan",
         "lat": 34.4272994995,
         "lon": 135.244003296,
         "name": "Osaka, Japan",
@@ -1250,6 +1463,7 @@
     "KJA": {
         "cca2": "RU",
         "city": "Krasnoyarsk",
+        "country": "Russia",
         "lat": 56.0153,
         "lon": 92.8932,
         "name": "Krasnoyarsk, Russia",
@@ -1258,17 +1472,23 @@
     "KLD": {
         "cca2": "RU",
         "city": "Tver",
+        "country": "Russian Federation",
         "lat": 56.8587,
         "lon": 35.9176,
         "name": "Tver, Russian Federation",
         "region": "Europe"
     },
     "KMG": {
-        "name": "Kunming, China"
+        "cca2": "CN",
+        "city": "Kunming",
+        "country": "China",
+        "name": "Kunming, China",
+        "region": "Asia"
     },
     "KNU": {
         "cca2": "IN",
         "city": "Kanpur",
+        "country": "India",
         "lat": 26.4499,
         "lon": 80.3319,
         "name": "Kanpur, India",
@@ -1277,6 +1497,7 @@
     "KTM": {
         "cca2": "NP",
         "city": "Kathmandu",
+        "country": "Nepal",
         "lat": 27.6965999603,
         "lon": 85.3591003418,
         "name": "Kathmandu, Nepal",
@@ -1285,17 +1506,23 @@
     "KUL": {
         "cca2": "MY",
         "city": "Kuala Lumpur",
+        "country": "Malaysia",
         "lat": 2.745579958,
         "lon": 101.709999084,
         "name": "Kuala Lumpur, Malaysia",
         "region": "Asia Pacific"
     },
     "KWE": {
-        "name": "Guiyang, China"
+        "cca2": "CN",
+        "city": "Guiyang",
+        "country": "China",
+        "name": "Guiyang, China",
+        "region": "Asia"
     },
     "KWI": {
         "cca2": "KW",
         "city": "Kuwait City",
+        "country": "Kuwait",
         "lat": 29.226600647,
         "lon": 47.9688987732,
         "name": "Kuwait City, Kuwait",
@@ -1304,6 +1531,7 @@
     "LAD": {
         "cca2": "AO",
         "city": "Luanda",
+        "country": "Angola",
         "lat": -8.8583698273,
         "lon": 13.2312002182,
         "name": "Luanda, Angola",
@@ -1312,6 +1540,7 @@
     "LAS": {
         "cca2": "US",
         "city": "Las Vegas",
+        "country": "United States",
         "lat": 36.08010101,
         "lon": -115.1520004,
         "name": "Las Vegas, NV, United States",
@@ -1320,6 +1549,7 @@
     "LAX": {
         "cca2": "US",
         "city": "Los Angeles",
+        "country": "United States",
         "lat": 33.94250107,
         "lon": -118.4079971,
         "name": "Los Angeles, CA, United States",
@@ -1328,6 +1558,7 @@
     "LCA": {
         "cca2": "CY",
         "city": "Nicosia",
+        "country": "Cyprus",
         "lat": 34.8750991821,
         "lon": 33.6249008179,
         "name": "Nicosia, Cyprus",
@@ -1336,6 +1567,7 @@
     "LED": {
         "cca2": "RU",
         "city": "Saint Petersburg",
+        "country": "Russia",
         "lat": 59.8003005981,
         "lon": 30.2625007629,
         "name": "Saint Petersburg, Russia",
@@ -1344,6 +1576,7 @@
     "LHE": {
         "cca2": "PK",
         "city": "Lahore",
+        "country": "Pakistan",
         "lat": 31.5216007233,
         "lon": 74.4036026001,
         "name": "Lahore, Pakistan",
@@ -1352,17 +1585,23 @@
     "LHR": {
         "cca2": "GB",
         "city": "London",
+        "country": "United Kingdom",
         "lat": 51.4706001282,
         "lon": -0.4619410038,
         "name": "London, United Kingdom",
         "region": "Europe"
     },
     "LHW": {
-        "name": "Lanzhou, China"
+        "cca2": "CN",
+        "city": "Lanzhou",
+        "country": "China",
+        "name": "Lanzhou, China",
+        "region": "Asia"
     },
     "LIM": {
         "cca2": "PE",
         "city": "Lima",
+        "country": "Peru",
         "lat": -12.021900177,
         "lon": -77.1143035889,
         "name": "Lima, Peru",
@@ -1371,6 +1610,7 @@
     "LIS": {
         "cca2": "PT",
         "city": "Lisbon",
+        "country": "Portugal",
         "lat": 38.7812995911,
         "lon": -9.1359195709,
         "name": "Lisbon, Portugal",
@@ -1379,6 +1619,7 @@
     "LLK": {
         "cca2": "AZ",
         "city": "Astara",
+        "country": "Azerbaijan",
         "lat": 38.7463989258,
         "lon": 48.8180007935,
         "name": "Astara, Azerbaijan",
@@ -1387,6 +1628,7 @@
     "LOS": {
         "cca2": "NG",
         "city": "Lagos",
+        "country": "Nigeria",
         "lat": 6.5773701668,
         "lon": 3.321160078,
         "name": "Lagos, Nigeria",
@@ -1395,6 +1637,7 @@
     "LPB": {
         "cca2": "BO",
         "city": "La Paz",
+        "country": "Bolivia",
         "lat": -16.4897,
         "lon": -68.1193,
         "name": "La Paz, Bolivia",
@@ -1403,6 +1646,7 @@
     "LUX": {
         "cca2": "LU",
         "city": "Luxembourg City",
+        "country": "Luxembourg",
         "lat": 49.6265983582,
         "lon": 6.211520195,
         "name": "Luxembourg City, Luxembourg",
@@ -1411,6 +1655,7 @@
     "LYS": {
         "cca2": "FR",
         "city": "Lyon",
+        "country": "France",
         "lat": 45.7263,
         "lon": 5.0908,
         "name": "Lyon, France",
@@ -1419,6 +1664,7 @@
     "MAA": {
         "cca2": "IN",
         "city": "Chennai",
+        "country": "India",
         "lat": 12.9900054932,
         "lon": 80.1692962646,
         "name": "Chennai, India",
@@ -1427,6 +1673,7 @@
     "MAD": {
         "cca2": "ES",
         "city": "Madrid",
+        "country": "Spain",
         "lat": 40.4936,
         "lon": -3.56676,
         "name": "Madrid, Spain",
@@ -1435,6 +1682,7 @@
     "MAN": {
         "cca2": "GB",
         "city": "Manchester",
+        "country": "United Kingdom",
         "lat": 53.3536987305,
         "lon": -2.2749500275,
         "name": "Manchester, United Kingdom",
@@ -1443,6 +1691,7 @@
     "MAO": {
         "cca2": "BR",
         "city": "Manaus",
+        "country": "Brazil",
         "lat": -3.11286,
         "lon": -60.01949,
         "name": "Manaus, Brazil",
@@ -1451,6 +1700,7 @@
     "MBA": {
         "cca2": "KE",
         "city": "Mombasa",
+        "country": "Kenya",
         "lat": -4.0348300934,
         "lon": 39.5942001343,
         "name": "Mombasa, Kenya",
@@ -1459,6 +1709,7 @@
     "MCI": {
         "cca2": "US",
         "city": "Kansas City",
+        "country": "United States",
         "lat": 39.2975997925,
         "lon": -94.7138977051,
         "name": "Kansas City, MO, United States",
@@ -1467,6 +1718,7 @@
     "MCT": {
         "cca2": "OM",
         "city": "Muscat",
+        "country": "Oman",
         "lat": 23.5932998657,
         "lon": 58.2844009399,
         "name": "Muscat, Oman",
@@ -1475,6 +1727,7 @@
     "MDE": {
         "cca2": "CO",
         "city": "Medellín",
+        "country": "Colombia",
         "lat": 6.16454,
         "lon": -75.4231,
         "name": "Medellín, Colombia",
@@ -1483,6 +1736,7 @@
     "MDL": {
         "cca2": "MM",
         "city": "Mandalay",
+        "country": "Myanmar",
         "lat": 21.7051697,
         "lon": 95.9695206,
         "name": "Mandalay, Myanmar",
@@ -1491,6 +1745,7 @@
     "MEL": {
         "cca2": "AU",
         "city": "Melbourne",
+        "country": "Australia",
         "lat": -37.6733016968,
         "lon": 144.843002319,
         "name": "Melbourne, VIC, Australia",
@@ -1499,6 +1754,7 @@
     "MEM": {
         "cca2": "US",
         "city": "Memphis",
+        "country": "United States",
         "lat": 35.0424003601,
         "lon": -89.9766998291,
         "name": "Memphis, TN, United States",
@@ -1507,6 +1763,7 @@
     "MEX": {
         "cca2": "MX",
         "city": "Mexico City",
+        "country": "Mexico",
         "lat": 19.4363002777,
         "lon": -99.0720977783,
         "name": "Mexico City, Mexico",
@@ -1515,6 +1772,7 @@
     "MFE": {
         "cca2": "US",
         "city": "McAllen",
+        "country": "United States",
         "lat": 26.17580032,
         "lon": -98.23860168,
         "name": "McAllen, TX, United States",
@@ -1531,6 +1789,7 @@
     "MGM": {
         "cca2": "US",
         "city": "Montgomery",
+        "country": "United States",
         "lat": 32.30059814,
         "lon": -86.39399719,
         "name": "Montgomery, AL, United States",
@@ -1539,6 +1798,7 @@
     "MIA": {
         "cca2": "US",
         "city": "Miami",
+        "country": "United States",
         "lat": 25.7931995392,
         "lon": -80.2906036377,
         "name": "Miami, FL, United States",
@@ -1547,6 +1807,7 @@
     "MLE": {
         "cca2": "MV",
         "city": "Male",
+        "country": "Maldives",
         "lat": 4.1748,
         "lon": 73.50888,
         "name": "Malé, Maldives",
@@ -1555,6 +1816,7 @@
     "MNL": {
         "cca2": "PH",
         "city": "Manila",
+        "country": "Philippines",
         "lat": 14.508600235,
         "lon": 121.019996643,
         "name": "Manila, Philippines",
@@ -1563,6 +1825,7 @@
     "MPM": {
         "cca2": "MZ",
         "city": "Maputo",
+        "country": "Mozambique",
         "lat": -25.9207992554,
         "lon": 32.5726013184,
         "name": "Maputo, Mozambique",
@@ -1571,6 +1834,7 @@
     "MRS": {
         "cca2": "FR",
         "city": "Marseille",
+        "country": "France",
         "lat": 43.439271922,
         "lon": 5.2214241028,
         "name": "Marseille, France",
@@ -1579,6 +1843,7 @@
     "MRU": {
         "cca2": "MU",
         "city": "Port Louis",
+        "country": "Mauritius",
         "lat": -20.4302005768,
         "lon": 57.6836013794,
         "name": "Port Louis, Mauritius",
@@ -1587,6 +1852,7 @@
     "MSP": {
         "cca2": "US",
         "city": "Minneapolis",
+        "country": "United States",
         "lat": 44.8819999695,
         "lon": -93.2218017578,
         "name": "Minneapolis, MN, United States",
@@ -1595,6 +1861,7 @@
     "MSQ": {
         "cca2": "BY",
         "city": "Minsk",
+        "country": "Belarus",
         "lat": 53.9006,
         "lon": 27.599,
         "name": "Minsk, Belarus",
@@ -1603,6 +1870,7 @@
     "MUC": {
         "cca2": "DE",
         "city": "Munich",
+        "country": "Germany",
         "lat": 48.3538017273,
         "lon": 11.7861003876,
         "name": "Munich, Germany",
@@ -1611,6 +1879,7 @@
     "MXP": {
         "cca2": "IT",
         "city": "Milan",
+        "country": "Italy",
         "lat": 45.6305999756,
         "lon": 8.7281103134,
         "name": "Milan, Italy",
@@ -1619,6 +1888,7 @@
     "NAG": {
         "cca2": "IN",
         "city": "Nagpur",
+        "country": "India",
         "lat": 21.1610714,
         "lon": 79.0024702,
         "name": "Nagpur, India",
@@ -1627,6 +1897,7 @@
     "NBO": {
         "cca2": "KE",
         "city": "Nairobi",
+        "country": "Kenya",
         "lat": -1.319239974,
         "lon": 36.9277992249,
         "name": "Nairobi, Kenya",
@@ -1635,6 +1906,7 @@
     "NJF": {
         "cca2": "IQ",
         "city": "Najaf",
+        "country": "Iraq",
         "lat": 31.989722,
         "lon": 44.404167,
         "name": "Najaf, Iraq",
@@ -1643,6 +1915,7 @@
     "NOU": {
         "cca2": "NC",
         "city": "Noumea",
+        "country": "New Caledonia",
         "lat": -22.0146007538,
         "lon": 166.212997436,
         "name": "Noumea, New Caledonia",
@@ -1651,6 +1924,7 @@
     "NQN": {
         "cca2": "AR",
         "city": "Neuquen",
+        "country": "Argentina",
         "lat": -38.9490013123,
         "lon": -68.1557006836,
         "name": "Neuquén, Argentina",
@@ -1659,6 +1933,7 @@
     "NRT": {
         "cca2": "JP",
         "city": "Tokyo",
+        "country": "Japan",
         "lat": 35.7647018433,
         "lon": 140.386001587,
         "name": "Tokyo, Japan",
@@ -1667,6 +1942,7 @@
     "NVT": {
         "cca2": "BR",
         "city": "Timbo",
+        "country": "Brazil",
         "lat": -26.8251,
         "lon": -49.2695,
         "name": "Timbó, Brazil",
@@ -1675,6 +1951,7 @@
     "OKA": {
         "cca2": "JP",
         "city": "Naha",
+        "country": "Japan",
         "lat": 26.1958,
         "lon": 127.646,
         "name": "Naha, Japan",
@@ -1683,6 +1960,7 @@
     "OKC": {
         "cca2": "US",
         "city": "Oklahoma City",
+        "country": "United States",
         "lat": 35.46655,
         "lon": -97.65373,
         "name": "Oklahoma City, United States",
@@ -1691,6 +1969,7 @@
     "OMA": {
         "cca2": "US",
         "city": "Omaha",
+        "country": "United States",
         "lat": 41.3031997681,
         "lon": -95.8940963745,
         "name": "Omaha, NE, United States",
@@ -1699,6 +1978,7 @@
     "ORD": {
         "cca2": "US",
         "city": "Chicago",
+        "country": "United States",
         "lat": 41.97859955,
         "lon": -87.90480042,
         "name": "Chicago, IL, United States",
@@ -1707,6 +1987,7 @@
     "ORF": {
         "cca2": "US",
         "city": "Norfolk",
+        "country": "United States",
         "lat": 36.8945999146,
         "lon": -76.2012023926,
         "name": "Norfolk, VA, United States",
@@ -1715,6 +1996,7 @@
     "ORK": {
         "cca2": "IE",
         "city": "Cork",
+        "country": "Ireland",
         "lat": 51.8413009644,
         "lon": -8.491109848,
         "name": "Cork, Ireland",
@@ -1723,6 +2005,7 @@
     "ORN": {
         "cca2": "DZ",
         "city": "Oran",
+        "country": "Algeria",
         "lat": 35.6911,
         "lon": -0.6416,
         "name": "Oran, Algeria",
@@ -1731,6 +2014,7 @@
     "OSL": {
         "cca2": "NO",
         "city": "Oslo",
+        "country": "Norway",
         "lat": 60.193901062,
         "lon": 11.100399971,
         "name": "Oslo, Norway",
@@ -1739,6 +2023,7 @@
     "OTP": {
         "cca2": "RO",
         "city": "Bucharest",
+        "country": "Romania",
         "lat": 44.5722007751,
         "lon": 26.1021995544,
         "name": "Bucharest, Romania",
@@ -1747,6 +2032,7 @@
     "OUA": {
         "cca2": "BF",
         "city": "Ouagadougou",
+        "country": "Burkina Faso",
         "lat": 12.3531999588,
         "lon": -1.5124200583,
         "name": "Ouagadougou, Burkina Faso",
@@ -1755,6 +2041,7 @@
     "PAT": {
         "cca2": "IN",
         "city": "Patna",
+        "country": "India",
         "lat": 25.591299057,
         "lon": 85.0879974365,
         "name": "Patna, India",
@@ -1763,6 +2050,7 @@
     "PBH": {
         "cca2": "BT",
         "city": "Thimphu",
+        "country": "Bhutan",
         "lat": 27.4712,
         "lon": 89.6339,
         "name": "Thimphu, Bhutan",
@@ -1771,6 +2059,7 @@
     "PBM": {
         "cca2": "SR",
         "city": "Paramaribo",
+        "country": "Suriname",
         "lat": 5.452831,
         "lon": -55.187783,
         "name": "Paramaribo, Suriname",
@@ -1779,6 +2068,7 @@
     "PDX": {
         "cca2": "US",
         "city": "Portland",
+        "country": "United States",
         "lat": 45.58869934,
         "lon": -122.5979996,
         "name": "Portland, OR, United States",
@@ -1787,6 +2077,7 @@
     "PER": {
         "cca2": "AU",
         "city": "Perth",
+        "country": "Australia",
         "lat": -31.9402999878,
         "lon": 115.967002869,
         "name": "Perth, WA, Australia",
@@ -1795,6 +2086,7 @@
     "PHL": {
         "cca2": "US",
         "city": "Philadelphia",
+        "country": "United States",
         "lat": 39.8718986511,
         "lon": -75.2410964966,
         "name": "Philadelphia, United States",
@@ -1803,6 +2095,7 @@
     "PHX": {
         "cca2": "US",
         "city": "Phoenix",
+        "country": "United States",
         "lat": 33.434299469,
         "lon": -112.012001038,
         "name": "Phoenix, AZ, United States",
@@ -1811,17 +2104,23 @@
     "PIT": {
         "cca2": "US",
         "city": "Pittsburgh",
+        "country": "United States",
         "lat": 40.49150085,
         "lon": -80.23290253,
         "name": "Pittsburgh, PA, United States",
         "region": "North America"
     },
     "PKX": {
-        "name": "Langfang, China"
+        "cca2": "CN",
+        "city": "Langfang",
+        "country": "China",
+        "name": "Langfang, China",
+        "region": "Asia"
     },
     "PMO": {
         "cca2": "IT",
         "city": "Palermo",
+        "country": "Italy",
         "lat": 38.16114,
         "lon": 13.31546,
         "name": "Palermo, Italy",
@@ -1830,6 +2129,7 @@
     "PMW": {
         "cca2": "BR",
         "city": "Palmas",
+        "country": "Brazil",
         "lat": -10.2915000916,
         "lon": -48.3569984436,
         "name": "Palmas, Brazil",
@@ -1838,6 +2138,7 @@
     "PNH": {
         "cca2": "KH",
         "city": "Phnom Penh",
+        "country": "Cambodia",
         "lat": 11.5466003418,
         "lon": 104.84400177,
         "name": "Phnom Penh, Cambodia",
@@ -1846,6 +2147,7 @@
     "POA": {
         "cca2": "BR",
         "city": "Porto Alegre",
+        "country": "Brazil",
         "lat": -29.9944000244,
         "lon": -51.1713981628,
         "name": "Porto Alegre, Brazil",
@@ -1854,6 +2156,7 @@
     "POS": {
         "cca2": "TT",
         "city": "Port of Spain",
+        "country": "Trinidad and Tobago",
         "lat": 10.5953998566,
         "lon": -61.3372001648,
         "name": "Port of Spain, Trinidad and Tobago",
@@ -1862,6 +2165,7 @@
     "PPT": {
         "cca2": "PF",
         "city": "Tahiti",
+        "country": "French Polynesia",
         "lat": -17.5536994934,
         "lon": -149.606994629,
         "name": "Tahiti, French Polynesia",
@@ -1870,6 +2174,7 @@
     "PRG": {
         "cca2": "CZ",
         "city": "Prague",
+        "country": "Czech Republic",
         "lat": 50.1007995605,
         "lon": 14.2600002289,
         "name": "Prague, Czech Republic",
@@ -1878,6 +2183,7 @@
     "PTY": {
         "cca2": "PA",
         "city": "Panama City",
+        "country": "Panama",
         "lat": 9.0713596344,
         "lon": -79.3834991455,
         "name": "Panama City, Panama",
@@ -1886,6 +2192,7 @@
     "QRO": {
         "cca2": "MX",
         "city": "Queretaro",
+        "country": "Mexico",
         "lat": 20.6173000336,
         "lon": -100.185997009,
         "name": "Queretaro, MX, Mexico",
@@ -1894,6 +2201,7 @@
     "QWJ": {
         "cca2": "BR",
         "city": "Americana",
+        "country": "Brazil",
         "lat": -22.738,
         "lon": -47.334,
         "name": "Americana, Brazil",
@@ -1902,6 +2210,7 @@
     "RAO": {
         "cca2": "BR",
         "city": "Ribeirao Preto",
+        "country": "Brazil",
         "lat": -21.1363887787,
         "lon": -47.7766685486,
         "name": "Ribeirao Preto, Brazil",
@@ -1910,6 +2219,7 @@
     "RDU": {
         "cca2": "US",
         "city": "Durham",
+        "country": "United States",
         "lat": 35.93543,
         "lon": -78.88075,
         "name": "Durham, United States",
@@ -1918,6 +2228,7 @@
     "REC": {
         "cca2": "BR",
         "city": "Recife",
+        "country": "Brazil",
         "lat": -8.1264896393,
         "lon": -34.9235992432,
         "name": "Recife, Brazil",
@@ -1926,6 +2237,7 @@
     "RGN": {
         "cca2": "MM",
         "city": "Yangon",
+        "country": "Myanmar",
         "lat": 16.9073009491,
         "lon": 96.1332015991,
         "name": "Yangon, Myanmar",
@@ -1934,6 +2246,7 @@
     "RIC": {
         "cca2": "US",
         "city": "Richmond",
+        "country": "United States",
         "lat": 37.5051994324,
         "lon": -77.3197021484,
         "name": "Richmond, VA, United States",
@@ -1942,6 +2255,7 @@
     "RIX": {
         "cca2": "LV",
         "city": "Riga",
+        "country": "Latvia",
         "lat": 56.9235992432,
         "lon": 23.9710998535,
         "name": "Riga, Latvia",
@@ -1950,6 +2264,7 @@
     "RUH": {
         "cca2": "SA",
         "city": "Riyadh",
+        "country": "Saudi Arabia",
         "lat": 24.9575996399,
         "lon": 46.6987991333,
         "name": "Riyadh, Saudi Arabia",
@@ -1958,6 +2273,7 @@
     "RUN": {
         "cca2": "RE",
         "city": "Saint-Denis",
+        "country": "France",
         "lat": -20.8871002197,
         "lon": 55.5102996826,
         "name": "Réunion, France",
@@ -1966,6 +2282,7 @@
     "SAN": {
         "cca2": "US",
         "city": "San Diego",
+        "country": "United States",
         "lat": 32.7336006165,
         "lon": -117.190002441,
         "name": "San Diego, CA, United States",
@@ -1974,6 +2291,7 @@
     "SAT": {
         "cca2": "US",
         "city": "San Antonio",
+        "country": "United States",
         "lat": 29.429461,
         "lon": -98.487061,
         "name": "San Antonio, United States",
@@ -1982,6 +2300,7 @@
     "SCL": {
         "cca2": "CL",
         "city": "Santiago",
+        "country": "Chile",
         "lat": -33.3930015564,
         "lon": -70.7857971191,
         "name": "Santiago, Chile",
@@ -1990,6 +2309,7 @@
     "SDQ": {
         "cca2": "DO",
         "city": "Santo Domingo",
+        "country": "Dominican Republic",
         "lat": 18.4297008514,
         "lon": -69.6688995361,
         "name": "Santo Domingo, Dominican Republic",
@@ -1998,6 +2318,7 @@
     "SEA": {
         "cca2": "US",
         "city": "Seattle",
+        "country": "United States",
         "lat": 47.4490013123,
         "lon": -122.308998108,
         "name": "Seattle, WA, United States",
@@ -2006,6 +2327,7 @@
     "SFO": {
         "cca2": "US",
         "city": "San Francisco",
+        "country": "United States",
         "lat": 37.6189994812,
         "lon": -122.375,
         "name": "San Francisco, United States",
@@ -2014,17 +2336,23 @@
     "SGN": {
         "cca2": "VN",
         "city": "Ho Chi Minh City",
+        "country": "Vietnam",
         "lat": 10.8187999725,
         "lon": 106.652000427,
         "name": "Ho Chi Minh City, Vietnam",
         "region": "Asia Pacific"
     },
     "SHA": {
-        "name": "Shanghai, China"
+        "cca2": "CN",
+        "city": "Shanghai",
+        "country": "China",
+        "name": "Shanghai, China",
+        "region": "Asia"
     },
     "SIN": {
         "cca2": "SG",
         "city": "Singapore",
+        "country": "Singapore",
         "lat": 1.3501900434,
         "lon": 103.994003296,
         "name": "Singapore, Singapore",
@@ -2033,6 +2361,7 @@
     "SJC": {
         "cca2": "US",
         "city": "San Jose",
+        "country": "United States",
         "lat": 37.3625984192,
         "lon": -121.929000855,
         "name": "San Jose, CA, United States",
@@ -2041,6 +2370,7 @@
     "SJK": {
         "cca2": "BR",
         "city": "São José dos Campos",
+        "country": "Brazil",
         "lat": -23.1791,
         "lon": -45.8872,
         "name": "São José dos Campos, Brazil",
@@ -2049,6 +2379,7 @@
     "SJO": {
         "cca2": "CR",
         "city": "San José",
+        "country": "Costa Rica",
         "lat": 9.9938602448,
         "lon": -84.2088012695,
         "name": "San José, Costa Rica",
@@ -2057,6 +2388,7 @@
     "SJP": {
         "cca2": "BR",
         "city": "São José do Rio Preto",
+        "country": "Brazil",
         "lat": -20.807157,
         "lon": -49.378994,
         "name": "São José do Rio Preto, Brazil",
@@ -2065,17 +2397,23 @@
     "SJU": {
         "cca2": "PR",
         "city": "San Juan",
+        "country": "Puerto Rico",
         "lat": 18.411391,
         "lon": -66.102793,
         "name": "San Juan, Puerto Rico",
         "region": "North America"
     },
     "SJW": {
-        "name": "Hengshui, China"
+        "cca2": "CN",
+        "city": "Hengshui",
+        "country": "China",
+        "name": "Hengshui, China",
+        "region": "Asia"
     },
     "SKG": {
         "cca2": "GR",
         "city": "Thessaloniki",
+        "country": "Greece",
         "lat": 40.5196990967,
         "lon": 22.9708995819,
         "name": "Thessaloniki, Greece",
@@ -2084,6 +2422,7 @@
     "SKP": {
         "cca2": "MK",
         "city": "Skopje",
+        "country": "North Macedonia",
         "lat": 41.9616012573,
         "lon": 21.6214008331,
         "name": "Skopje, North Macedonia",
@@ -2092,6 +2431,7 @@
     "SLC": {
         "cca2": "US",
         "city": "Salt Lake City",
+        "country": "United States",
         "lat": 40.7883987427,
         "lon": -111.977996826,
         "name": "Salt Lake City, UT, United States",
@@ -2100,6 +2440,7 @@
     "SMF": {
         "cca2": "US",
         "city": "Sacramento",
+        "country": "United States",
         "lat": 38.695400238,
         "lon": -121.591003418,
         "name": "Sacramento, CA, United States",
@@ -2108,6 +2449,7 @@
     "SOD": {
         "cca2": "BR",
         "city": "Sorocaba",
+        "country": "Brazil",
         "lat": -23.54389,
         "lon": -46.63445,
         "name": "Sorocaba, Brazil",
@@ -2116,6 +2458,7 @@
     "SOF": {
         "cca2": "BG",
         "city": "Sofia",
+        "country": "Bulgaria",
         "lat": 42.6966934204,
         "lon": 23.4114360809,
         "name": "Sofia, Bulgaria",
@@ -2124,6 +2467,7 @@
     "STI": {
         "cca2": "DO",
         "city": "Santiago de los Caballeros",
+        "country": "Dominican Republic",
         "lat": 19.4060993195,
         "lon": -70.6046981812,
         "name": "Santiago de los Caballeros, Dominican Republic",
@@ -2132,6 +2476,7 @@
     "STL": {
         "cca2": "US",
         "city": "St. Louis",
+        "country": "United States",
         "lat": 38.7486991882,
         "lon": -90.3700027466,
         "name": "St. Louis, MO, United States",
@@ -2140,6 +2485,7 @@
     "STR": {
         "cca2": "DE",
         "city": "Stuttgart",
+        "country": "Germany",
         "lat": 48.783333,
         "lon": 9.183333,
         "name": "Stuttgart, Germany",
@@ -2148,6 +2494,7 @@
     "SUV": {
         "cca2": "FJ",
         "city": "Suva",
+        "country": "Fiji",
         "lat": -18.11319,
         "lon": 178.43859,
         "name": "Suva, Fiji",
@@ -2156,6 +2503,7 @@
     "SVX": {
         "cca2": "RU",
         "city": "Yekaterinburg",
+        "country": "Russia",
         "lat": 56.8431,
         "lon": 60.6454,
         "name": "Yekaterinburg, Russia",
@@ -2164,20 +2512,30 @@
     "SYD": {
         "cca2": "AU",
         "city": "Sydney",
+        "country": "Australia",
         "lat": -33.9460983276,
         "lon": 151.177001953,
         "name": "Sydney, NSW, Australia",
         "region": "Oceania"
     },
     "SZX": {
-        "name": "Shenzhen, China"
+        "cca2": "CN",
+        "city": "Shenzhen",
+        "country": "China",
+        "name": "Shenzhen, China",
+        "region": "Asia"
     },
     "TAO": {
-        "name": "Qingdao, China"
+        "cca2": "CN",
+        "city": "Qingdao",
+        "country": "China",
+        "name": "Qingdao, China",
+        "region": "Asia"
     },
     "TAS": {
         "cca2": "UZ",
         "city": "Tashkent",
+        "country": "Uzbekistan",
         "lat": 41.257900238,
         "lon": 69.2811965942,
         "name": "Tashkent, Uzbekistan",
@@ -2186,6 +2544,7 @@
     "TBS": {
         "cca2": "GE",
         "city": "Tbilisi",
+        "country": "Georgia",
         "lat": 41.6692008972,
         "lon": 44.95470047,
         "name": "Tbilisi, Georgia",
@@ -2194,6 +2553,7 @@
     "TGU": {
         "cca2": "HN",
         "city": "Tegucigalpa",
+        "country": "Honduras",
         "lat": 14.0608,
         "lon": -87.2172,
         "name": "Tegucigalpa, Honduras",
@@ -2202,6 +2562,7 @@
     "TIA": {
         "cca2": "AL",
         "city": "Tirana",
+        "country": "Albania",
         "lat": 41.4146995544,
         "lon": 19.7206001282,
         "name": "Tirana, Albania",
@@ -2210,6 +2571,7 @@
     "TLH": {
         "cca2": "US",
         "city": "Tallahassee",
+        "country": "United States",
         "lat": 30.3964996338,
         "lon": -84.3503036499,
         "name": "Tallahassee, FL, United States",
@@ -2218,6 +2580,7 @@
     "TLL": {
         "cca2": "EE",
         "city": "Tallinn",
+        "country": "Estonia",
         "lat": 59.4132995605,
         "lon": 24.8327999115,
         "name": "Tallinn, Estonia",
@@ -2226,17 +2589,23 @@
     "TLV": {
         "cca2": "IL",
         "city": "Tel Aviv",
+        "country": "Israel",
         "lat": 32.0113983154,
         "lon": 34.8866996765,
         "name": "Tel Aviv, Israel",
         "region": "Middle East"
     },
     "TNA": {
-        "name": "Jinan, China"
+        "cca2": "CN",
+        "city": "Jinan",
+        "country": "China",
+        "name": "Jinan, China",
+        "region": "Asia"
     },
     "TNR": {
         "cca2": "MG",
         "city": "Antananarivo",
+        "country": "Madagascar",
         "lat": -18.91368,
         "lon": 47.53613,
         "name": "Antananarivo, Madagascar",
@@ -2245,6 +2614,7 @@
     "TPA": {
         "cca2": "US",
         "city": "Tampa",
+        "country": "United States",
         "lat": 27.9755001068,
         "lon": -82.533203125,
         "name": "Tampa, United States",
@@ -2253,17 +2623,23 @@
     "TPE": {
         "cca2": "TW",
         "city": "Taipei",
+        "country": "Taiwan",
         "lat": 25.0776996613,
         "lon": 121.233001709,
         "name": "Taipei, Taiwan",
         "region": "Asia Pacific"
     },
     "TSN": {
-        "name": "Tianjin, China"
+        "cca2": "CN",
+        "city": "Tianjin",
+        "country": "China",
+        "name": "Tianjin, China",
+        "region": "Asia"
     },
     "TUN": {
         "cca2": "TN",
         "city": "Tunis",
+        "country": "Tunisia",
         "lat": 36.8510017395,
         "lon": 10.2271995544,
         "name": "Tunis, Tunisia",
@@ -2272,17 +2648,23 @@
     "TXL": {
         "cca2": "DE",
         "city": "Berlin",
+        "country": "Germany",
         "lat": 52.5597000122,
         "lon": 13.2876996994,
         "name": "Berlin, Germany",
         "region": "Europe"
     },
     "TYN": {
-        "name": "Yangquan, China"
+        "cca2": "CN",
+        "city": "Yangquan",
+        "country": "China",
+        "name": "Yangquan, China",
+        "region": "Asia"
     },
     "UDI": {
         "cca2": "BR",
         "city": "Uberlandia",
+        "country": "Brazil",
         "lat": -18.8836116791,
         "lon": -48.225276947,
         "name": "Uberlândia, Brazil",
@@ -2291,6 +2673,7 @@
     "UIO": {
         "cca2": "EC",
         "city": "Quito",
+        "country": "Ecuador",
         "lat": -0.1291666667,
         "lon": -78.3575,
         "name": "Quito, Ecuador",
@@ -2299,6 +2682,7 @@
     "ULN": {
         "cca2": "MN",
         "city": "Ulaanbaatar",
+        "country": "Mongolia",
         "lat": 47.8431015015,
         "lon": 106.766998291,
         "name": "Ulaanbaatar, Mongolia",
@@ -2307,6 +2691,7 @@
     "URT": {
         "cca2": "TH",
         "city": "Surat Thani",
+        "country": "Thailand",
         "lat": 9.1325998306,
         "lon": 99.135597229,
         "name": "Surat Thani, Thailand",
@@ -2315,6 +2700,7 @@
     "VCP": {
         "cca2": "BR",
         "city": "Campinas",
+        "country": "Brazil",
         "lat": -22.90662,
         "lon": -47.08576,
         "name": "Campinas, Brazil",
@@ -2323,6 +2709,7 @@
     "VIE": {
         "cca2": "AT",
         "city": "Vienna",
+        "country": "Austria",
         "lat": 48.1102981567,
         "lon": 16.5697002411,
         "name": "Vienna, Austria",
@@ -2331,6 +2718,7 @@
     "VIX": {
         "cca2": "BR",
         "city": "Vitoria",
+        "country": "Brazil",
         "lat": -20.64871,
         "lon": -41.90857,
         "name": "Vitoria, Brazil",
@@ -2339,6 +2727,7 @@
     "VNO": {
         "cca2": "LT",
         "city": "Vilnius",
+        "country": "Lithuania",
         "lat": 54.6341018677,
         "lon": 25.2858009338,
         "name": "Vilnius, Lithuania",
@@ -2347,6 +2736,7 @@
     "VTE": {
         "cca2": "LA",
         "city": "Vientiane",
+        "country": "Laos",
         "lat": 17.9757,
         "lon": 102.5683,
         "name": "Vientiane, Laos",
@@ -2355,6 +2745,7 @@
     "WAW": {
         "cca2": "PL",
         "city": "Warsaw",
+        "country": "Poland",
         "lat": 52.1656990051,
         "lon": 20.9671001434,
         "name": "Warsaw, Poland",
@@ -2363,42 +2754,62 @@
     "WDH": {
         "cca2": "NA",
         "city": "Windhoek",
+        "country": "Namibia",
         "lat": -22.565587,
         "lon": 17.085334,
         "name": "Windhoek, Namibia",
         "region": "Africa"
     },
     "WHU": {
-        "name": "Wuhu, China"
+        "cca2": "CN",
+        "city": "Wuhu",
+        "country": "China",
+        "name": "Wuhu, China",
+        "region": "Asia"
     },
     "XAP": {
         "cca2": "BR",
         "city": "Chapeco",
+        "country": "Brazil",
         "lat": -27.1341991425,
         "lon": -52.6566009521,
         "name": "Chapeco, Brazil",
         "region": "South America"
     },
     "XFN": {
-        "name": "Xiangyang, China"
+        "cca2": "CN",
+        "city": "Xiangyang",
+        "country": "China",
+        "name": "Xiangyang, China",
+        "region": "Asia"
     },
     "XIY": {
-        "name": "Baoji, China"
+        "cca2": "CN",
+        "city": "Baoji",
+        "country": "China",
+        "name": "Baoji, China",
+        "region": "Asia"
     },
     "XNH": {
         "cca2": "IQ",
         "city": "Nasiriyah",
+        "country": "Iraq",
         "lat": 30.9358005524,
         "lon": 46.0900993347,
         "name": "Nasiriyah, Iraq",
         "region": "Middle East"
     },
     "XNN": {
-        "name": "Xining, China"
+        "cca2": "CN",
+        "city": "Xining",
+        "country": "China",
+        "name": "Xining, China",
+        "region": "Asia"
     },
     "YHZ": {
         "cca2": "CA",
         "city": "Halifax",
+        "country": "Canada",
         "lat": 44.64601,
         "lon": -63.66844,
         "name": "Halifax, Canada",
@@ -2407,6 +2818,7 @@
     "YOW": {
         "cca2": "CA",
         "city": "Ottawa",
+        "country": "Canada",
         "lat": 45.3224983215,
         "lon": -75.6691970825,
         "name": "Ottawa, Canada",
@@ -2415,6 +2827,7 @@
     "YUL": {
         "cca2": "CA",
         "city": "Montréal",
+        "country": "Canada",
         "lat": 45.4706001282,
         "lon": -73.7407989502,
         "name": "Montréal, QC, Canada",
@@ -2423,6 +2836,7 @@
     "YVR": {
         "cca2": "CA",
         "city": "Vancouver",
+        "country": "Canada",
         "lat": 49.193901062,
         "lon": -123.183998108,
         "name": "Vancouver, BC, Canada",
@@ -2431,6 +2845,7 @@
     "YWG": {
         "cca2": "CA",
         "city": "Winnipeg",
+        "country": "Canada",
         "lat": 49.9099998474,
         "lon": -97.2398986816,
         "name": "Winnipeg, MB, Canada",
@@ -2439,6 +2854,7 @@
     "YXE": {
         "cca2": "CA",
         "city": "Saskatoon",
+        "country": "Canada",
         "lat": 52.1707992554,
         "lon": -106.699996948,
         "name": "Saskatoon, SK, Canada",
@@ -2447,6 +2863,7 @@
     "YYC": {
         "cca2": "CA",
         "city": "Calgary",
+        "country": "Canada",
         "lat": 51.113899231,
         "lon": -114.019996643,
         "name": "Calgary, AB, Canada",
@@ -2455,6 +2872,7 @@
     "YYZ": {
         "cca2": "CA",
         "city": "Toronto",
+        "country": "Canada",
         "lat": 43.6772003174,
         "lon": -79.6305999756,
         "name": "Toronto, ON, Canada",
@@ -2463,6 +2881,7 @@
     "ZAG": {
         "cca2": "HR",
         "city": "Zagreb",
+        "country": "Croatia",
         "lat": 45.7429008484,
         "lon": 16.0687999725,
         "name": "Zagreb, Croatia",
@@ -2477,11 +2896,16 @@
         "region": "Middle East"
     },
     "ZGN": {
-        "name": "Zhongshan, China"
+        "cca2": "CN",
+        "city": "Zhongshan",
+        "country": "China",
+        "name": "Zhongshan, China",
+        "region": "Asia"
     },
     "ZRH": {
         "cca2": "CH",
         "city": "Zurich",
+        "country": "Switzerland",
         "lat": 47.4646987915,
         "lon": 8.5491695404,
         "name": "Zürich, Switzerland",
