@@ -1240,6 +1240,14 @@
         "region": "Asia Pacific"
     },
     {
+        "cca2": "KZ",
+        "city": "ASTANA",
+        "iata": "NQZ",
+        "lat": 51.167801,
+        "lon": 71.418893,
+        "region": "Asia Pacific"
+    },
+    {
         "cca2": "KE",
         "city": "Mombasa",
         "iata": "MBA",
