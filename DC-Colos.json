@@ -1941,7 +1941,7 @@
         "country": "Argentina",
         "lat": -38.9490013123,
         "lon": -68.1557006836,
-        "name": "Neuquén, Argentina",
+        "name": "Neuquen, Argentina",
         "region": "South America"
     },
     "NQZ": {
@@ -1968,7 +1968,7 @@
         "country": "Brazil",
         "lat": -26.8251,
         "lon": -49.2695,
-        "name": "Timbó, Brazil",
+        "name": "Timbo, Brazil",
         "region": "South America"
     },
     "OKA": {
@@ -2296,10 +2296,10 @@
     "RUN": {
         "cca2": "RE",
         "city": "Saint-Denis",
-        "country": "France",
+        "country": "Réunion",
         "lat": -20.8871002197,
         "lon": 55.5102996826,
-        "name": "Réunion, France",
+        "name": "Saint-Denis, Réunion",
         "region": "Africa"
     },
     "SAN": {
@@ -2629,9 +2629,9 @@
     },
     "TNA": {
         "cca2": "CN",
-        "city": "Jinan",
+        "city": "Zibo",
         "country": "China",
-        "name": "Jinan, China",
+        "name": "Zibo, China",
         "region": "Asia"
     },
     "TNR": {

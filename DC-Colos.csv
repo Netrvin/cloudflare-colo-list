@@ -118,7 +118,7 @@ JDO,"Juazeiro do Norte, Brazil",South America,Juazeiro do Norte,Brazil,BR,-7.224
 LIM,"Lima, Peru",South America,Lima,Peru,PE,-12.021900177,-77.1143035889
 MAO,"Manaus, Brazil",South America,Manaus,Brazil,BR,-3.11286,-60.01949
 MDE,"Medellín, Colombia",South America,Medellín,Colombia,CO,6.16454,-75.4231
-NQN,"Neuquén, Argentina",South America,Neuquen,Argentina,AR,-38.9490013123,-68.1557006836
+NQN,"Neuquen, Argentina",South America,Neuquen,Argentina,AR,-38.9490013123,-68.1557006836
 PTY,"Panama City, Panama",South America,Panama City,Panama,PA,9.0713596344,-79.3834991455
 PBM,"Paramaribo, Suriname",South America,Paramaribo,Suriname,SR,5.452831,-55.187783
 POA,"Porto Alegre, Brazil",South America,Porto Alegre,Brazil,BR,-29.9944000244,-51.1713981628
@@ -134,7 +134,7 @@ SJK,"São José dos Campos, Brazil",South America,São José dos Campos,Brazil
 GRU,"São Paulo, Brazil",South America,São Paulo,Brazil,BR,-23.4355564117,-46.4730567932
 SOD,"Sorocaba, Brazil",South America,Sorocaba,Brazil,BR,-23.54389,-46.63445
 TGU,"Tegucigalpa, Honduras",South America,Tegucigalpa,Honduras,HN,14.0608,-87.2172
-NVT,"Timbó, Brazil",South America,Timbo,Brazil,BR,-26.8251,-49.2695
+NVT,"Timbo, Brazil",South America,Timbo,Brazil,BR,-26.8251,-49.2695
 UDI,"Uberlândia, Brazil",South America,Uberlandia,Brazil,BR,-18.8836116791,-48.225276947
 VIX,"Vitoria, Brazil",South America,Vitoria,Brazil,BR,-20.64871,-41.90857
 CAW,"Campos dos Goytacazes, Brazil",South America,Campos dos Goytacazes,Brazil,BR,-21.698299408,-41.301700592
@@ -171,7 +171,7 @@ NBO,"Nairobi, Kenya",Africa,Nairobi,Kenya,KE,-1.319239974,36.9277992249
 ORN,"Oran, Algeria",Africa,Oran,Algeria,DZ,35.6911,-0.6416
 OUA,"Ouagadougou, Burkina Faso",Africa,Ouagadougou,Burkina Faso,BF,12.3531999588,-1.5124200583
 MRU,"Port Louis, Mauritius",Africa,Port Louis,Mauritius,MU,-20.4302005768,57.6836013794
-RUN,"Réunion, France",Africa,Saint-Denis,France,RE,-20.8871002197,55.5102996826
+RUN,"Saint-Denis, Réunion",Africa,Saint-Denis,Réunion,RE,-20.8871002197,55.5102996826
 TUN,"Tunis, Tunisia",Africa,Tunis,Tunisia,TN,36.8510017395,10.2271995544
 FIH,"Kinshasa, DR Congo",Africa,Kinshasa,DR Congo,CD,-4.3857498169,15.4446001053
 CAI,"Cairo, Egypt",Africa,Cairo,Egypt,EG,30.1219005585,31.4055995941
@@ -205,7 +205,7 @@ HYD,"Hyderabad, India",Asia Pacific,Hyderabad,India,IN,17.2313175201,78.42985534
 ISB,"Islamabad, Pakistan",Asia Pacific,Islamabad,Pakistan,PK,33.6166992188,73.0991973877
 CGK,"Jakarta, Indonesia",Asia Pacific,Jakarta,Indonesia,ID,-6.1275229,106.6515118
 JSR,"Jashore, Bangladesh",Asia Pacific,Jashore,Bangladesh,BD,23.1837997437,89.1607971191
-TNA,"Jinan, China",Asia,Jinan,China,CN,,
+TNA,"Zibo, China",Asia,Zibo,China,CN,,
 JHB,"Johor Bahru, Malaysia",Asia Pacific,Johor Bahru,Malaysia,MY,1.635848,103.665943
 KNU,"Kanpur, India",Asia Pacific,Kanpur,India,IN,26.4499,80.3319
 KHH,"Kaohsiung City, Taiwan",Asia Pacific,Kaohsiung City,Taiwan,TW,22.5771007538,120.3499984741
