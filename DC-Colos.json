@@ -601,15 +601,6 @@
         "name": "Columbus, OH, United States",
         "region": "North America"
     },
-    "CMN": {
-        "cca2": "MA",
-        "city": "Casablanca",
-        "country": "Morocco",
-        "lat": 33.3675003052,
-        "lon": -7.5899701118,
-        "name": "Casablanca, Morocco",
-        "region": "Africa"
-    },
     "CNF": {
         "cca2": "BR",
         "city": "Belo Horizonte",

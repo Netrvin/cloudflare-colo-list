@@ -1408,14 +1408,6 @@
         "region": "Asia Pacific"
     },
     {
-        "cca2": "MA",
-        "city": "Casablanca",
-        "iata": "CMN",
-        "lat": 33.3675003052,
-        "lon": -7.5899701118,
-        "region": "Africa"
-    },
-    {
         "cca2": "MZ",
         "city": "Maputo",
         "iata": "MPM",
