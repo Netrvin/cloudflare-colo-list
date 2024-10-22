@@ -1352,6 +1352,14 @@
         "region": "Asia Pacific"
     },
     {
+        "cca2": "MY",
+        "city": "KUCHING",
+        "iata": "KCH",
+        "lat": 1.709727,
+        "lon": 110.353455,
+        "region": "Asia Pacific"
+    },
+    {
         "cca2": "MV",
         "city": "Male",
         "iata": "MLE",

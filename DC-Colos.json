@@ -1388,6 +1388,15 @@
         "name": "Kyiv, Ukraine",
         "region": "Europe"
     },
+    "KCH": {
+        "cca2": "MY",
+        "city": "KUCHING",
+        "country": "Malaysia",
+        "lat": 1.709727,
+        "lon": 110.353455,
+        "name": "KUCHING, Malaysia",
+        "region": "Asia Pacific"
+    },
     "KEF": {
         "cca2": "IS",
         "city": "Reykjavík",
