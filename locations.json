@@ -1233,6 +1233,14 @@
     },
     {
         "cca2": "KZ",
+        "city": "Aktobe",
+        "iata": "AKX",
+        "lat": 50.286922,
+        "lon": 57.224121,
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "KZ",
         "city": "Almaty",
         "iata": "ALA",
         "lat": 43.3521003723,

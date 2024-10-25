@@ -62,6 +62,15 @@
         "name": "Auckland, New Zealand",
         "region": "Oceania"
     },
+    "AKX": {
+        "cca2": "KZ",
+        "city": "Aktobe",
+        "country": "Kazakhstan",
+        "lat": 50.286922,
+        "lon": 57.224121,
+        "name": "Aktobe, Kazakhstan",
+        "region": "Asia Pacific"
+    },
     "ALA": {
         "cca2": "KZ",
         "city": "Almaty",
