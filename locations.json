@@ -1249,7 +1249,7 @@
     },
     {
         "cca2": "KZ",
-        "city": "ASTANA",
+        "city": "Astana",
         "iata": "NQZ",
         "lat": 51.167801,
         "lon": 71.418893,
@@ -1361,7 +1361,7 @@
     },
     {
         "cca2": "MY",
-        "city": "KUCHING",
+        "city": "Kuching",
         "iata": "KCH",
         "lat": 1.709727,
         "lon": 110.353455,
@@ -1937,7 +1937,7 @@
     },
     {
         "cca2": "UG",
-        "city": "KAMPALA",
+        "city": "Kampala",
         "iata": "EBB",
         "lat": 0.3152,
         "lon": 32.5816,

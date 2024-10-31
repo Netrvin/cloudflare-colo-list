@@ -865,7 +865,7 @@
     },
     "EBB": {
         "cca2": "UG",
-        "city": "KAMPALA",
+        "city": "Kampala",
         "country": "Uganda",
         "lat": 0.3152,
         "lon": 32.5816,
@@ -1399,7 +1399,7 @@
     },
     "KCH": {
         "cca2": "MY",
-        "city": "KUCHING",
+        "city": "Kuching",
         "country": "Malaysia",
         "lat": 1.709727,
         "lon": 110.353455,
@@ -1955,7 +1955,7 @@
     },
     "NQZ": {
         "cca2": "KZ",
-        "city": "ASTANA",
+        "city": "Astana",
         "country": "Kazakhstan",
         "lat": 51.167801,
         "lon": 71.418893,

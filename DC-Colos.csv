@@ -177,7 +177,7 @@ CAI,"Cairo, Egypt",Africa,Cairo,Egypt,EG,30.1219005585,31.4055995941
 WDH,"Windhoek, Namibia",Africa,Windhoek,Namibia,NA,-22.565587,17.085334
 ASK,"Yamoussoukro, Ivory Coast",Africa,Yamoussoukro,Ivory Coast,CI,6.842178,-5.259932
 ABJ,"Abidjan, Ivory Coast",Africa,Abidjan,Ivory Coast,CI,5.292598,-3.999133
-EBB,"KAMPALA, Uganda",Africa,KAMPALA,Uganda,UG,0.3152,32.5816
+EBB,"KAMPALA, Uganda",Africa,Kampala,Uganda,UG,0.3152,32.5816
 AMD,"Ahmedabad, India",Asia Pacific,Ahmedabad,India,IN,23.0225,72.5714
 ALA,"Almaty, Kazakhstan",Asia Pacific,Almaty,Kazakhstan,KZ,43.3521003723,77.0404968262
 BLR,"Bangalore, India",Asia Pacific,Bangalore,India,IN,13.7835719,76.6165937
@@ -270,9 +270,9 @@ CRK,"Tarlac City, Philippines",Asia Pacific,Tarlac City,Philippines,PH,15.1859,1
 PBH,"Thimphu, Bhutan",Asia Pacific,Thimphu,Bhutan,BT,27.4712,89.6339
 XIY,"Baoji, China",Asia,Baoji,China,CN,,
 CTU,"Chengdu, China",Asia,Chengdu,China,CN,,
-NQZ,"ASTANA, Kazakhstan",Asia Pacific,ASTANA,Kazakhstan,KZ,51.167801,71.418893
+NQZ,"ASTANA, Kazakhstan",Asia Pacific,Astana,Kazakhstan,KZ,51.167801,71.418893
 NNG,"Nanning, China",Asia,Nanning,China,CN,,
-KCH,"KUCHING, Malaysia",Asia Pacific,KUCHING,Malaysia,MY,1.709727,110.353455
+KCH,"KUCHING, Malaysia",Asia Pacific,Kuching,Malaysia,MY,1.709727,110.353455
 AKX,"Aktobe, Kazakhstan",Asia Pacific,Aktobe,Kazakhstan,KZ,50.286922,57.224121
 IAD,"Ashburn, VA, United States",North America,Ashburn,United States,US,38.94449997,-77.45580292
 ATL,"Atlanta, GA, United States",North America,Atlanta,United States,US,33.6366996765,-84.4281005859
