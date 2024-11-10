@@ -505,7 +505,7 @@
         "country": "Brazil",
         "lat": -26.7762,
         "lon": -51.0125,
-        "name": "Caçador, Brazil",
+        "name": "Cacador, Brazil",
         "region": "South America"
     },
     "CGB": {
@@ -514,7 +514,7 @@
         "country": "Brazil",
         "lat": -15.59611,
         "lon": -56.09667,
-        "name": "Cuiabá, Brazil",
+        "name": "Cuiaba, Brazil",
         "region": "South America"
     },
     "CGD": {
@@ -736,7 +736,7 @@
         "country": "Tanzania",
         "lat": -6.8781099319,
         "lon": 39.2025985718,
-        "name": "Dar Es Salaam, Tanzania",
+        "name": "Dar es Salaam, Tanzania",
         "region": "Africa"
     },
     "DEL": {
@@ -869,7 +869,7 @@
         "country": "Uganda",
         "lat": 0.3152,
         "lon": 32.5816,
-        "name": "KAMPALA, Uganda",
+        "name": "Kampala, Uganda",
         "region": "Africa"
     },
     "EBL": {
@@ -1108,14 +1108,14 @@
         "country": "Brazil",
         "lat": -16.69727,
         "lon": -49.26851,
-        "name": "Goiânia, Brazil",
+        "name": "Goiania, Brazil",
         "region": "South America"
     },
     "HAK": {
         "cca2": "CN",
-        "city": "Haikou",
+        "city": "Chengmai",
         "country": "China",
-        "name": "Haikou, China",
+        "name": "Chengmai, China",
         "region": "Asia"
     },
     "HAM": {
@@ -1288,7 +1288,7 @@
         "country": "Brazil",
         "lat": -27.6116676331,
         "lon": -48.6727790833,
-        "name": "Itajaí, Brazil",
+        "name": "Itajai, Brazil",
         "region": "South America"
     },
     "IXC": {
@@ -1342,7 +1342,7 @@
         "country": "Djibouti",
         "lat": 11.5473003387,
         "lon": 43.1595001221,
-        "name": "Djibouti City, Djibouti",
+        "name": "Djibouti, Djibouti",
         "region": "Africa"
     },
     "JNB": {
@@ -1403,7 +1403,7 @@
         "country": "Malaysia",
         "lat": 1.709727,
         "lon": 110.353455,
-        "name": "KUCHING, Malaysia",
+        "name": "Kuching, Malaysia",
         "region": "Asia Pacific"
     },
     "KEF": {
@@ -1444,9 +1444,9 @@
     },
     "KHN": {
         "cca2": "CN",
-        "city": "Xinyu",
+        "city": "Nanchang",
         "country": "China",
-        "name": "Xinyu, China",
+        "name": "Nanchang, China",
         "region": "Asia"
     },
     "KIN": {
@@ -1826,7 +1826,7 @@
         "country": "Maldives",
         "lat": 4.1748,
         "lon": 73.50888,
-        "name": "Malé, Maldives",
+        "name": "Male, Maldives",
         "region": "Asia Pacific"
     },
     "MNL": {
@@ -1959,7 +1959,7 @@
         "country": "Kazakhstan",
         "lat": 51.167801,
         "lon": 71.418893,
-        "name": "ASTANA, Kazakhstan",
+        "name": "Astana, Kazakhstan",
         "region": "Asia Pacific"
     },
     "NRT": {
@@ -2664,10 +2664,9 @@
     "TPE": {
         "cca2": "TW",
         "city": "Taipei",
-        "country": "Taiwan",
         "lat": 25.0776996613,
         "lon": 121.233001709,
-        "name": "Taipei, Taiwan",
+        "name": "Taipei",
         "region": "Asia Pacific"
     },
     "TSN": {
@@ -2708,7 +2707,7 @@
         "country": "Brazil",
         "lat": -18.8836116791,
         "lon": -48.225276947,
-        "name": "Uberlândia, Brazil",
+        "name": "Uberlandia, Brazil",
         "region": "South America"
     },
     "UIO": {
