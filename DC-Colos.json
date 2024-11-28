@@ -583,6 +583,15 @@
         "name": "Cleveland, United States",
         "region": "North America"
     },
+    "CLO": {
+        "cca2": "CO",
+        "city": "Cali",
+        "country": "Colombia",
+        "lat": 3.54322,
+        "lon": -76.3816,
+        "name": "Cali, Colombia",
+        "region": "South America"
+    },
     "CLT": {
         "cca2": "US",
         "city": "Charlotte",

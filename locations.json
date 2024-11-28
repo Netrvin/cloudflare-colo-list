@@ -617,6 +617,14 @@
     },
     {
         "cca2": "CO",
+        "city": "Cali",
+        "iata": "CLO",
+        "lat": 3.54322,
+        "lon": -76.3816,
+        "region": "South America"
+    },
+    {
+        "cca2": "CO",
         "city": "Medellín",
         "iata": "MDE",
         "lat": 6.16454,
