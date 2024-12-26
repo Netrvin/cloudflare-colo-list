@@ -2600,6 +2600,13 @@
         "name": "Tbilisi, Georgia",
         "region": "Europe"
     },
+    "TEN": {
+        "cca2": "CN",
+        "city": "Tongren",
+        "country": "China",
+        "name": "Tongren, China",
+        "region": "Asia"
+    },
     "TGU": {
         "cca2": "HN",
         "city": "Tegucigalpa",
