@@ -1811,15 +1811,6 @@
         "name": "Macau",
         "region": "Asia Pacific"
     },
-    "MGM": {
-        "cca2": "US",
-        "city": "Montgomery",
-        "country": "United States",
-        "lat": 32.30059814,
-        "lon": -86.39399719,
-        "name": "Montgomery, AL, United States",
-        "region": "North America"
-    },
     "MIA": {
         "cca2": "US",
         "city": "Miami",

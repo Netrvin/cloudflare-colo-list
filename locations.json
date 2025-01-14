@@ -1993,14 +1993,6 @@
     },
     {
         "cca2": "US",
-        "city": "Montgomery",
-        "iata": "MGM",
-        "lat": 32.30059814,
-        "lon": -86.39399719,
-        "region": "North America"
-    },
-    {
-        "cca2": "US",
         "city": "Anchorage",
         "iata": "ANC",
         "lat": 61.158555,
