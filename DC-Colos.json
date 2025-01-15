@@ -1758,15 +1758,6 @@
         "name": "Medellín, Colombia",
         "region": "South America"
     },
-    "MDL": {
-        "cca2": "MM",
-        "city": "Mandalay",
-        "country": "Myanmar",
-        "lat": 21.7051697,
-        "lon": 95.9695206,
-        "name": "Mandalay, Myanmar",
-        "region": "Asia Pacific"
-    },
     "MEL": {
         "cca2": "AU",
         "city": "Melbourne",

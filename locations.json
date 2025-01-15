@@ -1441,14 +1441,6 @@
     },
     {
         "cca2": "MM",
-        "city": "Mandalay",
-        "iata": "MDL",
-        "lat": 21.7051697,
-        "lon": 95.9695206,
-        "region": "Asia Pacific"
-    },
-    {
-        "cca2": "MM",
         "city": "Yangon",
         "iata": "RGN",
         "lat": 16.9073009491,
