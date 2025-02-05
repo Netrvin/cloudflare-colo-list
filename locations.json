@@ -2352,14 +2352,6 @@
         "region": "North America"
     },
     {
-        "cca2": "UZ",
-        "city": "Tashkent",
-        "iata": "TAS",
-        "lat": 41.257900238,
-        "lon": 69.2811965942,
-        "region": "Asia Pacific"
-    },
-    {
         "cca2": "VN",
         "city": "Da Nang",
         "iata": "DAD",

@@ -2546,15 +2546,6 @@
         "name": "Qingdao, China",
         "region": "Asia"
     },
-    "TAS": {
-        "cca2": "UZ",
-        "city": "Tashkent",
-        "country": "Uzbekistan",
-        "lat": 41.257900238,
-        "lon": 69.2811965942,
-        "name": "Tashkent, Uzbekistan",
-        "region": "Asia Pacific"
-    },
     "TBS": {
         "cca2": "GE",
         "city": "Tbilisi",
