@@ -1659,6 +1659,15 @@
         "name": "La Paz, Bolivia",
         "region": "South America"
     },
+    "LUN": {
+        "cca2": "ZM",
+        "city": "Lusaka",
+        "country": "Zambia",
+        "lat": -15.371446,
+        "lon": 28.317837,
+        "name": "Lusaka, Zambia",
+        "region": "Africa"
+    },
     "LUX": {
         "cca2": "LU",
         "city": "Luxembourg City",

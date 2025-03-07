@@ -2376,6 +2376,14 @@
         "region": "Asia Pacific"
     },
     {
+        "cca2": "ZM",
+        "city": "Lusaka",
+        "iata": "LUN",
+        "lat": -15.371446,
+        "lon": 28.317837,
+        "region": "Africa"
+    },
+    {
         "cca2": "ZW",
         "city": "Harare",
         "iata": "HRE",
