@@ -240,7 +240,6 @@ EVN,"Yerevan, Armenia",Middle East,Yerevan,Armenia,AM,40.1473007202,44.395900726
 JOG,"Yogyakarta, Indonesia",Asia Pacific,Yogyakarta,Indonesia,ID,-7.7881798744,110.4319992065
 ZGN,"Zhongshan, China",Asia,Zhongshan,China,CN,,
 CGY,"Cagayan de Oro, Philippines",Asia Pacific,Cagayan de Oro,Philippines,PH,8.4156198502,124.611000061
-HYN,"Taizhou, China",Asia,Taizhou,China,CN,,
 COK,"Kochi, India",Asia Pacific,Kochi,India,IN,9.9312,76.2673
 DPS,"Denpasar, Indonesia",Asia Pacific,Denpasar,Indonesia,ID,-8.748169899,115.1669998169
 CNN,"Kannur, India",Asia Pacific,Kannur,India,IN,11.915858,75.55094
@@ -257,7 +256,6 @@ DLC,"Dalian, China",Asia,Dalian,China,CN,,
 BHY,"Beihai, China",Asia,Beihai,China,CN,,
 CKG,"Chongqing, China",Asia,Chongqing,China,CN,,
 XFN,"Xiangyang, China",Asia,Xiangyang,China,CN,,
-XNN,"Xining, China",Asia,Xining,China,CN,,
 DAD,"Da Nang, Vietnam",Asia Pacific,Da Nang,Vietnam,VN,16.02636,108.20869
 JXG,"Jiaxing, China",Asia,Jiaxing,China,CN,,
 CRK,"Tarlac City, Philippines",Asia Pacific,Tarlac City,Philippines,PH,15.1859,120.5599
@@ -269,6 +267,7 @@ NNG,"Nanning, China",Asia,Nanning,China,CN,,
 KCH,"Kuching, Malaysia",Asia Pacific,Kuching,Malaysia,MY,1.709727,110.353455
 AKX,"Aktobe, Kazakhstan",Asia Pacific,Aktobe,Kazakhstan,KZ,50.286922,57.224121
 TEN,"Tongren, China",Asia,Tongren,China,CN,,
+HYN,"Taizhou, China",Asia,Taizhou,China,CN,,
 IAD,"Ashburn, VA, United States",North America,Ashburn,United States,US,38.94449997,-77.45580292
 ATL,"Atlanta, GA, United States",North America,Atlanta,United States,US,33.6366996765,-84.4281005859
 BOS,"Boston, MA, United States",North America,Boston,United States,US,42.36429977,-71.00520325
