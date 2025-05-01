@@ -2286,6 +2286,15 @@
         "name": "San Diego, CA, United States",
         "region": "North America"
     },
+    "SAP": {
+        "cca2": "HN",
+        "city": "San Pedro Sula",
+        "country": "Honduras",
+        "lat": 15.4525995255,
+        "lon": -87.9235992432,
+        "name": "San Pedro Sula, Honduras",
+        "region": "South America"
+    },
     "SAT": {
         "cca2": "US",
         "city": "San Antonio",

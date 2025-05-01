@@ -913,6 +913,14 @@
     },
     {
         "cca2": "HN",
+        "city": "San Pedro Sula",
+        "iata": "SAP",
+        "lat": 15.4525995255,
+        "lon": -87.9235992432,
+        "region": "South America"
+    },
+    {
+        "cca2": "HN",
         "city": "Tegucigalpa",
         "iata": "TGU",
         "lat": 14.0608,
