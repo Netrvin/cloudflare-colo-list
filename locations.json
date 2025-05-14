@@ -744,6 +744,14 @@
         "region": "Europe"
     },
     {
+        "cca2": "ET",
+        "city": "Addis Ababa",
+        "iata": "ADD",
+        "lat": 9.00005,
+        "lon": 38.78446,
+        "region": "Africa"
+    },
+    {
         "cca2": "FJ",
         "city": "Suva",
         "iata": "SUV",

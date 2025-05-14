@@ -44,6 +44,15 @@
         "name": "Izmir, Turkey",
         "region": "Europe"
     },
+    "ADD": {
+        "cca2": "ET",
+        "city": "Addis Ababa",
+        "country": "Ethiopia",
+        "lat": 9.00005,
+        "lon": 38.78446,
+        "name": "Addis Ababa, Ethiopia",
+        "region": "Africa"
+    },
     "ADL": {
         "cca2": "AU",
         "city": "Adelaide",
