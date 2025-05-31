@@ -1688,14 +1688,6 @@
         "region": "Europe"
     },
     {
-        "cca2": "RU",
-        "city": "Yekaterinburg",
-        "iata": "SVX",
-        "lat": 56.8431,
-        "lon": 60.6454,
-        "region": "Asia Pacific"
-    },
-    {
         "cca2": "RW",
         "city": "Kigali",
         "iata": "KGL",

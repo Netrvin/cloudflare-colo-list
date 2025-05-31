@@ -2518,15 +2518,6 @@
         "name": "Suva, Fiji",
         "region": "Oceania"
     },
-    "SVX": {
-        "cca2": "RU",
-        "city": "Yekaterinburg",
-        "country": "Russia",
-        "lat": 56.8431,
-        "lon": 60.6454,
-        "name": "Yekaterinburg, Russia",
-        "region": "Asia Pacific"
-    },
     "SYD": {
         "cca2": "AU",
         "city": "Sydney",
