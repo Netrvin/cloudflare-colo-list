@@ -363,7 +363,7 @@
         "country": "Colombia",
         "lat": 4.70159,
         "lon": -74.1469,
-        "name": "Bogotá, Colombia",
+        "name": "Bogota, Colombia",
         "region": "South America"
     },
     "BOM": {
@@ -2414,9 +2414,9 @@
     },
     "SJW": {
         "cca2": "CN",
-        "city": "Hengshui",
+        "city": "Shijiazhuang",
         "country": "China",
-        "name": "Hengshui, China",
+        "name": "Shijiazhuang, China",
         "region": "Asia"
     },
     "SKG": {
@@ -2893,7 +2893,7 @@
         "country": "Switzerland",
         "lat": 47.4646987915,
         "lon": 8.5491695404,
-        "name": "Zürich, Switzerland",
+        "name": "Zurich, Switzerland",
         "region": "Europe"
     }
 }

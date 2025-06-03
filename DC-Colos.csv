@@ -52,7 +52,7 @@ VIE,"Vienna, Austria",Europe,Vienna,Austria,AT,48.1102981567,16.5697002411
 VNO,"Vilnius, Lithuania",Europe,Vilnius,Lithuania,LT,54.6341018677,25.2858009338
 WAW,"Warsaw, Poland",Europe,Warsaw,Poland,PL,52.1656990051,20.9671001434
 ZAG,"Zagreb, Croatia",Europe,Zagreb,Croatia,HR,45.7429008484,16.0687999725
-ZRH,"Zürich, Switzerland",Europe,Zurich,Switzerland,CH,47.4646987915,8.5491695404
+ZRH,"Zurich, Switzerland",Europe,Zurich,Switzerland,CH,47.4646987915,8.5491695404
 LYS,"Lyon, France",Europe,Lyon,France,FR,45.7263,5.0908
 BOD,"Bordeaux, France",Europe,Bordeaux,France,FR,44.82946,-0.58355
 SKP,"Skopje, North Macedonia",Europe,Skopje,North Macedonia,MK,41.9616012573,21.6214008331
@@ -96,7 +96,7 @@ ASU,"Asunción, Paraguay",South America,Asunción,Paraguay,PY,-25.2399997711,-5
 BEL,"Belém, Brazil",South America,Belém,Brazil,BR,-1.4563,-48.5013
 CNF,"Belo Horizonte, Brazil",South America,Belo Horizonte,Brazil,BR,-19.624444,-43.971944
 BNU,"Blumenau, Brazil",South America,Blumenau,Brazil,BR,-26.89245,-49.07696
-BOG,"Bogotá, Colombia",South America,Bogota,Colombia,CO,4.70159,-74.1469
+BOG,"Bogota, Colombia",South America,Bogota,Colombia,CO,4.70159,-74.1469
 BSB,"Brasilia, Brazil",South America,Brasilia,Brazil,BR,-15.79824,-47.90859
 EZE,"Buenos Aires, Argentina",South America,Buenos Aires,Argentina,AR,-34.8222,-58.5358
 CFC,"Cacador, Brazil",South America,Cacador,Brazil,BR,-26.7762,-51.0125
@@ -199,7 +199,7 @@ FOC,"Fuzhou, China",Asia,Fuzhou,China,CN,,
 CAN,"Guangzhou, China",Asia,Guangzhou,China,CN,,
 HAK,"Chengmai, China",Asia,Chengmai,China,CN,,
 HAN,"Hanoi, Vietnam",Asia Pacific,Hanoi,Vietnam,VN,21.221200943,105.806999206
-SJW,"Hengshui, China",Asia,Hengshui,China,CN,,
+SJW,"Shijiazhuang, China",Asia,Shijiazhuang,China,CN,,
 SGN,"Ho Chi Minh City, Vietnam",Asia Pacific,Ho Chi Minh City,Vietnam,VN,10.8187999725,106.652000427
 HKG,Hong Kong,Asia Pacific,Hong Kong,,HK,22.3089008331,113.915000916
 HYD,"Hyderabad, India",Asia Pacific,Hyderabad,India,IN,17.2313175201,78.4298553467
