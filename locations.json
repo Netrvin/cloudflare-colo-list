@@ -977,14 +977,6 @@
     },
     {
         "cca2": "IN",
-        "city": "Bhubaneswar",
-        "iata": "BBI",
-        "lat": 20.2961,
-        "lon": 85.8245,
-        "region": "Asia Pacific"
-    },
-    {
-        "cca2": "IN",
         "city": "Chandigarh",
         "iata": "IXC",
         "lat": 30.673500061,
