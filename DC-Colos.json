@@ -978,6 +978,15 @@
         "name": "Frankfurt, Germany",
         "region": "Europe"
     },
+    "FRU": {
+        "cca2": "KG",
+        "city": "Bishkek",
+        "country": "Kyrgyzstan",
+        "lat": 42.875608,
+        "lon": 74.604613,
+        "name": "Bishkek, Kyrgyzstan",
+        "region": "Asia Pacific"
+    },
     "FSD": {
         "cca2": "US",
         "city": "Sioux Falls",

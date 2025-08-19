@@ -1296,6 +1296,14 @@
         "region": "Middle East"
     },
     {
+        "cca2": "KG",
+        "city": "Bishkek",
+        "iata": "FRU",
+        "lat": 42.875608,
+        "lon": 74.604613,
+        "region": "Asia Pacific"
+    },
+    {
         "cca2": "LA",
         "city": "Vientiane",
         "iata": "VTE",
