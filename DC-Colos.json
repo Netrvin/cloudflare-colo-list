@@ -472,6 +472,15 @@
         "name": "Canberra, ACT, Australia",
         "region": "Oceania"
     },
+    "CCP": {
+        "cca2": "CL",
+        "city": "Concepción",
+        "country": "Chile",
+        "lat": -36.8201,
+        "lon": -73.0444,
+        "name": "Concepción, Chile",
+        "region": "South America"
+    },
     "CCU": {
         "cca2": "IN",
         "city": "Kolkata",
