@@ -2297,14 +2297,6 @@
     },
     {
         "cca2": "US",
-        "city": "McAllen",
-        "iata": "MFE",
-        "lat": 26.17580032,
-        "lon": -98.23860168,
-        "region": "North America"
-    },
-    {
-        "cca2": "US",
         "city": "San Antonio",
         "iata": "SAT",
         "lat": 29.429461,
