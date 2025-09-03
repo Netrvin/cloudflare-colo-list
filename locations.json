@@ -1360,6 +1360,14 @@
         "region": "Africa"
     },
     {
+        "cca2": "MW",
+        "city": "Lilongwe",
+        "iata": "LLW",
+        "lat": -13.980935,
+        "lon": 33.761462,
+        "region": "Africa"
+    },
+    {
         "cca2": "MY",
         "city": "Johor Bahru",
         "iata": "JHB",
