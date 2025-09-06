@@ -585,6 +585,14 @@
     },
     {
         "cca2": "CL",
+        "city": "Concepción",
+        "iata": "CCP",
+        "lat": -36.8201,
+        "lon": -73.0444,
+        "region": "South America"
+    },
+    {
+        "cca2": "CL",
         "city": "Santiago",
         "iata": "SCL",
         "lat": -33.3930015564,
