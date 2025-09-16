@@ -1591,15 +1591,6 @@
         "name": "Saint Petersburg, Russia",
         "region": "Europe"
     },
-    "LHE": {
-        "cca2": "PK",
-        "city": "Lahore",
-        "country": "Pakistan",
-        "lat": 31.5216007233,
-        "lon": 74.4036026001,
-        "name": "Lahore, Pakistan",
-        "region": "Asia Pacific"
-    },
     "LHR": {
         "cca2": "GB",
         "city": "London",
