@@ -723,6 +723,14 @@
         "name": "Curitiba, Brazil",
         "region": "South America"
     },
+    "CZL": {
+        "cca2": "DZ",
+        "city": "Constantine",
+        "lat": 36.335972,
+        "lon": 6.598562,
+        "name": "Constantine, Algeria",
+        "region": "Africa"
+    },
     "CZX": {
         "cca2": "CN",
         "city": "Changzhou",
