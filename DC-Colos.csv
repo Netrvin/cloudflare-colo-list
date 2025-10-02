@@ -182,6 +182,7 @@ EBB,"Kampala, Uganda",Africa,Kampala,Uganda,UG,0.3152,32.5816
 LUN,"Lusaka, Zambia",Africa,Lusaka,Zambia,ZM,-15.371446,28.317837
 ADD,"Addis Ababa, Ethiopia",Africa,Addis Ababa,Ethiopia,ET,9.00005,38.78446
 LLW,"Lilongwe, Malawi",Africa,Lilongwe,Malawi,MW,-13.980935,33.761462
+CZL,"Constantine, Algeria",Africa,Constantine,Algeria,DZ,36.335972,6.598562
 AMD,"Ahmedabad, India",Asia Pacific,Ahmedabad,India,IN,23.0225,72.5714
 ALA,"Almaty, Kazakhstan",Asia Pacific,Almaty,Kazakhstan,KZ,43.3521003723,77.0404968262
 BLR,"Bangalore, India",Asia Pacific,Bangalore,India,IN,13.7835719,76.6165937
@@ -329,4 +330,3 @@ OKC,"Oklahoma City, United States",North America,Oklahoma City,United States,US,
 TPA,"Tampa, United States",North America,Tampa,United States,US,27.9755001068,-82.533203125
 ANC,"Anchorage, United States",North America,Anchorage,United States,US,61.158555,-149.890208
 YHZ,"Halifax, Canada",North America,Halifax,Canada,CA,44.64601,-63.66844
-CZL,"Constantine, Algeria",Africa,Constantine,,DZ,36.335972,6.598562
