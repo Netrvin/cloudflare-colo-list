@@ -52,10 +52,10 @@ VIE,"Vienna, Austria",Europe,Vienna,Austria,AT,48.1102981567,16.5697002411
 VNO,"Vilnius, Lithuania",Europe,Vilnius,Lithuania,LT,54.6341018677,25.2858009338
 WAW,"Warsaw, Poland",Europe,Warsaw,Poland,PL,52.1656990051,20.9671001434
 ZAG,"Zagreb, Croatia",Europe,Zagreb,Croatia,HR,45.7429008484,16.0687999725
-ZRH,"Zurich, Switzerland",Europe,Zurich,Switzerland,CH,47.4646987915,8.5491695404
 LYS,"Lyon, France",Europe,Lyon,France,FR,45.7263,5.0908
 BOD,"Bordeaux, France",Europe,Bordeaux,France,FR,44.82946,-0.58355
 SKP,"Skopje, North Macedonia",Europe,Skopje,North Macedonia,MK,41.9616012573,21.6214008331
+ZRH,"Zurich, Switzerland",Europe,Zurich,Switzerland,CH,47.4646987915,8.5491695404
 AMM,"Amman, Jordan",Middle East,Amman,Jordan,JO,31.7226009369,35.9931983948
 LLK,"Astara, Azerbaijan",Middle East,Astara,Azerbaijan,AZ,38.7463989258,48.8180007935
 BGW,"Baghdad, Iraq",Middle East,Baghdad,Iraq,IQ,33.2625007629,44.2346000671
@@ -261,7 +261,6 @@ JXG,"Jiaxing, China",Asia,Jiaxing,China,CN,,
 CRK,"Tarlac City, Philippines",Asia Pacific,Tarlac City,Philippines,PH,15.1859,120.5599
 PBH,"Thimphu, Bhutan",Asia Pacific,Thimphu,Bhutan,BT,27.4712,89.6339
 XIY,"Baoji, China",Asia,Baoji,China,CN,,
-CTU,"Chengdu, China",Asia,Chengdu,China,CN,,
 NQZ,"Astana, Kazakhstan",Asia Pacific,Astana,Kazakhstan,KZ,51.167801,71.418893
 NNG,"Nanning, China",Asia,Nanning,China,CN,,
 KCH,"Kuching, Malaysia",Asia Pacific,Kuching,Malaysia,MY,1.709727,110.353455
