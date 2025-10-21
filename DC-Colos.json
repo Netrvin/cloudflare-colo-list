@@ -901,15 +901,6 @@
         "name": "Erbil, Iraq",
         "region": "Middle East"
     },
-    "EDI": {
-        "cca2": "GB",
-        "city": "Edinburgh",
-        "country": "United Kingdom",
-        "lat": 55.9500007629,
-        "lon": -3.3724999428,
-        "name": "Edinburgh, United Kingdom",
-        "region": "Europe"
-    },
     "EVN": {
         "cca2": "AM",
         "city": "Yerevan",

@@ -1961,14 +1961,6 @@
     },
     {
         "cca2": "GB",
-        "city": "Edinburgh",
-        "iata": "EDI",
-        "lat": 55.9500007629,
-        "lon": -3.3724999428,
-        "region": "Europe"
-    },
-    {
-        "cca2": "GB",
         "city": "London",
         "iata": "LHR",
         "lat": 51.4706001282,
