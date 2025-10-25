@@ -1153,14 +1153,6 @@
     },
     {
         "cca2": "IE",
-        "city": "Cork",
-        "iata": "ORK",
-        "lat": 51.8413009644,
-        "lon": -8.491109848,
-        "region": "Europe"
-    },
-    {
-        "cca2": "IE",
         "city": "Dublin",
         "iata": "DUB",
         "lat": 53.4212989807,
