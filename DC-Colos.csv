@@ -100,7 +100,6 @@ EZE,"Buenos Aires, Argentina",South America,Buenos Aires,Argentina,AR,-34.8222,-
 CFC,"Cacador, Brazil",South America,Cacador,Brazil,BR,-26.7762,-51.0125
 VCP,"Campinas, Brazil",South America,Campinas,Brazil,BR,-22.90662,-47.08576
 COR,"Córdoba, Argentina",South America,Córdoba,Argentina,AR,-31.31,-64.208333
-CGB,"Cuiaba, Brazil",South America,Cuiaba,Brazil,BR,-15.59611,-56.09667
 CWB,"Curitiba, Brazil",South America,Curitiba,Brazil,BR,-25.5284996033,-49.1758003235
 FLN,"Florianopolis, Brazil",South America,Florianopolis,Brazil,BR,-27.6702785492,-48.5525016785
 FOR,"Fortaleza, Brazil",South America,Fortaleza,Brazil,BR,-3.7762799263,-38.5326004028
@@ -145,6 +144,7 @@ PMW,"Palmas, Brazil",South America,Palmas,Brazil,BR,-10.2915000916,-48.356998443
 ARU,"Aracatuba, Brazil",South America,Aracatuba,Brazil,BR,-21.1413002014,-50.4247016907
 POS,"Port of Spain, Trinidad and Tobago",South America,Port of Spain,Trinidad and Tobago,TT,10.5953998566,-61.3372001648
 SSA,"Salvador, Brazil",South America,Salvador,Brazil,BR,-12.9086112976,-38.3224983215
+CGB,"Cuiaba, Brazil",South America,Cuiaba,Brazil,BR,-15.59611,-56.09667
 CLO,"Cali, Colombia",South America,Cali,Colombia,CO,3.54322,-76.3816
 SAP,"San Pedro Sula, Honduras",South America,San Pedro Sula,Honduras,HN,15.4525995255,-87.9235992432
 CCP,"Concepción, Chile",South America,Concepción,Chile,CL,-36.8201,-73.0444
@@ -169,7 +169,6 @@ NBO,"Nairobi, Kenya",Africa,Nairobi,Kenya,KE,-1.319239974,36.9277992249
 ORN,"Oran, Algeria",Africa,Oran,Algeria,DZ,35.6911,-0.6416
 OUA,"Ouagadougou, Burkina Faso",Africa,Ouagadougou,Burkina Faso,BF,12.3531999588,-1.5124200583
 MRU,"Port Louis, Mauritius",Africa,Port Louis,Mauritius,MU,-20.4302005768,57.6836013794
-RUN,"Saint-Denis, Réunion",Africa,Saint-Denis,Réunion,RE,-20.8871002197,55.5102996826
 TUN,"Tunis, Tunisia",Africa,Tunis,Tunisia,TN,36.8510017395,10.2271995544
 FIH,"Kinshasa, DR Congo",Africa,Kinshasa,DR Congo,CD,-4.3857498169,15.4446001053
 CAI,"Cairo, Egypt",Africa,Cairo,Egypt,EG,30.1219005585,31.4055995941
@@ -177,6 +176,7 @@ WDH,"Windhoek, Namibia",Africa,Windhoek,Namibia,NA,-22.565587,17.085334
 ASK,"Yamoussoukro, Ivory Coast",Africa,Yamoussoukro,Ivory Coast,CI,6.842178,-5.259932
 ABJ,"Abidjan, Ivory Coast",Africa,Abidjan,Ivory Coast,CI,5.292598,-3.999133
 EBB,"Kampala, Uganda",Africa,Kampala,Uganda,UG,0.3152,32.5816
+RUN,"Saint-Denis, Réunion",Africa,Saint-Denis,Réunion,RE,-20.8871002197,55.5102996826
 LUN,"Lusaka, Zambia",Africa,Lusaka,Zambia,ZM,-15.371446,28.317837
 ADD,"Addis Ababa, Ethiopia",Africa,Addis Ababa,Ethiopia,ET,9.00005,38.78446
 LLW,"Lilongwe, Malawi",Africa,Lilongwe,Malawi,MW,-13.980935,33.761462
@@ -307,7 +307,7 @@ SAN,"San Diego, CA, United States",North America,San Diego,United States,US,32.7
 SJC,"San Jose, CA, United States",North America,San Jose,United States,US,37.3625984192,-121.929000855
 YXE,"Saskatoon, SK, Canada",North America,Saskatoon,Canada,CA,52.1707992554,-106.699996948
 SEA,"Seattle, WA, United States",North America,Seattle,United States,US,47.4490013123,-122.308998108
-FSD,"Sioux Falls, South Dakota",North America,Sioux Falls,South Dakota,US,43.540819819502,-96.65511577730963
+FSD,"Sioux Falls, SD, United States",North America,Sioux Falls,United States,US,43.540819819502,-96.65511577730963
 STL,"St. Louis, MO, United States",North America,St. Louis,United States,US,38.7486991882,-90.3700027466
 TLH,"Tallahassee, FL, United States",North America,Tallahassee,United States,US,30.3964996338,-84.3503036499
 YYZ,"Toronto, ON, Canada",North America,Toronto,Canada,CA,43.6772003174,-79.6305999756
