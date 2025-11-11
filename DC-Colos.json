@@ -1799,6 +1799,15 @@
         "name": "Male, Maldives",
         "region": "Asia Pacific"
     },
+    "MLG": {
+        "cca2": "ID",
+        "city": "Malang",
+        "country": "Indonesia",
+        "lat": -8.100347,
+        "lon": 112.186641,
+        "name": "Malang, Indonesia",
+        "region": "Asia Pacific"
+    },
     "MNL": {
         "cca2": "PH",
         "city": "Manila",

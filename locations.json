@@ -1097,6 +1097,14 @@
     },
     {
         "cca2": "ID",
+        "city": "Malang",
+        "iata": "MLG",
+        "lat": -8.100347,
+        "lon": 112.186641,
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "ID",
         "city": "Yogyakarta",
         "iata": "JOG",
         "lat": -7.7881798744,
