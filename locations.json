@@ -353,14 +353,6 @@
     },
     {
         "cca2": "BR",
-        "city": "Itajai",
-        "iata": "ITJ",
-        "lat": -27.6116676331,
-        "lon": -48.6727790833,
-        "region": "South America"
-    },
-    {
-        "cca2": "BR",
         "city": "Joinville",
         "iata": "JOI",
         "lat": -26.304408,
