@@ -1640,6 +1640,14 @@
         "region": "Europe"
     },
     {
+        "cca2": "PL",
+        "city": "Wroclaw",
+        "iata": "WRO",
+        "lat": 51.106742,
+        "lon": 16.983773,
+        "region": "Europe"
+    },
+    {
         "cca2": "PT",
         "city": "Lisbon",
         "iata": "LIS",

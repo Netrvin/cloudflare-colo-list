@@ -2752,6 +2752,15 @@
         "name": "Windhoek, Namibia",
         "region": "Africa"
     },
+    "WRO": {
+        "cca2": "PL",
+        "city": "Wroclaw",
+        "country": "Poland",
+        "lat": 51.106742,
+        "lon": 16.983773,
+        "name": "Wroclaw, Poland",
+        "region": "Europe"
+    },
     "XAP": {
         "cca2": "BR",
         "city": "Chapeco",
