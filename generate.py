@@ -11,14 +11,15 @@ import pandas as pd
 os.chdir(os.path.split(os.path.realpath(sys.argv[0]))[0])
 
 
-def get(url, retry=5):
+def get(url, retry=5, referer=''):
     try:
-        r = requests.get(url, timeout=5)
+        headers = {'referer': referer}
+        r = requests.get(url, timeout=5, headers=headers)
         return r
     except:
         if retry > 0:
             time.sleep(1)
-            return get(url, retry - 1)
+            return get(url, retry - 1, referer)
         else:
             raise Exception('Failed to get url: {}'.format(url))
 
@@ -83,7 +84,7 @@ def generate():
 
     # speed.cloudflare.com for locations
     # format: json
-    speed_locations = json.loads(get('https://speed.cloudflare.com/locations').text)
+    speed_locations = json.loads(get('https://speed.cloudflare.com/locations', referer='https://speed.cloudflare.com/').text)
     for location in speed_locations:
         iata = location['iata']
         if iata in data:
