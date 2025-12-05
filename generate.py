@@ -101,6 +101,13 @@ def generate():
 if __name__ == '__main__':
     match_data, location_data = generate()
 
+    # Test
+    sys.exit(1)
+
+    if len(match_data) == 0 or len(location_data) == 0:
+        print('Error: Colo data is empty')
+        sys.exit(1)
+
     locations_json_content = json.dumps(location_data, indent=4, ensure_ascii=False, sort_keys=True)
     dc_colos_json_content = json.dumps(match_data, indent=4, ensure_ascii=False, sort_keys=True)
     content_changed = True
