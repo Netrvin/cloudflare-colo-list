@@ -1253,7 +1253,7 @@
         "iata": "AKX",
         "lat": 50.286922,
         "lon": 57.224121,
-        "region": "Asia Pacific"
+        "region": "Europe"
     },
     {
         "cca2": "KZ",
@@ -1261,7 +1261,7 @@
         "iata": "ALA",
         "lat": 43.3521003723,
         "lon": 77.0404968262,
-        "region": "Asia Pacific"
+        "region": "Europe"
     },
     {
         "cca2": "KZ",
@@ -1269,7 +1269,7 @@
         "iata": "NQZ",
         "lat": 51.167801,
         "lon": 71.418893,
-        "region": "Asia Pacific"
+        "region": "Europe"
     },
     {
         "cca2": "KE",

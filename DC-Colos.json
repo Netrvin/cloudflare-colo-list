@@ -78,7 +78,7 @@
         "lat": 50.286922,
         "lon": 57.224121,
         "name": "Aktobe, Kazakhstan",
-        "region": "Asia Pacific"
+        "region": "Europe"
     },
     "ALA": {
         "cca2": "KZ",
@@ -87,7 +87,7 @@
         "lat": 43.3521003723,
         "lon": 77.0404968262,
         "name": "Almaty, Kazakhstan",
-        "region": "Asia Pacific"
+        "region": "Europe"
     },
     "ALG": {
         "cca2": "DZ",
@@ -1955,7 +1955,7 @@
         "lat": 51.167801,
         "lon": 71.418893,
         "name": "Astana, Kazakhstan",
-        "region": "Asia Pacific"
+        "region": "Europe"
     },
     "NRT": {
         "cca2": "JP",

@@ -183,7 +183,7 @@ ADD,"Addis Ababa, Ethiopia",Africa,Addis Ababa,Ethiopia,ET,9.00005,38.78446
 LLW,"Lilongwe, Malawi",Africa,Lilongwe,Malawi,MW,-13.980935,33.761462
 CZL,"Constantine, Algeria",Africa,Constantine,Algeria,DZ,36.335972,6.598562
 AMD,"Ahmedabad, India",Asia Pacific,Ahmedabad,India,IN,23.0225,72.5714
-ALA,"Almaty, Kazakhstan",Asia Pacific,Almaty,Kazakhstan,KZ,43.3521003723,77.0404968262
+ALA,"Almaty, Kazakhstan",Europe,Almaty,Kazakhstan,KZ,43.3521003723,77.0404968262
 BLR,"Bangalore, India",Asia Pacific,Bangalore,India,IN,13.7835719,76.6165937
 BKK,"Bangkok, Thailand",Asia Pacific,Bangkok,Thailand,TH,13.6810998917,100.747001648
 BWN,"Bandar Seri Begawan, Brunei",Asia Pacific,Bandar Seri Begawan,Brunei,BN,4.903052,114.939819
@@ -260,10 +260,10 @@ JXG,"Jiaxing, China",Asia,Jiaxing,China,CN,,
 CRK,"Tarlac City, Philippines",Asia Pacific,Tarlac City,Philippines,PH,15.1859,120.5599
 PBH,"Thimphu, Bhutan",Asia Pacific,Thimphu,Bhutan,BT,27.4712,89.6339
 XIY,"Baoji, China",Asia,Baoji,China,CN,,
-NQZ,"Astana, Kazakhstan",Asia Pacific,Astana,Kazakhstan,KZ,51.167801,71.418893
+NQZ,"Astana, Kazakhstan",Europe,Astana,Kazakhstan,KZ,51.167801,71.418893
 NNG,"Nanning, China",Asia,Nanning,China,CN,,
 KCH,"Kuching, Malaysia",Asia Pacific,Kuching,Malaysia,MY,1.709727,110.353455
-AKX,"Aktobe, Kazakhstan",Asia Pacific,Aktobe,Kazakhstan,KZ,50.286922,57.224121
+AKX,"Aktobe, Kazakhstan",Europe,Aktobe,Kazakhstan,KZ,50.286922,57.224121
 TEN,"Tongren, China",Asia,Tongren,China,CN,,
 HYN,"Taizhou, China",Asia,Taizhou,China,CN,,
 XNN,"Xining, China",Asia,Xining,China,CN,,
