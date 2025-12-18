@@ -969,6 +969,14 @@
     },
     {
         "cca2": "IN",
+        "city": "Agra",
+        "iata": "AGR",
+        "lat": 27.202556,
+        "lon": 77.857407,
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "IN",
         "city": "Ahmedabad",
         "iata": "AMD",
         "lat": 23.0225,
