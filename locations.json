@@ -1009,6 +1009,14 @@
     },
     {
         "cca2": "IN",
+        "city": "Coimbatore",
+        "iata": "CJB",
+        "lat": 11.008756,
+        "lon": 77.011987,
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "IN",
         "city": "Hyderabad",
         "iata": "HYD",
         "lat": 17.2313175201,
