@@ -23,7 +23,7 @@
         "country": "United States",
         "lat": 35.040199,
         "lon": -106.609001,
-        "name": "Albuquerque, United States",
+        "name": "Albuquerque, NM, United States",
         "region": "North America"
     },
     "ACC": {
@@ -140,7 +140,7 @@
         "country": "United States",
         "lat": 61.1744,
         "lon": -149.996002,
-        "name": "Anchorage, United States",
+        "name": "Anchorage, AK, United States",
         "region": "North America"
     },
     "ARI": {
@@ -212,7 +212,7 @@
         "country": "United States",
         "lat": 30.1945,
         "lon": -97.669899,
-        "name": "Austin, United States",
+        "name": "Austin, TX, United States",
         "region": "North America"
     },
     "BAH": {
@@ -284,7 +284,7 @@
         "country": "United States",
         "lat": 44.8074,
         "lon": -68.828102,
-        "name": "Bangor, United States",
+        "name": "Bangor, ME, United States",
         "region": "North America"
     },
     "BGW": {
@@ -607,7 +607,7 @@
         "country": "United States",
         "lat": 41.411701,
         "lon": -81.8498,
-        "name": "Cleveland, United States",
+        "name": "Cleveland, OH, United States",
         "region": "North America"
     },
     "CLO": {
@@ -2006,7 +2006,7 @@
         "country": "United States",
         "lat": 35.393101,
         "lon": -97.6007,
-        "name": "Oklahoma City, United States",
+        "name": "Oklahoma City, OK, United States",
         "region": "North America"
     },
     "OMA": {
@@ -2256,7 +2256,7 @@
         "country": "United States",
         "lat": 35.877602,
         "lon": -78.787498,
-        "name": "Durham, United States",
+        "name": "Durham, NC, United States",
         "region": "North America"
     },
     "REC": {
@@ -2328,7 +2328,7 @@
         "country": "United States",
         "lat": 29.533701,
         "lon": -98.469803,
-        "name": "San Antonio, United States",
+        "name": "San Antonio, TX, United States",
         "region": "North America"
     },
     "SCL": {
@@ -2364,7 +2364,7 @@
         "country": "United States",
         "lat": 37.618999,
         "lon": -122.375,
-        "name": "San Francisco, United States",
+        "name": "San Francisco, CA, United States",
         "region": "North America"
     },
     "SGN": {
@@ -2649,7 +2649,7 @@
         "country": "United States",
         "lat": 27.9755,
         "lon": -82.533203,
-        "name": "Tampa, United States",
+        "name": "Tampa, FL, United States",
         "region": "North America"
     },
     "TPE": {
