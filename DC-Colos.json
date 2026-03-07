@@ -35,6 +35,13 @@
         "name": "Accra, Ghana",
         "region": "Africa"
     },
+    "ACX": {
+        "cca2": "CN",
+        "city": "Xingyi",
+        "country": "China",
+        "name": "Xingyi, China",
+        "region": "Asia"
+    },
     "ADB": {
         "cca2": "TR",
         "city": "Izmir",
