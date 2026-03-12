@@ -2784,6 +2784,13 @@
         "name": "Windhoek, Namibia",
         "region": "Africa"
     },
+    "WLG": {
+        "cca2": "NZ",
+        "city": "Wellington",
+        "country": "New Zealand",
+        "name": "Wellington, New Zealand",
+        "region": "Oceania"
+    },
     "WRO": {
         "cca2": "PL",
         "city": "Wroclaw",
