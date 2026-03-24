@@ -240,6 +240,13 @@
         "name": "Barranquilla, Colombia",
         "region": "South America"
     },
+    "BBI": {
+        "cca2": "IN",
+        "city": "Bhubaneswar",
+        "country": "India",
+        "name": "Bhubaneswar, India",
+        "region": "Asia"
+    },
     "BCN": {
         "cca2": "ES",
         "city": "Barcelona",
