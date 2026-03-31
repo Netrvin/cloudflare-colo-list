@@ -1702,6 +1702,13 @@
         "name": "Luxembourg City, Luxembourg",
         "region": "Europe"
     },
+    "LYA": {
+        "cca2": "CN",
+        "city": "Luoyang",
+        "country": "China",
+        "name": "Luoyang, China",
+        "region": "Asia"
+    },
     "LYS": {
         "cca2": "FR",
         "city": "Lyon",
