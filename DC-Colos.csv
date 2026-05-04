@@ -150,7 +150,6 @@ SSA,"Salvador, Brazil",South America,Salvador,Brazil,BR,-12.068355,-45.711454
 CGB,"Cuiaba, Brazil",South America,Cuiaba,Brazil,BR,-15.6529,-56.116699
 CLO,"Cali, Colombia",South America,Cali,Colombia,CO,3.54322,-76.3816
 SAP,"San Pedro Sula, Honduras",South America,La Mesa,Honduras,HN,15.4526,-87.923599
-CCP,"Concepción, Chile",South America,Concepcion,Chile,CL,-36.772701,-73.063103
 ACC,"Accra, Ghana",Africa,Accra,Ghana,GH,5.60519,-0.166786
 ALG,"Algiers, Algeria",Africa,Algiers,Algeria,DZ,36.691002,3.21541
 AAE,"Annaba, Algeria",Africa,Annabah,Algeria,DZ,36.822201,7.80917
@@ -336,3 +335,4 @@ TPA,"Tampa, FL, United States",North America,Tampa,United States,US,27.9755,-82.
 YYZ,"Toronto, ON, Canada",North America,Toronto,Canada,CA,43.6772,-79.6306
 YVR,"Vancouver, BC, Canada",North America,Vancouver,Canada,CA,49.193901,-123.183998
 YWG,"Winnipeg, MB, Canada",North America,Winnipeg,Canada,CA,49.91,-97.239899
+CCP,"Concepcion, Chile",South America,Concepcion,,CL,-36.772701,-73.063103

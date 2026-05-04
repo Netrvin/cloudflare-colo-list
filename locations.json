@@ -1994,9 +1994,9 @@
     {
         "cca2": "CL",
         "city": "Concepcion",
-        "iata": "CCP",
         "lat": -36.772701,
         "lon": -73.063103,
+        "name": "Concepcion, Chile",
         "region": "South America"
     },
     {
