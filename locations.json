@@ -112,6 +112,14 @@
         "region": "Europe"
     },
     {
+        "cca2": "NZ",
+        "city": "Wellington",
+        "iata": "WLG",
+        "lat": -41.327202,
+        "lon": 174.804993,
+        "region": "Oceania"
+    },
+    {
         "cca2": "NA",
         "city": "Windhoek",
         "iata": "WDH",
@@ -608,6 +616,14 @@
         "region": "South America"
     },
     {
+        "cca2": "IN",
+        "city": "Pune",
+        "iata": "PNQ",
+        "lat": 18.5821,
+        "lon": 73.919701,
+        "region": "Asia Pacific"
+    },
+    {
         "cca2": "KH",
         "city": "Phnom Penh",
         "iata": "PNH",
@@ -1080,6 +1096,14 @@
         "region": "Middle East"
     },
     {
+        "cca2": "SI",
+        "city": "Ljubljana",
+        "iata": "LJU",
+        "lat": 46.223701,
+        "lon": 14.4576,
+        "region": "Europe"
+    },
+    {
         "cca2": "PT",
         "city": "Lisbon",
         "iata": "LIS",
@@ -1254,6 +1278,14 @@
         "lat": 50.345001,
         "lon": 30.894699,
         "region": "Europe"
+    },
+    {
+        "cca2": "IN",
+        "city": "Jharsuguda",
+        "iata": "JRG",
+        "lat": 21.9135,
+        "lon": 84.0504,
+        "region": "Asia Pacific"
     },
     {
         "cca2": "BR",
@@ -1992,14 +2024,6 @@
         "region": "Asia Pacific"
     },
     {
-        "cca2": "CL",
-        "city": "Concepcion",
-        "lat": -36.772701,
-        "lon": -73.063103,
-        "name": "Concepcion, Chile",
-        "region": "South America"
-    },
-    {
         "cca2": "AU",
         "city": "Canberra",
         "iata": "CBR",
@@ -2206,6 +2230,14 @@
         "lat": 41.2971,
         "lon": 2.07846,
         "region": "Europe"
+    },
+    {
+        "cca2": "IN",
+        "city": "Bhubaneswar",
+        "iata": "BBI",
+        "lat": 20.2444,
+        "lon": 85.817802,
+        "region": "Asia Pacific"
     },
     {
         "cca2": "CO",

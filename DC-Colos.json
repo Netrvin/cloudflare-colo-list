@@ -244,8 +244,10 @@
         "cca2": "IN",
         "city": "Bhubaneswar",
         "country": "India",
+        "lat": 20.2444,
+        "lon": 85.817802,
         "name": "Bhubaneswar, India",
-        "region": "Asia"
+        "region": "Asia Pacific"
     },
     "BCN": {
         "cca2": "ES",
@@ -494,14 +496,6 @@
         "lon": 149.195007,
         "name": "Canberra, ACT, Australia",
         "region": "Oceania"
-    },
-    "CCP": {
-        "cca2": "CL",
-        "city": "Concepcion",
-        "lat": -36.772701,
-        "lon": -73.063103,
-        "name": "Concepcion, Chile",
-        "region": "South America"
     },
     "CCU": {
         "cca2": "IN",
@@ -1416,10 +1410,12 @@
     },
     "JRG": {
         "cca2": "IN",
-        "city": "Sambalpur",
+        "city": "Jharsuguda",
         "country": "India",
+        "lat": 21.9135,
+        "lon": 84.0504,
         "name": "Sambalpur, India",
-        "region": "Asia"
+        "region": "Asia Pacific"
     },
     "JXG": {
         "cca2": "CN",
@@ -1658,6 +1654,8 @@
         "cca2": "SI",
         "city": "Ljubljana",
         "country": "Slovenia",
+        "lat": 46.223701,
+        "lon": 14.4576,
         "name": "Ljubljana, Slovenia",
         "region": "Europe"
     },
@@ -2209,8 +2207,10 @@
         "cca2": "IN",
         "city": "Pune",
         "country": "India",
+        "lat": 18.5821,
+        "lon": 73.919701,
         "name": "Pune, India",
-        "region": "Asia"
+        "region": "Asia Pacific"
     },
     "POA": {
         "cca2": "BR",
@@ -2822,6 +2822,8 @@
         "cca2": "NZ",
         "city": "Wellington",
         "country": "New Zealand",
+        "lat": -41.327202,
+        "lon": 174.804993,
         "name": "Wellington, New Zealand",
         "region": "Oceania"
     },
