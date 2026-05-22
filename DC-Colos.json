@@ -379,7 +379,7 @@
         "country": "Colombia",
         "lat": 4.70159,
         "lon": -74.1469,
-        "name": "Bogota, Colombia",
+        "name": "Bogotá, Colombia",
         "region": "South America"
     },
     "BOM": {
@@ -530,7 +530,7 @@
         "country": "Brazil",
         "lat": -26.7762,
         "lon": -51.0125,
-        "name": "Cacador, Brazil",
+        "name": "Caçador, Brazil",
         "region": "South America"
     },
     "CGB": {
@@ -788,7 +788,7 @@
         "country": "Tanzania",
         "lat": -6.87811,
         "lon": 39.202599,
-        "name": "Dar es Salaam, Tanzania",
+        "name": "Dar Es Salaam, Tanzania",
         "region": "Africa"
     },
     "DEL": {
@@ -1160,14 +1160,14 @@
         "country": "Brazil",
         "lat": -16.632,
         "lon": -49.220699,
-        "name": "Goiania, Brazil",
+        "name": "Goiânia, Brazil",
         "region": "South America"
     },
     "HAK": {
         "cca2": "CN",
-        "city": "Chengmai",
+        "city": "Haikou",
         "country": "China",
-        "name": "Chengmai, China",
+        "name": "Haikou, China",
         "region": "Asia"
     },
     "HAM": {
@@ -1378,7 +1378,7 @@
         "country": "Djibouti",
         "lat": 11.5473,
         "lon": 43.1595,
-        "name": "Djibouti, Djibouti",
+        "name": "Djibouti City, Djibouti",
         "region": "Africa"
     },
     "JNB": {
@@ -1480,9 +1480,9 @@
     },
     "KHN": {
         "cca2": "CN",
-        "city": "Nanchang",
+        "city": "Xinyu",
         "country": "China",
-        "name": "Nanchang, China",
+        "name": "Xinyu, China",
         "region": "Asia"
     },
     "KIN": {
@@ -1851,7 +1851,7 @@
         "country": "Malta",
         "lat": 35.857498,
         "lon": 14.4775,
-        "name": "Valletta, Malta",
+        "name": "Santa Venera, Malta",
         "region": "Europe"
     },
     "MLE": {
@@ -1860,7 +1860,7 @@
         "country": "Maldives",
         "lat": 4.19183,
         "lon": 73.529099,
-        "name": "Male, Maldives",
+        "name": "Malé, Maldives",
         "region": "Asia Pacific"
     },
     "MLG": {
@@ -1986,7 +1986,7 @@
         "country": "Argentina",
         "lat": -38.949001,
         "lon": -68.155701,
-        "name": "Neuquen, Argentina",
+        "name": "Neuquén, Argentina",
         "region": "South America"
     },
     "NQZ": {
@@ -2013,7 +2013,7 @@
         "country": "Brazil",
         "lat": -26.879999,
         "lon": -48.651402,
-        "name": "Timbo, Brazil",
+        "name": "Timbó, Brazil",
         "region": "South America"
     },
     "OKA": {
@@ -2473,9 +2473,9 @@
     },
     "SJW": {
         "cca2": "CN",
-        "city": "Shijiazhuang",
+        "city": "Hengshui",
         "country": "China",
-        "name": "Shijiazhuang, China",
+        "name": "Hengshui, China",
         "region": "Asia"
     },
     "SKG": {
@@ -2663,9 +2663,9 @@
     },
     "TNA": {
         "cca2": "CN",
-        "city": "Zibo",
+        "city": "Jinan",
         "country": "China",
-        "name": "Zibo, China",
+        "name": "Jinan, China",
         "region": "Asia"
     },
     "TNR": {
@@ -2725,7 +2725,7 @@
         "country": "Brazil",
         "lat": -18.883612,
         "lon": -48.225277,
-        "name": "Uberlandia, Brazil",
+        "name": "Uberlândia, Brazil",
         "region": "South America"
     },
     "UIO": {

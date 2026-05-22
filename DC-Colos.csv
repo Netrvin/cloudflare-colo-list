@@ -41,7 +41,7 @@ KEF,"Reykjavík, Iceland",Europe,Reykjavik,Iceland,IS,63.985001,-22.6056
 RIX,"Riga, Latvia",Europe,Riga,Latvia,LV,56.923599,23.9711
 FCO,"Rome, Italy",Europe,Rome,Italy,IT,41.804501,12.2508
 LED,"Saint Petersburg, Russia",Europe,St. Petersburg,Russia,RU,59.800301,30.262501
-MLA,"Valletta, Malta",Europe,Luqa,Malta,MT,35.857498,14.4775
+MLA,"Santa Venera, Malta",Europe,Luqa,Malta,MT,35.857498,14.4775
 SKP,"Skopje, North Macedonia",Europe,Skopje,North Macedonia,MK,41.961601,21.621401
 SOF,"Sofia, Bulgaria",Europe,Sofia,Bulgaria,BG,42.696693,23.411436
 ARN,"Stockholm, Sweden",Europe,Stockholm,Sweden,SE,59.651901,17.9186
@@ -98,17 +98,17 @@ ASU,"Asunción, Paraguay",South America,Asuncion,Paraguay,PY,-25.24,-57.52
 BEL,"Belém, Brazil",South America,Belem,Brazil,BR,-1.37925,-48.476299
 CNF,"Belo Horizonte, Brazil",South America,Belo Horizonte,Brazil,BR,-19.624443,-43.971943
 BNU,"Blumenau, Brazil",South America,Blumenau,Brazil,BR,-26.830601,-49.090302
-BOG,"Bogota, Colombia",South America,Bogota,Colombia,CO,4.70159,-74.1469
+BOG,"Bogotá, Colombia",South America,Bogota,Colombia,CO,4.70159,-74.1469
 BSB,"Brasilia, Brazil",South America,Brasilia,Brazil,BR,-15.869167,-47.920834
 EZE,"Buenos Aires, Argentina",South America,Ezeiza,Argentina,AR,-34.8222,-58.5358
-CFC,"Cacador, Brazil",South America,Caçador,Brazil,BR,-26.7762,-51.0125
+CFC,"Caçador, Brazil",South America,Caçador,Brazil,BR,-26.7762,-51.0125
 VCP,"Campinas, Brazil",South America,Campinas,Brazil,BR,-23.007401,-47.134499
 COR,"Córdoba, Argentina",South America,Cordoba,Argentina,AR,-31.323601,-64.208
 CWB,"Curitiba, Brazil",South America,Curitiba,Brazil,BR,-25.5285,-49.1758
 FLN,"Florianopolis, Brazil",South America,Florianopolis,Brazil,BR,-27.670279,-48.552502
 FOR,"Fortaleza, Brazil",South America,Fortaleza,Brazil,BR,-3.77628,-38.5326
 GEO,"Georgetown, Guyana",South America,Georgetown,Guyana,GY,6.49855,-58.254101
-GYN,"Goiania, Brazil",South America,Goiania,Brazil,BR,-16.632,-49.220699
+GYN,"Goiânia, Brazil",South America,Goiania,Brazil,BR,-16.632,-49.220699
 GUA,"Guatemala City, Guatemala",North America,Guatemala City,Guatemala,GT,14.5833,-90.527496
 GYE,"Guayaquil, Ecuador",South America,Guayaquil,Ecuador,EC,-2.15742,-79.883598
 JOI,"Joinville, Brazil",South America,Joinville,Brazil,BR,-26.224501,-48.797401
@@ -116,7 +116,7 @@ JDO,"Juazeiro do Norte, Brazil",South America,Juazeiro Do Norte,Brazil,BR,-7.218
 LIM,"Lima, Peru",South America,Lima,Peru,PE,-12.0219,-77.114304
 MAO,"Manaus, Brazil",South America,Manaus,Brazil,BR,-3.03861,-60.049702
 MDE,"Medellín, Colombia",South America,Rionegro,Colombia,CO,6.16454,-75.4231
-NQN,"Neuquen, Argentina",South America,Neuquen,Argentina,AR,-38.949001,-68.155701
+NQN,"Neuquén, Argentina",South America,Neuquen,Argentina,AR,-38.949001,-68.155701
 PTY,"Panama City, Panama",South America,Tocumen,Panama,PA,9.07136,-79.383499
 PBM,"Paramaribo, Suriname",South America,Zandery,Suriname,SR,5.45283,-55.187801
 POA,"Porto Alegre, Brazil",South America,Porto Alegre,Brazil,BR,-29.9944,-51.171398
@@ -132,8 +132,8 @@ SJK,"São José dos Campos, Brazil",South America,Sao Jose Dos Campos,Brazil,B
 GRU,"São Paulo, Brazil",South America,Sao Paulo,Brazil,BR,-23.435556,-46.473057
 SOD,"Sorocaba, Brazil",South America,Sorocaba,Brazil,BR,-23.478001,-47.490002
 TGU,"Tegucigalpa, Honduras",South America,Tegucigalpa,Honduras,HN,14.0609,-87.217201
-NVT,"Timbo, Brazil",South America,Navegantes,Brazil,BR,-26.879999,-48.651402
-UDI,"Uberlandia, Brazil",South America,Uberlandia,Brazil,BR,-18.883612,-48.225277
+NVT,"Timbó, Brazil",South America,Navegantes,Brazil,BR,-26.879999,-48.651402
+UDI,"Uberlândia, Brazil",South America,Uberlandia,Brazil,BR,-18.883612,-48.225277
 VIX,"Vitoria, Brazil",South America,Vitoria,Brazil,BR,-20.258057,-40.286388
 CAW,"Campos dos Goytacazes, Brazil",South America,Campos Dos Goytacazes,Brazil,BR,-21.698299,-41.301701
 XAP,"Chapeco, Brazil",South America,Chapeco,Brazil,BR,-27.134199,-52.656601
@@ -156,8 +156,8 @@ AAE,"Annaba, Algeria",Africa,Annabah,Algeria,DZ,36.822201,7.80917
 TNR,"Antananarivo, Madagascar",Africa,Antananarivo,Madagascar,MG,-18.7969,47.478802
 CPT,"Cape Town, South Africa",Africa,Cape Town,South Africa,ZA,-33.964802,18.6017
 DKR,"Dakar, Senegal",Africa,Dakar,Senegal,SN,14.7397,-17.4902
-DAR,"Dar es Salaam, Tanzania",Africa,Dar es Salaam,Tanzania,TZ,-6.87811,39.202599
-JIB,"Djibouti, Djibouti",Africa,Djibouti City,Djibouti,DJ,11.5473,43.1595
+DAR,"Dar Es Salaam, Tanzania",Africa,Dar es Salaam,Tanzania,TZ,-6.87811,39.202599
+JIB,"Djibouti City, Djibouti",Africa,Djibouti City,Djibouti,DJ,11.5473,43.1595
 DUR,"Durban, South Africa",Africa,Durban,South Africa,ZA,-29.614444,31.119722
 GBE,"Gaborone, Botswana",Africa,Gaborone,Botswana,BW,-24.555201,25.9182
 HRE,"Harare, Zimbabwe",Africa,Harare,Zimbabwe,ZW,-17.931801,31.0928
@@ -199,15 +199,15 @@ FUO,"Foshan, China",Asia,Foshan,China,CN,,
 FUK,"Fukuoka, Japan",Asia Pacific,Fukuoka,Japan,JP,33.585899,130.451004
 FOC,"Fuzhou, China",Asia,Fuzhou,China,CN,,
 CAN,"Guangzhou, China",Asia,Guangzhou,China,CN,,
-HAK,"Chengmai, China",Asia,Chengmai,China,CN,,
+HAK,"Haikou, China",Asia,Haikou,China,CN,,
 HAN,"Hanoi, Vietnam",Asia Pacific,Hanoi,Vietnam,VN,21.221201,105.806999
-SJW,"Shijiazhuang, China",Asia,Shijiazhuang,China,CN,,
+SJW,"Hengshui, China",Asia,Hengshui,China,CN,,
 SGN,"Ho Chi Minh City, Vietnam",Asia Pacific,Ho Chi Minh City,Vietnam,VN,10.8188,106.652
 HKG,Hong Kong,Asia Pacific,Hong Kong,,HK,22.308901,113.915001
 HYD,"Hyderabad, India",Asia Pacific,Hyderabad,India,IN,17.231318,78.429855
 ISB,"Islamabad, Pakistan",Asia Pacific,Islamabad,Pakistan,PK,33.616699,73.099197
 CGK,"Jakarta, Indonesia",Asia Pacific,Jakarta,Indonesia,ID,-6.12557,106.655998
-TNA,"Zibo, China",Asia,Zibo,China,CN,,
+TNA,"Jinan, China",Asia,Jinan,China,CN,,
 JHB,"Johor Bahru, Malaysia",Asia Pacific,Senai,Malaysia,MY,1.64131,103.669998
 KNU,"Kanpur, India",Asia Pacific,Kanpur,India,IN,26.399462,80.42695
 KHH,"Kaohsiung City, Taiwan",Asia Pacific,Kaohsiung City,Taiwan,TW,22.577101,120.349998
@@ -218,7 +218,7 @@ KJA,"Krasnoyarsk, Russia",Asia Pacific,Krasnoyarsk,Russia,RU,56.172901,92.493301
 KUL,"Kuala Lumpur, Malaysia",Asia Pacific,Kuala Lumpur,Malaysia,MY,2.74558,101.709999
 PKX,"Langfang, China",Asia,Langfang,China,CN,,
 MFM,Macau,Asia Pacific,Taipa,,MO,22.149599,113.592003
-MLE,"Male, Maldives",Asia Pacific,Male,Maldives,MV,4.19183,73.529099
+MLE,"Malé, Maldives",Asia Pacific,Male,Maldives,MV,4.19183,73.529099
 MNL,"Manila, Philippines",Asia Pacific,Manila,Philippines,PH,14.5086,121.019997
 BOM,"Mumbai, India",Asia Pacific,Mumbai,India,IN,19.088699,72.867897
 NAG,"Nagpur, India",Asia Pacific,Naqpur,India,IN,21.092199,79.047203
@@ -236,7 +236,7 @@ TPE,Taipei,Asia Pacific,Taipei,,TW,25.0777,121.233002
 NRT,"Tokyo, Japan",Asia Pacific,Tokyo,Japan,JP,35.764702,140.386002
 ULN,"Ulaanbaatar, Mongolia",Asia Pacific,Ulan Bator,Mongolia,MN,47.843102,106.766998
 VTE,"Vientiane, Laos",Asia Pacific,Vientiane,Laos,LA,17.9883,102.563004
-KHN,"Nanchang, China",Asia,Nanchang,China,CN,,
+KHN,"Xinyu, China",Asia,Xinyu,China,CN,,
 EVN,"Yerevan, Armenia",Middle East,Yerevan,Armenia,AM,40.147301,44.395901
 JOG,"Yogyakarta, Indonesia",Asia Pacific,Yogyakarta-Java Island,Indonesia,ID,-7.78818,110.431999
 CGY,"Cagayan de Oro, Philippines",Asia Pacific,Cagayan De Oro City,Philippines,PH,8.41562,124.611
