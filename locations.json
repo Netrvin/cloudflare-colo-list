@@ -1840,6 +1840,14 @@
         "region": "South America"
     },
     {
+        "cca2": "US",
+        "city": "Hebron",
+        "lat": 39.048801,
+        "lon": -84.667801,
+        "name": "Hebron, United States",
+        "region": "North America"
+    },
+    {
         "cca2": "PH",
         "city": "Angeles City",
         "iata": "CRK",

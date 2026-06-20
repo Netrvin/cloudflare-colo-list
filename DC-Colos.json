@@ -739,6 +739,14 @@
         "name": "Chengdu, China",
         "region": "Asia"
     },
+    "CVG": {
+        "cca2": "US",
+        "city": "Hebron",
+        "lat": 39.048801,
+        "lon": -84.667801,
+        "name": "Hebron, United States",
+        "region": "North America"
+    },
     "CWB": {
         "cca2": "BR",
         "city": "Curitiba",
