@@ -2144,14 +2144,6 @@
         "region": "Europe"
     },
     {
-        "cca2": "BR",
-        "city": "Blumenau",
-        "iata": "BNU",
-        "lat": -26.830601,
-        "lon": -49.090302,
-        "region": "South America"
-    },
-    {
         "cca2": "AU",
         "city": "Brisbane",
         "iata": "BNE",
