@@ -97,7 +97,6 @@ ARI,"Arica, Chile",South America,Arica,Chile,CL,-18.348499,-70.338699
 ASU,"Asunción, Paraguay",South America,Asuncion,Paraguay,PY,-25.24,-57.52
 BEL,"Belém, Brazil",South America,Belem,Brazil,BR,-1.37925,-48.476299
 CNF,"Belo Horizonte, Brazil",South America,Belo Horizonte,Brazil,BR,-19.624443,-43.971943
-BNU,"Blumenau, Brazil",Latin America & the Caribbean,Blumenau,Brazil,BR,,
 BOG,"Bogotá, Colombia",South America,Bogota,Colombia,CO,4.70159,-74.1469
 BSB,"Brasilia, Brazil",South America,Brasilia,Brazil,BR,-15.869167,-47.920834
 EZE,"Buenos Aires, Argentina",South America,Ezeiza,Argentina,AR,-34.8222,-58.5358
@@ -210,7 +209,7 @@ CGK,"Jakarta, Indonesia",Asia Pacific,Jakarta,Indonesia,ID,-6.12557,106.655998
 TNA,"Jinan, China",Asia,Jinan,China,CN,,
 JHB,"Johor Bahru, Malaysia",Asia Pacific,Senai,Malaysia,MY,1.64131,103.669998
 KNU,"Kanpur, India",Asia Pacific,Kanpur,India,IN,26.399462,80.42695
-KHH,"Kaohsiung City, Taiwan",Asia Pacific,Kaohsiung City,Taiwan,TW,22.577101,120.349998
+KHH,Kaohsiung City,Asia Pacific,Kaohsiung City,,TW,22.577101,120.349998
 KHI,"Karachi, Pakistan",Asia Pacific,Karachi,Pakistan,PK,24.9065,67.160797
 KTM,"Kathmandu, Nepal",Asia Pacific,Kathmandu,Nepal,NP,27.6966,85.3591
 CCU,"Kolkata, India",Asia Pacific,Kolkata,India,IN,22.654699,88.446701
@@ -336,4 +335,4 @@ TPA,"Tampa, FL, United States",North America,Tampa,United States,US,27.9755,-82.
 YYZ,"Toronto, ON, Canada",North America,Toronto,Canada,CA,43.6772,-79.6306
 YVR,"Vancouver, BC, Canada",North America,Vancouver,Canada,CA,49.193901,-123.183998
 YWG,"Winnipeg, MB, Canada",North America,Winnipeg,Canada,CA,49.91,-97.239899
-CVG,"Hebron, United States",North America,Hebron,,US,39.048801,-84.667801
+CVG,"Cincinnati, United States",North America,Hebron,United States,US,39.048801,-84.667801
