@@ -73,14 +73,6 @@
     },
     {
         "cca2": "CA",
-        "city": "Ottawa",
-        "iata": "YOW",
-        "lat": 45.322498,
-        "lon": -75.669197,
-        "region": "North America"
-    },
-    {
-        "cca2": "CA",
         "city": "Halifax",
         "iata": "YHZ",
         "lat": 44.880798,
