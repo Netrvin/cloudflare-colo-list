@@ -1997,15 +1997,6 @@
         "name": "Neuquén, Argentina",
         "region": "South America"
     },
-    "NQZ": {
-        "cca2": "KZ",
-        "city": "Astana",
-        "country": "Kazakhstan",
-        "lat": 51.022202,
-        "lon": 71.466904,
-        "name": "Astana, Kazakhstan",
-        "region": "Europe"
-    },
     "NRT": {
         "cca2": "JP",
         "city": "Tokyo",
