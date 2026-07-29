@@ -180,7 +180,6 @@ EBB,"Kampala, Uganda",Africa,Kampala,Uganda,UG,0.042386,32.443501
 RUN,"Saint-Denis, Réunion",Africa,St Denis,Réunion,RE,-20.8871,55.5103
 LUN,"Lusaka, Zambia",Africa,Lusaka,Zambia,ZM,-15.3308,28.4526
 ADD,"Addis Ababa, Ethiopia",Africa,Addis Ababa,Ethiopia,ET,8.97789,38.799301
-LLW,"Lilongwe, Malawi",Africa,Lilongwe,Malawi,MW,-13.7894,33.780998
 CZL,"Constantine, Algeria",Africa,Constantine,Algeria,DZ,36.276001,6.62039
 DLA,"Douala, Cameroon",Africa,Douala,Cameroon,CM,4.00608,9.71948
 AMD,"Ahmedabad, India",Asia Pacific,Ahmedabad,India,IN,23.0772,72.634697
@@ -276,6 +275,7 @@ BBI,"Bhubaneswar, India",Asia Pacific,Bhubaneswar,India,IN,20.2444,85.817802
 LYA,"Luoyang, China",Asia,Luoyang,China,CN,,
 PNQ,"Pune, India",Asia Pacific,Pune,India,IN,18.5821,73.919701
 JRG,"Sambalpur, India",Asia Pacific,Jharsuguda,India,IN,21.9135,84.0504
+AVA,"Anshun, China",Asia,Anshun,China,CN,,
 ABQ,"Albuquerque, NM, United States",North America,Albuquerque,United States,US,35.040199,-106.609001
 ANC,"Anchorage, AK, United States",North America,Anchorage,United States,US,61.1744,-149.996002
 IAD,"Ashburn, VA, United States",North America,Dulles,United States,US,38.9445,-77.455803

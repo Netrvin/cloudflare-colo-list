@@ -222,6 +222,13 @@
         "name": "Austin, TX, United States",
         "region": "North America"
     },
+    "AVA": {
+        "cca2": "CN",
+        "city": "Anshun",
+        "country": "China",
+        "name": "Anshun, China",
+        "region": "Asia"
+    },
     "BAH": {
         "cca2": "BH",
         "city": "Manama",
@@ -1675,15 +1682,6 @@
         "lon": 48.818001,
         "name": "Astara, Azerbaijan",
         "region": "Middle East"
-    },
-    "LLW": {
-        "cca2": "MW",
-        "city": "Lilongwe",
-        "country": "Malawi",
-        "lat": -13.7894,
-        "lon": 33.780998,
-        "name": "Lilongwe, Malawi",
-        "region": "Africa"
     },
     "LOS": {
         "cca2": "NG",
