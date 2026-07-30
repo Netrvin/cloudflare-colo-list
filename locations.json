@@ -792,6 +792,14 @@
         "region": "Asia Pacific"
     },
     {
+        "cca2": "KZ",
+        "city": "Astana",
+        "iata": "NQZ",
+        "lat": 51.022202,
+        "lon": 71.466904,
+        "region": "Asia Pacific"
+    },
+    {
         "cca2": "AR",
         "city": "Neuquen",
         "iata": "NQN",
