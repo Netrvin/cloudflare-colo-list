@@ -265,6 +265,15 @@
         "name": "Barcelona, Spain",
         "region": "Europe"
     },
+    "BDQ": {
+        "cca2": "IN",
+        "city": "Vadodara",
+        "country": "India",
+        "lat": 22.336201,
+        "lon": 73.226303,
+        "name": "Jamnagar, India",
+        "region": "Asia Pacific"
+    },
     "BEG": {
         "cca2": "RS",
         "city": "Belgrad",
