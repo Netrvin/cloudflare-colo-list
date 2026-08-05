@@ -1692,6 +1692,15 @@
         "name": "Astara, Azerbaijan",
         "region": "Middle East"
     },
+    "LLW": {
+        "cca2": "MW",
+        "city": "Lilongwe",
+        "country": "Malawi",
+        "lat": -13.7894,
+        "lon": 33.780998,
+        "name": "Lilongwe, Malawi",
+        "region": "Africa"
+    },
     "LOS": {
         "cca2": "NG",
         "city": "Lagos",
