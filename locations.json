@@ -192,6 +192,14 @@
         "region": "South America"
     },
     {
+        "cca2": "IN",
+        "city": "Udaipur",
+        "iata": "UDR",
+        "lat": 24.617701,
+        "lon": 73.896103,
+        "region": "Asia Pacific"
+    },
+    {
         "cca2": "BR",
         "city": "Uberlandia",
         "iata": "UDI",
