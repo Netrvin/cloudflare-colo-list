@@ -78,6 +78,15 @@
         "name": "Agra, India",
         "region": "Asia Pacific"
     },
+    "AIP": {
+        "cca2": "IN",
+        "city": "",
+        "country": "India",
+        "lat": 31.4338,
+        "lon": 75.758797,
+        "name": "Jalandhar, India",
+        "region": "Asia Pacific"
+    },
     "AKL": {
         "cca2": "NZ",
         "city": "Auckland",

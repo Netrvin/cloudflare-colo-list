@@ -2402,6 +2402,14 @@
     {
         "cca2": "IN",
         "city": "",
+        "iata": "AIP",
+        "lat": 31.4338,
+        "lon": 75.758797,
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "IN",
+        "city": "",
         "iata": "AGR",
         "lat": 27.1558,
         "lon": 77.960899,
