@@ -1658,6 +1658,13 @@
         "name": "London, United Kingdom",
         "region": "Europe"
     },
+    "LHW": {
+        "cca2": "CN",
+        "city": "Lanzhou",
+        "country": "China",
+        "name": "Lanzhou, China",
+        "region": "Asia"
+    },
     "LIM": {
         "cca2": "PE",
         "city": "Lima",
