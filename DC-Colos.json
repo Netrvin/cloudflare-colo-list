@@ -942,6 +942,15 @@
         "name": "Dubai, United Arab Emirates",
         "region": "Middle East"
     },
+    "DYU": {
+        "cca2": "TJ",
+        "city": "Dushanbe",
+        "country": "Tajikistan",
+        "lat": 38.543301,
+        "lon": 68.824997,
+        "name": "Dushanbe, Tajikistan",
+        "region": "Asia Pacific"
+    },
     "EBB": {
         "cca2": "UG",
         "city": "Kampala",

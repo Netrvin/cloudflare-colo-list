@@ -1696,6 +1696,14 @@
         "region": "Africa"
     },
     {
+        "cca2": "TJ",
+        "city": "Dushanbe",
+        "iata": "DYU",
+        "lat": 38.543301,
+        "lon": 68.824997,
+        "region": "Asia Pacific"
+    },
+    {
         "cca2": "AE",
         "city": "Dubai",
         "iata": "DXB",
