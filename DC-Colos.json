@@ -1737,6 +1737,15 @@
         "name": "La Paz, Bolivia",
         "region": "South America"
     },
+    "LUH": {
+        "cca2": "IN",
+        "city": "",
+        "country": "India",
+        "lat": 30.8547,
+        "lon": 75.952599,
+        "name": "Ludhiana, India",
+        "region": "Asia Pacific"
+    },
     "LUN": {
         "cca2": "ZM",
         "city": "Lusaka",

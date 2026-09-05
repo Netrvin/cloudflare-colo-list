@@ -1064,6 +1064,14 @@
         "region": "Africa"
     },
     {
+        "cca2": "IN",
+        "city": "",
+        "iata": "LUH",
+        "lat": 30.8547,
+        "lon": 75.952599,
+        "region": "Asia Pacific"
+    },
+    {
         "cca2": "BO",
         "city": "La Paz / El Alto",
         "iata": "LPB",
