@@ -2080,14 +2080,6 @@
         "region": "Asia Pacific"
     },
     {
-        "cca2": "US",
-        "city": "Buffalo",
-        "iata": "BUF",
-        "lat": 42.940498,
-        "lon": -78.732201,
-        "region": "North America"
-    },
-    {
         "cca2": "HU",
         "city": "Budapest",
         "iata": "BUD",
