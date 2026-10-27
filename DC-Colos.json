@@ -11,10 +11,10 @@
     "ABJ": {
         "cca2": "CI",
         "city": "Abidjan",
-        "country": "Ivory Coast",
+        "country": "Côte d’Ivoire",
         "lat": 5.26139,
         "lon": -3.92629,
-        "name": "Abidjan, Ivory Coast",
+        "name": "Abidjan, Côte d’Ivoire",
         "region": "Africa"
     },
     "ABQ": {
@@ -23,7 +23,7 @@
         "country": "United States",
         "lat": 35.040199,
         "lon": -106.609001,
-        "name": "Albuquerque, NM, United States",
+        "name": "Albuquerque, United States",
         "region": "North America"
     },
     "ACC": {
@@ -66,7 +66,7 @@
         "country": "Australia",
         "lat": -34.945,
         "lon": 138.531006,
-        "name": "Adelaide, SA, Australia",
+        "name": "Adelaide, Australia",
         "region": "Oceania"
     },
     "AGR": {
@@ -156,7 +156,7 @@
         "country": "United States",
         "lat": 61.1744,
         "lon": -149.996002,
-        "name": "Anchorage, AK, United States",
+        "name": "Anchorage, United States",
         "region": "North America"
     },
     "ARI": {
@@ -189,10 +189,10 @@
     "ASK": {
         "cca2": "CI",
         "city": "Yamoussoukro",
-        "country": "Ivory Coast",
+        "country": "Côte d’Ivoire",
         "lat": 6.90317,
         "lon": -5.36558,
-        "name": "Yamoussoukro, Ivory Coast",
+        "name": "Yamoussoukro, Côte d’Ivoire",
         "region": "Africa"
     },
     "ASU": {
@@ -219,7 +219,7 @@
         "country": "United States",
         "lat": 33.6367,
         "lon": -84.428101,
-        "name": "Atlanta, GA, United States",
+        "name": "Atlanta, United States",
         "region": "North America"
     },
     "AUS": {
@@ -228,7 +228,7 @@
         "country": "United States",
         "lat": 30.1945,
         "lon": -97.669899,
-        "name": "Austin, TX, United States",
+        "name": "Austin, United States",
         "region": "North America"
     },
     "AVA": {
@@ -325,7 +325,7 @@
         "country": "United States",
         "lat": 44.8074,
         "lon": -68.828102,
-        "name": "Bangor, ME, United States",
+        "name": "Bangor, United States",
         "region": "North America"
     },
     "BGW": {
@@ -370,7 +370,7 @@
         "country": "Australia",
         "lat": -27.384199,
         "lon": 153.117004,
-        "name": "Brisbane, QLD, Australia",
+        "name": "Brisbane, Australia",
         "region": "Oceania"
     },
     "BOD": {
@@ -406,7 +406,7 @@
         "country": "United States",
         "lat": 42.3643,
         "lon": -71.005203,
-        "name": "Boston, MA, United States",
+        "name": "Boston, United States",
         "region": "North America"
     },
     "BRU": {
@@ -494,7 +494,7 @@
         "country": "Australia",
         "lat": -35.3069,
         "lon": 149.195007,
-        "name": "Canberra, ACT, Australia",
+        "name": "Canberra, Australia",
         "region": "Oceania"
     },
     "CCU": {
@@ -530,7 +530,7 @@
         "country": "Brazil",
         "lat": -26.7762,
         "lon": -51.0125,
-        "name": "Caçador, Brazil",
+        "name": "Cacador, Brazil",
         "region": "South America"
     },
     "CGB": {
@@ -614,7 +614,7 @@
         "country": "United States",
         "lat": 41.411701,
         "lon": -81.8498,
-        "name": "Cleveland, OH, United States",
+        "name": "Cleveland, United States",
         "region": "North America"
     },
     "CLO": {
@@ -632,7 +632,7 @@
         "country": "United States",
         "lat": 35.214001,
         "lon": -80.9431,
-        "name": "Charlotte, NC, United States",
+        "name": "Charlotte, United States",
         "region": "North America"
     },
     "CMB": {
@@ -650,7 +650,7 @@
         "country": "United States",
         "lat": 39.998001,
         "lon": -82.891899,
-        "name": "Columbus, OH, United States",
+        "name": "Columbus, United States",
         "region": "North America"
     },
     "CNF": {
@@ -797,7 +797,7 @@
         "country": "Tanzania",
         "lat": -6.87811,
         "lon": 39.202599,
-        "name": "Dar Es Salaam, Tanzania",
+        "name": "Dar es Salaam, Tanzania",
         "region": "Africa"
     },
     "DEL": {
@@ -815,7 +815,7 @@
         "country": "United States",
         "lat": 39.861698,
         "lon": -104.672997,
-        "name": "Denver, CO, United States",
+        "name": "Denver, United States",
         "region": "North America"
     },
     "DFW": {
@@ -824,7 +824,7 @@
         "country": "United States",
         "lat": 32.896801,
         "lon": -97.038002,
-        "name": "Dallas, TX, United States",
+        "name": "Dallas, United States",
         "region": "North America"
     },
     "DKR": {
@@ -894,7 +894,7 @@
         "country": "United States",
         "lat": 42.212399,
         "lon": -83.353401,
-        "name": "Detroit, MI, United States",
+        "name": "Detroit, United States",
         "region": "North America"
     },
     "DUB": {
@@ -975,7 +975,7 @@
         "country": "United States",
         "lat": 40.692501,
         "lon": -74.168701,
-        "name": "Newark, NJ, United States",
+        "name": "Newark, United States",
         "region": "North America"
     },
     "EZE": {
@@ -1045,7 +1045,7 @@
         "country": "United States",
         "lat": 43.582001,
         "lon": -96.741898,
-        "name": "Sioux Falls, SD, United States",
+        "name": "Sioux Falls, United States",
         "region": "North America"
     },
     "FUK": {
@@ -1178,14 +1178,14 @@
         "country": "Brazil",
         "lat": -16.632,
         "lon": -49.220699,
-        "name": "Goiânia, Brazil",
+        "name": "Goiania, Brazil",
         "region": "South America"
     },
     "HAK": {
         "cca2": "CN",
-        "city": "Haikou",
+        "city": "Chengmai",
         "country": "China",
-        "name": "Haikou, China",
+        "name": "Chengmai, China",
         "region": "Asia"
     },
     "HAM": {
@@ -1254,7 +1254,7 @@
         "country": "United States",
         "lat": 21.318701,
         "lon": -157.921997,
-        "name": "Honolulu, HI, United States",
+        "name": "Honolulu, United States",
         "region": "North America"
     },
     "HRE": {
@@ -1288,7 +1288,7 @@
         "country": "United States",
         "lat": 38.9445,
         "lon": -77.455803,
-        "name": "Ashburn, VA, United States",
+        "name": "Ashburn, United States",
         "region": "North America"
     },
     "IAH": {
@@ -1297,7 +1297,7 @@
         "country": "United States",
         "lat": 29.9844,
         "lon": -95.3414,
-        "name": "Houston, TX, United States",
+        "name": "Houston, United States",
         "region": "North America"
     },
     "ICN": {
@@ -1315,7 +1315,7 @@
         "country": "United States",
         "lat": 39.7173,
         "lon": -86.294403,
-        "name": "Indianapolis, IN, United States",
+        "name": "Indianapolis, United States",
         "region": "North America"
     },
     "ISB": {
@@ -1360,7 +1360,7 @@
         "country": "United States",
         "lat": 30.494101,
         "lon": -81.687897,
-        "name": "Jacksonville, FL, United States",
+        "name": "Jacksonville, United States",
         "region": "North America"
     },
     "JDO": {
@@ -1396,7 +1396,7 @@
         "country": "Djibouti",
         "lat": 11.5473,
         "lon": 43.1595,
-        "name": "Djibouti City, Djibouti",
+        "name": "Djibouti, Djibouti",
         "region": "Africa"
     },
     "JNB": {
@@ -1497,9 +1497,9 @@
     },
     "KHN": {
         "cca2": "CN",
-        "city": "Xinyu",
+        "city": "Nanchang",
         "country": "China",
-        "name": "Xinyu, China",
+        "name": "Nanchang, China",
         "region": "Asia"
     },
     "KIN": {
@@ -1592,7 +1592,7 @@
         "country": "United States",
         "lat": 36.080101,
         "lon": -115.152,
-        "name": "Las Vegas, NV, United States",
+        "name": "Las Vegas, United States",
         "region": "North America"
     },
     "LAX": {
@@ -1601,7 +1601,7 @@
         "country": "United States",
         "lat": 33.942501,
         "lon": -118.407997,
-        "name": "Los Angeles, CA, United States",
+        "name": "Los Angeles, United States",
         "region": "North America"
     },
     "LCA": {
@@ -1804,7 +1804,7 @@
         "country": "United States",
         "lat": 39.2976,
         "lon": -94.713898,
-        "name": "Kansas City, MO, United States",
+        "name": "Kansas City, United States",
         "region": "North America"
     },
     "MCT": {
@@ -1831,7 +1831,7 @@
         "country": "Australia",
         "lat": -37.673302,
         "lon": 144.843002,
-        "name": "Melbourne, VIC, Australia",
+        "name": "Melbourne, Australia",
         "region": "Oceania"
     },
     "MEM": {
@@ -1840,7 +1840,7 @@
         "country": "United States",
         "lat": 35.0424,
         "lon": -89.9767,
-        "name": "Memphis, TN, United States",
+        "name": "Memphis, United States",
         "region": "North America"
     },
     "MEX": {
@@ -1866,7 +1866,7 @@
         "country": "United States",
         "lat": 25.7932,
         "lon": -80.290604,
-        "name": "Miami, FL, United States",
+        "name": "Miami, United States",
         "region": "North America"
     },
     "MLA": {
@@ -1875,7 +1875,7 @@
         "country": "Malta",
         "lat": 35.857498,
         "lon": 14.4775,
-        "name": "Santa Venera, Malta",
+        "name": "Valletta, Malta",
         "region": "Europe"
     },
     "MLE": {
@@ -1884,7 +1884,7 @@
         "country": "Maldives",
         "lat": 4.19183,
         "lon": 73.529099,
-        "name": "Malé, Maldives",
+        "name": "Male, Maldives",
         "region": "Asia Pacific"
     },
     "MLG": {
@@ -1938,7 +1938,7 @@
         "country": "United States",
         "lat": 44.882,
         "lon": -93.221802,
-        "name": "Minneapolis, MN, United States",
+        "name": "Minneapolis, United States",
         "region": "North America"
     },
     "MSQ": {
@@ -2010,7 +2010,7 @@
         "country": "Argentina",
         "lat": -38.949001,
         "lon": -68.155701,
-        "name": "Neuquén, Argentina",
+        "name": "Neuquen, Argentina",
         "region": "South America"
     },
     "NQZ": {
@@ -2037,7 +2037,7 @@
         "country": "Brazil",
         "lat": -26.879999,
         "lon": -48.651402,
-        "name": "Timbó, Brazil",
+        "name": "Timbo, Brazil",
         "region": "South America"
     },
     "OKA": {
@@ -2055,7 +2055,7 @@
         "country": "United States",
         "lat": 35.393101,
         "lon": -97.6007,
-        "name": "Oklahoma City, OK, United States",
+        "name": "Oklahoma City, United States",
         "region": "North America"
     },
     "OMA": {
@@ -2064,7 +2064,7 @@
         "country": "United States",
         "lat": 41.3032,
         "lon": -95.894096,
-        "name": "Omaha, NE, United States",
+        "name": "Omaha, United States",
         "region": "North America"
     },
     "ORD": {
@@ -2073,7 +2073,7 @@
         "country": "United States",
         "lat": 41.9786,
         "lon": -87.9048,
-        "name": "Chicago, IL, United States",
+        "name": "Chicago, United States",
         "region": "North America"
     },
     "ORF": {
@@ -2082,7 +2082,7 @@
         "country": "United States",
         "lat": 36.8946,
         "lon": -76.201202,
-        "name": "Norfolk, VA, United States",
+        "name": "Norfolk, United States",
         "region": "North America"
     },
     "ORN": {
@@ -2154,7 +2154,7 @@
         "country": "United States",
         "lat": 45.588699,
         "lon": -122.598,
-        "name": "Portland, OR, United States",
+        "name": "Portland, United States",
         "region": "North America"
     },
     "PER": {
@@ -2163,7 +2163,7 @@
         "country": "Australia",
         "lat": -31.9403,
         "lon": 115.967003,
-        "name": "Perth, WA, Australia",
+        "name": "Perth, Australia",
         "region": "Oceania"
     },
     "PHL": {
@@ -2181,7 +2181,7 @@
         "country": "United States",
         "lat": 33.434299,
         "lon": -112.012001,
-        "name": "Phoenix, AZ, United States",
+        "name": "Phoenix, United States",
         "region": "North America"
     },
     "PIT": {
@@ -2190,14 +2190,14 @@
         "country": "United States",
         "lat": 40.491501,
         "lon": -80.232903,
-        "name": "Pittsburgh, PA, United States",
+        "name": "Pittsburgh, United States",
         "region": "North America"
     },
     "PKX": {
         "cca2": "CN",
-        "city": "Langfang",
+        "city": "Beijing",
         "country": "China",
-        "name": "Langfang, China",
+        "name": "Beijing, China",
         "region": "Asia"
     },
     "PMO": {
@@ -2248,10 +2248,10 @@
     "POS": {
         "cca2": "TT",
         "city": "Port of Spain",
-        "country": "Trinidad and Tobago",
+        "country": "Trinidad & Tobago",
         "lat": 10.5954,
         "lon": -61.3372,
-        "name": "Port of Spain, Trinidad and Tobago",
+        "name": "Port of Spain, Trinidad & Tobago",
         "region": "South America"
     },
     "PPT": {
@@ -2266,10 +2266,10 @@
     "PRG": {
         "cca2": "CZ",
         "city": "Prague",
-        "country": "Czech Republic",
+        "country": "Czechia",
         "lat": 50.1008,
         "lon": 14.26,
-        "name": "Prague, Czech Republic",
+        "name": "Prague, Czechia",
         "region": "Europe"
     },
     "PRN": {
@@ -2293,7 +2293,7 @@
         "country": "Mexico",
         "lat": 20.6173,
         "lon": -100.185997,
-        "name": "Queretaro, MX, Mexico",
+        "name": "Queretaro, Mexico",
         "region": "North America"
     },
     "QWJ": {
@@ -2320,7 +2320,7 @@
         "country": "United States",
         "lat": 35.877602,
         "lon": -78.787498,
-        "name": "Durham, NC, United States",
+        "name": "Durham, United States",
         "region": "North America"
     },
     "REC": {
@@ -2338,7 +2338,7 @@
         "country": "United States",
         "lat": 37.505199,
         "lon": -77.319702,
-        "name": "Richmond, VA, United States",
+        "name": "Richmond, United States",
         "region": "North America"
     },
     "RIX": {
@@ -2374,7 +2374,7 @@
         "country": "United States",
         "lat": 32.733601,
         "lon": -117.190002,
-        "name": "San Diego, CA, United States",
+        "name": "San Diego, United States",
         "region": "North America"
     },
     "SAP": {
@@ -2392,7 +2392,7 @@
         "country": "United States",
         "lat": 29.533701,
         "lon": -98.469803,
-        "name": "San Antonio, TX, United States",
+        "name": "San Antonio, United States",
         "region": "North America"
     },
     "SCL": {
@@ -2419,7 +2419,7 @@
         "country": "United States",
         "lat": 47.449001,
         "lon": -122.308998,
-        "name": "Seattle, WA, United States",
+        "name": "Seattle, United States",
         "region": "North America"
     },
     "SFO": {
@@ -2428,7 +2428,7 @@
         "country": "United States",
         "lat": 37.618999,
         "lon": -122.375,
-        "name": "San Francisco, CA, United States",
+        "name": "San Francisco, United States",
         "region": "North America"
     },
     "SGN": {
@@ -2462,7 +2462,7 @@
         "country": "United States",
         "lat": 37.362598,
         "lon": -121.929001,
-        "name": "San Jose, CA, United States",
+        "name": "San Jose, United States",
         "region": "North America"
     },
     "SJK": {
@@ -2520,10 +2520,10 @@
     "SKP": {
         "cca2": "MK",
         "city": "Skopje",
-        "country": "North Macedonia",
+        "country": "Macedonia",
         "lat": 41.961601,
         "lon": 21.621401,
-        "name": "Skopje, North Macedonia",
+        "name": "Skopje, Macedonia",
         "region": "Europe"
     },
     "SLC": {
@@ -2532,7 +2532,7 @@
         "country": "United States",
         "lat": 40.788399,
         "lon": -111.977997,
-        "name": "Salt Lake City, UT, United States",
+        "name": "Salt Lake City, United States",
         "region": "North America"
     },
     "SMF": {
@@ -2541,7 +2541,7 @@
         "country": "United States",
         "lat": 38.6954,
         "lon": -121.591003,
-        "name": "Sacramento, CA, United States",
+        "name": "Sacramento, United States",
         "region": "North America"
     },
     "SOD": {
@@ -2586,7 +2586,7 @@
         "country": "United States",
         "lat": 38.748699,
         "lon": -90.370003,
-        "name": "St. Louis, MO, United States",
+        "name": "St. Louis, United States",
         "region": "North America"
     },
     "STR": {
@@ -2613,7 +2613,7 @@
         "country": "Australia",
         "lat": -33.946098,
         "lon": 151.177002,
-        "name": "Sydney, NSW, Australia",
+        "name": "Sydney, Australia",
         "region": "Oceania"
     },
     "SZX": {
@@ -2670,7 +2670,7 @@
         "country": "United States",
         "lat": 30.3965,
         "lon": -84.350304,
-        "name": "Tallahassee, FL, United States",
+        "name": "Tallahassee, United States",
         "region": "North America"
     },
     "TLL": {
@@ -2713,7 +2713,7 @@
         "country": "United States",
         "lat": 27.9755,
         "lon": -82.533203,
-        "name": "Tampa, FL, United States",
+        "name": "Tampa, United States",
         "region": "North America"
     },
     "TPE": {
@@ -2755,7 +2755,7 @@
         "country": "Brazil",
         "lat": -18.883612,
         "lon": -48.225277,
-        "name": "Uberlândia, Brazil",
+        "name": "Uberlandia, Brazil",
         "region": "South America"
     },
     "UDR": {
@@ -2922,7 +2922,7 @@
         "country": "Canada",
         "lat": 45.4706,
         "lon": -73.740799,
-        "name": "Montréal, QC, Canada",
+        "name": "Montréal, Canada",
         "region": "North America"
     },
     "YVR": {
@@ -2931,7 +2931,7 @@
         "country": "Canada",
         "lat": 49.193901,
         "lon": -123.183998,
-        "name": "Vancouver, BC, Canada",
+        "name": "Vancouver, Canada",
         "region": "North America"
     },
     "YWG": {
@@ -2940,7 +2940,7 @@
         "country": "Canada",
         "lat": 49.91,
         "lon": -97.239899,
-        "name": "Winnipeg, MB, Canada",
+        "name": "Winnipeg, Canada",
         "region": "North America"
     },
     "YXE": {
@@ -2949,7 +2949,7 @@
         "country": "Canada",
         "lat": 52.170799,
         "lon": -106.699997,
-        "name": "Saskatoon, SK, Canada",
+        "name": "Saskatoon, Canada",
         "region": "North America"
     },
     "YYC": {
@@ -2958,7 +2958,7 @@
         "country": "Canada",
         "lat": 51.113899,
         "lon": -114.019997,
-        "name": "Calgary, AB, Canada",
+        "name": "Calgary, Canada",
         "region": "North America"
     },
     "YYZ": {
@@ -2967,7 +2967,7 @@
         "country": "Canada",
         "lat": 43.6772,
         "lon": -79.6306,
-        "name": "Toronto, ON, Canada",
+        "name": "Toronto, Canada",
         "region": "North America"
     },
     "ZAG": {
