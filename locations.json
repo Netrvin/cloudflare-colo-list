@@ -1353,6 +1353,14 @@
     },
     {
         "cca2": "IN",
+        "city": "Jaipur",
+        "iata": "JAI",
+        "lat": 26.8242,
+        "lon": 75.812202,
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "IN",
         "city": "Chandigarh",
         "iata": "IXC",
         "lat": 30.6735,

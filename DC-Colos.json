@@ -1354,6 +1354,15 @@
         "name": "Chandigarh, India",
         "region": "Asia Pacific"
     },
+    "JAI": {
+        "cca2": "IN",
+        "city": "Jaipur",
+        "country": "India",
+        "lat": 26.8242,
+        "lon": 75.812202,
+        "name": "“Jaipur”, India",
+        "region": "Asia Pacific"
+    },
     "JAX": {
         "cca2": "US",
         "city": "Jacksonville",
