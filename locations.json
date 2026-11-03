@@ -952,14 +952,6 @@
         "region": "Asia Pacific"
     },
     {
-        "cca2": "MX",
-        "city": "Mexico City",
-        "iata": "MEX",
-        "lat": 19.4363,
-        "lon": -99.072098,
-        "region": "North America"
-    },
-    {
         "cca2": "US",
         "city": "Memphis",
         "iata": "MEM",
