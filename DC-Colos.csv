@@ -169,6 +169,7 @@ ORN,"Oran, Algeria",Africa,Oran,Algeria,DZ,35.623901,-0.621183
 OUA,"Ouagadougou, Burkina Faso",Africa,Ouagadougou,Burkina Faso,BF,12.3532,-1.51242
 MRU,"Port Louis, Mauritius",Africa,Port Louis,Mauritius,MU,-20.430201,57.683601
 TUN,"Tunis, Tunisia",Africa,Tunis,Tunisia,TN,36.851002,10.2272
+FIH,"Kinshasa, Congo - Kinshasa",Africa,Kinshasa,Congo - Kinshasa,CD,-4.38575,15.4446
 CAI,"Cairo, Egypt",Africa,Cairo,Egypt,EG,30.121901,31.4056
 WDH,"Windhoek, Namibia",Africa,Windhoek,Namibia,NA,-22.4799,17.4709
 ASK,"Yamoussoukro, Côte d’Ivoire",Africa,Yamoussoukro,Côte d’Ivoire,CI,6.90317,-5.36558
@@ -306,7 +307,7 @@ KIN,"Kingston, Jamaica",North America,Kingston,Jamaica,JM,17.935699,-76.787498
 LAS,"Las Vegas, United States",North America,Las Vegas,United States,US,36.080101,-115.152
 LAX,"Los Angeles, United States",North America,Los Angeles,United States,US,33.942501,-118.407997
 MEM,"Memphis, United States",North America,Memphis,United States,US,35.0424,-89.9767
-MEX,"Mexico City, Mexico",North America,Mexico City,Mexico,MX,,
+MEX,"Mexico City, Mexico",North America,Mexico City,Mexico,MX,19.4363,-99.072098
 MIA,"Miami, United States",North America,Miami,United States,US,25.7932,-80.290604
 MSP,"Minneapolis, United States",North America,Minneapolis,United States,US,44.882,-93.221802
 YUL,"Montréal, Canada",North America,Montreal,Canada,CA,45.4706,-73.740799

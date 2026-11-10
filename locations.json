@@ -952,6 +952,14 @@
         "region": "Asia Pacific"
     },
     {
+        "cca2": "MX",
+        "city": "Mexico City",
+        "iata": "MEX",
+        "lat": 19.4363,
+        "lon": -99.072098,
+        "region": "North America"
+    },
+    {
         "cca2": "US",
         "city": "Memphis",
         "iata": "MEM",
@@ -1638,6 +1646,14 @@
         "lat": -27.670279,
         "lon": -48.552502,
         "region": "South America"
+    },
+    {
+        "cca2": "CD",
+        "city": "Kinshasa",
+        "iata": "FIH",
+        "lat": -4.38575,
+        "lon": 15.4446,
+        "region": "Africa"
     },
     {
         "cca2": "IT",

@@ -996,6 +996,15 @@
         "name": "Rome, Italy",
         "region": "Europe"
     },
+    "FIH": {
+        "cca2": "CD",
+        "city": "Kinshasa",
+        "country": "Congo - Kinshasa",
+        "lat": -4.38575,
+        "lon": 15.4446,
+        "name": "Kinshasa, Congo - Kinshasa",
+        "region": "Africa"
+    },
     "FLN": {
         "cca2": "BR",
         "city": "Florianopolis",
@@ -1856,6 +1865,8 @@
         "cca2": "MX",
         "city": "Mexico City",
         "country": "Mexico",
+        "lat": 19.4363,
+        "lon": -99.072098,
         "name": "Mexico City, Mexico",
         "region": "North America"
     },
