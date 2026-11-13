@@ -2893,6 +2893,13 @@
         "name": "Wroclaw, Poland",
         "region": "Europe"
     },
+    "WUH": {
+        "cca2": "CN",
+        "city": "Wuhan",
+        "country": "China",
+        "name": "Wuhan, China",
+        "region": "Asia"
+    },
     "XAP": {
         "cca2": "BR",
         "city": "Chapeco",
