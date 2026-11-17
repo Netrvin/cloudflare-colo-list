@@ -288,6 +288,14 @@
         "region": "South America"
     },
     {
+        "cca2": "IN",
+        "city": "",
+        "iata": "TEZ",
+        "lat": 26.709101,
+        "lon": 92.784698,
+        "region": "Asia Pacific"
+    },
+    {
         "cca2": "GE",
         "city": "Tbilisi",
         "iata": "TBS",

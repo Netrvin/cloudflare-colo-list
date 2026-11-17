@@ -2664,6 +2664,15 @@
         "name": "Tongren, China",
         "region": "Asia"
     },
+    "TEZ": {
+        "cca2": "IN",
+        "city": "",
+        "country": "India",
+        "lat": 26.709101,
+        "lon": 92.784698,
+        "name": "Nagaon, India",
+        "region": "Asia Pacific"
+    },
     "TGU": {
         "cca2": "HN",
         "city": "Tegucigalpa",
